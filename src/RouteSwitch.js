@@ -1,17 +1,15 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Header from "./components/homepage/Header";
-import Cover from "./components/homepage/Cover";
-import PopularProducts from "./components/PopularProducts";
+import HomePage from "./components/homepage/HomePage";
 
 const RouteSwitch = () => {
   return (
     <BrowserRouter>
       <Header />
-      <Cover />
-      <PopularProducts />
-      {/* <Routes><Route /></Routes> */}
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+      </Routes>
     </BrowserRouter>
   );
 };
-
 export default RouteSwitch;

@@ -1,5 +1,5 @@
-import ProductPreview from "./product/ProductPreview";
-import NewArrival from "../data/men-new-arrival.json";
+import ProductPreview from "../product/ProductPreview";
+import NewArrival from "../../data/men-new-arrival.json";
 
 console.log(NewArrival.results);
 const fourItems = NewArrival.results.slice(5, 9);
