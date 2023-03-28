@@ -1,4 +1,4 @@
-import ImageCover from "../images/cover.png";
+import ImageCover from "../../images/cover.png";
 
 const Cover = () => {
   return (
@@ -8,7 +8,7 @@ const Cover = () => {
         <span className="subtext">New collection</span>
         <h1>NEW STREETWEAR OUTFITS</h1>
       </div>
-      <button>SHOW MORE</button>
+      <button className="button-show-more">SHOW MORE</button>
     </section>
   );
 };

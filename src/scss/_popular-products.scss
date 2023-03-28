@@ -1,0 +1,13 @@
+.section-popular-products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .popular-products{
+    padding: 0 50px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+  }
+}

@@ -1,12 +1,15 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Header from "./components/Header";
-import Cover from "./components/Cover";
+import Header from "./components/homepage/Header";
+import Cover from "./components/homepage/Cover";
+import PopularProducts from "./components/PopularProducts";
+
 const RouteSwitch = () => {
   return (
     <BrowserRouter>
       <Header />
       <Cover />
-      <Routes>{/* <Route /> */}</Routes>
+      <PopularProducts />
+      {/* <Routes><Route /></Routes> */}
     </BrowserRouter>
   );
 };

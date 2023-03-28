@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Catamaran&family=Inter&family=Itim&family=Open+Sans&family=Raleway&family=Roboto&family=Roboto+Condensed&family=Sedgwick+Ave&family=Shadows+Into+Light&display=swap');
-@import './common';
 @import './_variables';
+@import './common';
 @import './header';
 @import './cover.scss';
+@import './popular-products';
+@import './product-preview';
