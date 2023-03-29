@@ -29,3 +29,15 @@ h2:after {
   font-weight: bold;
   margin: 20px;
 }
+
+.remove-link-style{
+  text-decoration: none;
+}
+
+.white-font{
+  color: $white-font;
+}
+
+.dark-font{
+  color: $dark-color;
+}

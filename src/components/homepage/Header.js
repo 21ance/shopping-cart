@@ -1,10 +1,13 @@
+import { Link } from "react-router-dom";
 import { MdFavoriteBorder, MdOutlineShoppingCart } from "react-icons/md";
 
 const Header = (props) => {
   return (
     <header>
       <div className="left-side">
-        <span className="header-title">MEN CLOTHING</span>
+        <Link to="/" className="remove-link-style white-font">
+          <span className="header-title">MEN CLOTHING</span>
+        </Link>
         <span className="header-left-divider">|</span>
         <nav className="header-nav">
           <ul>
