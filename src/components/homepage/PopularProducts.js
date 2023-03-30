@@ -3,7 +3,7 @@ import ProductPreview from "../product/ProductPreview";
 import NewArrival from "../../data/men-new-arrival.json";
 
 // console.log(NewArrival.results);
-const fourItems = NewArrival.results.slice(5, 9);
+const fourItems = NewArrival.results.slice(0, 4);
 console.log(fourItems);
 const PopularProducts = () => {
   return (
@@ -20,7 +20,8 @@ const PopularProducts = () => {
             >
               <ProductPreview
                 name={item.name}
-                image={item.images[0].baseUrl}
+                defaultImage={item.galleryImages[0].baseUrl}
+                hoveredImage={item.images[0].baseUrl}
                 price={item.price.value}
               />
             </Link>

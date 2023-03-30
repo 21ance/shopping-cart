@@ -1,10 +1,15 @@
 const ProductPreview = (props) => {
-  const { image, name, price } = props;
+  const { defaultImage, hoveredImage, name, price } = props;
   return (
     <article className="product-preview">
-      <img src={image} alt={name} />
+      <img
+        src={defaultImage}
+        alt={name}
+        onMouseOver={(e) => (e.target.src = hoveredImage)}
+        onMouseOut={(e) => (e.target.src = defaultImage)}
+      />
       <h3>{name}</h3>
-      <span>${price}</span>
+      <span className="product-price">${price}</span>
     </article>
   );
 };

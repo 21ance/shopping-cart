@@ -1,0 +1,11 @@
+.images-list{
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 80px);
+  cursor: pointer;
+  gap: 5px;
+
+  img {
+    width: 90px;
+  }
+}
