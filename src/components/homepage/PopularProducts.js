@@ -20,7 +20,7 @@ const PopularProducts = () => {
             >
               <ProductPreview
                 name={item.name}
-                defaultImage={item.galleryImages[0].baseUrl}
+                defaultImage={item.articles[0].logoPicture[0].baseUrl}
                 hoveredImage={item.images[0].baseUrl}
                 price={item.price.value}
               />
