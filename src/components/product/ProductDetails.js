@@ -1,7 +1,14 @@
 import { useState } from "react";
 import { useLocation } from "react-router-dom";
 import ProductImageSlider from "./ProductImageSlider";
-import { MdFavoriteBorder, MdFavorite } from "react-icons/md";
+import ExtraDetails from "./ExtraDetails";
+import {
+  MdFavoriteBorder,
+  MdFavorite,
+  MdOutlineShoppingBag,
+  MdOutlineLocalShipping,
+  MdShoppingBag,
+} from "react-icons/md";
 // import Counter from "../Counter";
 
 const ProductDetails = (props) => {
@@ -69,7 +76,7 @@ const ProductDetails = (props) => {
 
   return (
     <main className="product-details">
-      <article className="product-images">
+      <figure className="product-images">
         <ProductImageSlider
           mainImage={item.images[0].baseUrl}
           imageList={item.galleryImages}
@@ -80,7 +87,7 @@ const ProductDetails = (props) => {
         <span className="add-favorite" onClick={handleAddToFav}>
           {isFavorite ? <MdFavorite /> : <MdFavoriteBorder />}
         </span>
-      </article>
+      </figure>
       <aside className="product-rightside">
         <h3>{item.name}</h3>
         <span className="product-price">${item.price.value}</span>
@@ -104,11 +111,12 @@ const ProductDetails = (props) => {
               );
             })}
         </select>
-        <p className="error-message">{message}</p>
+        {message !== "" && <p className="error-message">{message}</p>}
         {/* <Counter isTitle={true} quantity={quantity} setQuantity={setQuantity} /> */}
         <button className="button-add-bag" onClick={handleAddToBag}>
-          ADD TO BAG
+          <MdShoppingBag /> Add to bag
         </button>
+        <ExtraDetails />
       </aside>
     </main>
   );

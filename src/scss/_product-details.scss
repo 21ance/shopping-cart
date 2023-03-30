@@ -68,13 +68,44 @@
       background-color: $dark-color;
       color: $white-font;
       border: 0;
-      padding: 20px;
+      padding: 15px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 2px;
     }
 
     .error-message {
       font-size: 0.7rem;
       color: red;
       margin-top: -10px;
+    }
+
+    .extra-details {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      background-color: $white-font;
+      padding: 10px;
+      border-radius: 8px;
+
+      .details {
+        display: grid;
+        grid-template-columns: 1.5rem auto;
+
+        .title, .icon {
+          align-self: center;
+        }
+  
+        .icon {
+          font-size: 1.3rem;
+        }
+
+        .para1, .para2{
+          grid-column: 1 / -1;
+          font-size: 0.8rem;
+        }
+      }
     }
   }
 }

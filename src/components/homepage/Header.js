@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { MdFavoriteBorder, MdOutlineShoppingCart } from "react-icons/md";
+import { MdFavoriteBorder, MdOutlineShoppingBag } from "react-icons/md";
 
 const Header = (props) => {
   const { cart, favorites } = props;
@@ -25,7 +25,7 @@ const Header = (props) => {
           <span className="icon-counter">{favorites.length}</span>
         </span>
         <span className="header-icon">
-          <MdOutlineShoppingCart />
+          <MdOutlineShoppingBag />
           <span className="icon-counter">{cart.length}</span>
         </span>
       </div>

@@ -10,7 +10,8 @@ const RouteSwitch = () => {
 
   useEffect(() => {
     console.log(cart);
-  }, [cart]);
+    console.log(favorites);
+  }, [cart, favorites]);
 
   return (
     <BrowserRouter>
