@@ -6,9 +6,20 @@
   .product-images{
     display: grid;
     grid-template-columns: 90px auto;
+    position: relative;
 
     .main-image{
       height: calc(100vh - 80px);
+    }
+
+    .add-favorite{
+      position: absolute;
+      right: 0;
+      top: 50px;
+
+      svg {
+        font-size: 1.3rem;
+      }
     }
   }
 
@@ -58,6 +69,12 @@
       color: $white-font;
       border: 0;
       padding: 20px;
+    }
+
+    .error-message {
+      font-size: 0.7rem;
+      color: red;
+      margin-top: -10px;
     }
   }
 }

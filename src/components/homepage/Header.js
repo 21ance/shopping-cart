@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { MdFavoriteBorder, MdOutlineShoppingCart } from "react-icons/md";
 
 const Header = (props) => {
+  const { cart, favorites } = props;
   return (
     <header>
       <div className="left-side">
@@ -21,11 +22,11 @@ const Header = (props) => {
       <div className="right-side">
         <span className="header-icon">
           <MdFavoriteBorder />
-          <span className="icon-counter">0</span>
+          <span className="icon-counter">{favorites.length}</span>
         </span>
         <span className="header-icon">
           <MdOutlineShoppingCart />
-          <span className="icon-counter">0</span>
+          <span className="icon-counter">{cart.length}</span>
         </span>
       </div>
     </header>

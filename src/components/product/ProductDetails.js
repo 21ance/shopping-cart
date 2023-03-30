@@ -1,14 +1,23 @@
 import { useState } from "react";
 import { useLocation } from "react-router-dom";
 import ProductImageSlider from "./ProductImageSlider";
+import { MdFavoriteBorder, MdFavorite } from "react-icons/md";
 // import Counter from "../Counter";
 
-const ProductDetails = () => {
+const ProductDetails = (props) => {
   const location = useLocation();
   const item = location.state.item;
   const [mainImage, setMainImage] = useState(item.images[0].baseUrl);
+
+  const { setCart, favorites, setFavorites } = props;
   // const [quantity, setQuantity] = useState(0);
   const [size, setSize] = useState("Select Size");
+  const [message, setMessage] = useState("");
+  const [isFavorite, setIsFavorite] = useState(() => {
+    return favorites.filter((e) => e.id === item.code).length !== 0
+      ? true
+      : false;
+  });
 
   function handleMouseOver(e) {
     setMainImage(e.target.src);
@@ -16,6 +25,46 @@ const ProductDetails = () => {
 
   function handleMouseOut() {
     setMainImage(item.images[0].baseUrl);
+  }
+
+  function handleAddToBag() {
+    if (size === "Select Size") {
+      setMessage("Please select a size before adding to bag");
+      return;
+    }
+    setCart((prev) => [
+      ...prev,
+      {
+        id: item.code,
+        product: item.name,
+        price: item.price.value,
+        size: size,
+        quantity: 1,
+      },
+    ]);
+  }
+
+  function handleAddToFav() {
+    if (favorites.filter((e) => e.id === item.code).length === 0) {
+      setIsFavorite(true);
+      setFavorites((prev) => [
+        ...prev,
+        {
+          id: item.code,
+          product: item.name,
+          price: item.price.value,
+          size: size,
+          quantity: 1,
+        },
+      ]);
+    } else {
+      setIsFavorite(false);
+      setFavorites(
+        favorites.filter((fav) => {
+          return fav.id !== item.code;
+        })
+      );
+    }
   }
 
   return (
@@ -28,6 +77,9 @@ const ProductDetails = () => {
           handleMouseOut={handleMouseOut}
         />
         <img src={mainImage} alt="main_image" className="main-image" />
+        <span className="add-favorite" onClick={handleAddToFav}>
+          {isFavorite ? <MdFavorite /> : <MdFavoriteBorder />}
+        </span>
       </article>
       <aside className="product-rightside">
         <h3>{item.name}</h3>
@@ -35,7 +87,10 @@ const ProductDetails = () => {
         <select
           name="Size"
           id="productSize"
-          onChange={(e) => setSize(e.target.value)}
+          onChange={(e) => {
+            setSize(e.target.value);
+            setMessage("");
+          }}
           value={size}
         >
           <option>Select Size</option>
@@ -49,8 +104,11 @@ const ProductDetails = () => {
               );
             })}
         </select>
+        <p className="error-message">{message}</p>
         {/* <Counter isTitle={true} quantity={quantity} setQuantity={setQuantity} /> */}
-        <button className="button-add-bag">ADD TO BAG</button>
+        <button className="button-add-bag" onClick={handleAddToBag}>
+          ADD TO BAG
+        </button>
       </aside>
     </main>
   );
