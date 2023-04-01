@@ -1,21 +1,19 @@
 import { Link } from "react-router-dom";
 import ProductPreview from "../product/ProductPreview";
-import NewArrival from "../../data/men-new-arrival.json";
+import db from "../../data/db";
 
-// console.log(NewArrival.results);
-const fourItems = NewArrival.results.slice(0, 4);
-console.log(fourItems);
+const fourItems = db.newarrival.results.slice(0, 4);
 const PopularProducts = () => {
   return (
     <section className="section-popular-products">
       <h2>POPULAR PRODUCTS</h2>
       <div className="popular-products">
         {fourItems.map((item) => {
+          console.log(item);
           return (
             <Link
               key={item.code}
-              to={`/products/${item.code}`}
-              state={{ item }}
+              to={`/categories/newarrival/${item.code}`}
               className="remove-link-style dark-font"
             >
               <ProductPreview

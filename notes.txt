@@ -20,13 +20,13 @@ men_hoodiessweatshirts_hoodies
 men_hoodiessweatshirts_sweatshirts
 
 SHIRTS
-men_shirts_longsleeved
 men_shirts_casual
-men_shirt_dressed_slimfit
-men_shirt_dressed_regularfit
-men_shirts_denim
 men_shirts_shortsleeved
+men_shirts_longsleeved
+men_shirts_denim
 men_shirts_flannel
+//men_shirt_dressed_slimfit
+//men_shirt_dressed_regularfit
 
 PANTS JEANS
 men_jeans_joggers

@@ -1,0 +1,2063 @@
+{
+  "results": [
+    {
+      "code": "1130142_group_001",
+      "name": "Regular Fit Denim Overshirt",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/0b/8a/0b8a005bdbf13c8eafe7c88030888ba25954d2bb.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/0b/8a/0b8a005bdbf13c8eafe7c88030888ba25954d2bb.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9459711770625",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1130142001",
+          "name": "Regular Fit Denim Overshirt",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/0b/8a/0b8a005bdbf13c8eafe7c88030888ba25954d2bb.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/0b/8a/0b8a005bdbf13c8eafe7c88030888ba25954d2bb.jpg"
+            }
+          ],
+          "pk": "9431795761153",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 29.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 29.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b5/36/b53690c331521b0e370c0a597c85a2171ca74f09.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/b5/36/b53690c331521b0e370c0a597c85a2171ca74f09.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b5/36/b53690c331521b0e370c0a597c85a2171ca74f09.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/b5/36/b53690c331521b0e370c0a597c85a2171ca74f09.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEzMDE0Ml9ncm91cF8wMDFfZW5fdXM7MTEzMDE0MjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Denim blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "75"
+          },
+          "rgbColor": "#79829D",
+          "genArticle": "130142001237",
+          "turnToSku": "1130142001001",
+          "videoId": "114522d60fadbec594df1f398715338eb313e2d6",
+          "plpVideo": false
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1130142001",
+        "name": "Regular Fit Denim Overshirt",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/0b/8a/0b8a005bdbf13c8eafe7c88030888ba25954d2bb.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/0b/8a/0b8a005bdbf13c8eafe7c88030888ba25954d2bb.jpg"
+          }
+        ],
+        "pk": "9431795761153",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 29.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 29.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b5/36/b53690c331521b0e370c0a597c85a2171ca74f09.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/b5/36/b53690c331521b0e370c0a597c85a2171ca74f09.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b5/36/b53690c331521b0e370c0a597c85a2171ca74f09.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/b5/36/b53690c331521b0e370c0a597c85a2171ca74f09.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEzMDE0Ml9ncm91cF8wMDFfZW5fdXM7MTEzMDE0MjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Denim blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "75"
+        },
+        "rgbColor": "#79829D",
+        "genArticle": "130142001237",
+        "turnToSku": "1130142001001",
+        "videoId": "114522d60fadbec594df1f398715338eb313e2d6",
+        "plpVideo": false
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        },
+        {
+          "orderFilter": 369,
+          "filterCode": "M"
+        },
+        {
+          "orderFilter": 372,
+          "filterCode": "XL"
+        },
+        {
+          "orderFilter": 370,
+          "filterCode": "L"
+        },
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1130142001",
+        "1130142002"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEzMDE0Ml9ncm91cF8wMDFfZW5fdXM7MTEzMDE0MjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+      "searchEngineProductId": "1130142_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1130142001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#79829D",
+        "#2E2E30"
+      ],
+      "articleColorNames": [
+        "Denim blue",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shirts_longsleeved",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d6/e9/d6e96e749948b666e8bd1b3aa986fb0cab04759c.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/9a/6e/9a6e3560a45e58474d7fd0dd48204a761d4c264c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/01/f4/01f4a9c6af8816ebd358d8eb955b7706a77497f5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/89/5b/895ba1968ff7b9be8137f9fb022ce7f742614873.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ba/e0/bae0fcb16ff5056b9df6655ad151a26acd1d47be.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d6/e9/d6e96e749948b666e8bd1b3aa986fb0cab04759c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/5b/895ba1968ff7b9be8137f9fb022ce7f742614873.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ba/e0/bae0fcb16ff5056b9df6655ad151a26acd1d47be.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/3f/bc/3fbcc1eb16dea6f7d6ddb1559740d315d041ec69.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/3f/bc/3fbcc1eb16dea6f7d6ddb1559740d315d041ec69.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9a/6e/9a6e3560a45e58474d7fd0dd48204a761d4c264c.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/01/f4/01f4a9c6af8816ebd358d8eb955b7706a77497f5.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1130142_group_002",
+      "name": "Regular Fit Denim Overshirt",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c8/64/c864fe53cb08ffc61c1f20d1b0035f781a05777e.jpg],origin[dam],category[men_shirts_longsleeved],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/c8/64/c864fe53cb08ffc61c1f20d1b0035f781a05777e.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9466182696961",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1130142002",
+          "name": "Regular Fit Denim Overshirt",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/c8/64/c864fe53cb08ffc61c1f20d1b0035f781a05777e.jpg],origin[dam],category[men_shirts_longsleeved],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/c8/64/c864fe53cb08ffc61c1f20d1b0035f781a05777e.jpg"
+            }
+          ],
+          "pk": "9431794155521",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 29.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 29.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/7f/f8/7ff8a809bf3f70ae3794bcd7e9c1e34a9c894f8b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/7f/f8/7ff8a809bf3f70ae3794bcd7e9c1e34a9c894f8b.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/7f/f8/7ff8a809bf3f70ae3794bcd7e9c1e34a9c894f8b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/7f/f8/7ff8a809bf3f70ae3794bcd7e9c1e34a9c894f8b.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEzMDE0Ml9ncm91cF8wMDJfZW5fdXM7MTEzMDE0MjAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#2E2E30",
+          "genArticle": "130142002237",
+          "turnToSku": "1130142002001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1130142002",
+        "name": "Regular Fit Denim Overshirt",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/c8/64/c864fe53cb08ffc61c1f20d1b0035f781a05777e.jpg],origin[dam],category[men_shirts_longsleeved],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/c8/64/c864fe53cb08ffc61c1f20d1b0035f781a05777e.jpg"
+          }
+        ],
+        "pk": "9431794155521",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 29.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 29.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/7f/f8/7ff8a809bf3f70ae3794bcd7e9c1e34a9c894f8b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/7f/f8/7ff8a809bf3f70ae3794bcd7e9c1e34a9c894f8b.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/7f/f8/7ff8a809bf3f70ae3794bcd7e9c1e34a9c894f8b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/7f/f8/7ff8a809bf3f70ae3794bcd7e9c1e34a9c894f8b.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEzMDE0Ml9ncm91cF8wMDJfZW5fdXM7MTEzMDE0MjAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#2E2E30",
+        "genArticle": "130142002237",
+        "turnToSku": "1130142002001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        },
+        {
+          "orderFilter": 369,
+          "filterCode": "M"
+        },
+        {
+          "orderFilter": 370,
+          "filterCode": "L"
+        },
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1130142002",
+        "1130142001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEzMDE0Ml9ncm91cF8wMDJfZW5fdXM7MTEzMDE0MjAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+      "searchEngineProductId": "1130142_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1130142002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#2E2E30",
+        "#79829D"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Denim blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shirts_longsleeved",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1d/3d/1d3d87427404c6dceac28ddaf718c70285014899.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/3e/4d/3e4da4dc5c84b1e12b06c957fc58c96a6436b44a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9b/c6/9bc60d9851a4072d48e748f8cee1fcdecae74b63.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/9b/c6/9bc60d9851a4072d48e748f8cee1fcdecae74b63.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/98/21/982148eacf3a95df258592ff8b455aa6bc039c9c.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/9d/7b/9d7b5f2b6c4ddc8c107760c51c294b2a73602771.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/3e/4d/3e4da4dc5c84b1e12b06c957fc58c96a6436b44a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/98/21/982148eacf3a95df258592ff8b455aa6bc039c9c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9d/7b/9d7b5f2b6c4ddc8c107760c51c294b2a73602771.jpg],origin[dam],category[men_shirts_longsleeved],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/1d/3d/1d3d87427404c6dceac28ddaf718c70285014899.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1121154_group_002",
+      "name": "Regular Fit Denim Shirt",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 44.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 44.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/8b/4f/8b4f49c5b060337ae5910d6864d0820a3170d346.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/8b/4f/8b4f49c5b060337ae5910d6864d0820a3170d346.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9459786252289",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 44.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 44.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1121154002",
+          "name": "Regular Fit Denim Shirt",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/8b/4f/8b4f49c5b060337ae5910d6864d0820a3170d346.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/8b/4f/8b4f49c5b060337ae5910d6864d0820a3170d346.jpg"
+            }
+          ],
+          "pk": "9434584612865",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 44.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 44.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/8a/bc/8abca547d82416387288f8334bfeecf10309b68d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/8a/bc/8abca547d82416387288f8334bfeecf10309b68d.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/8a/bc/8abca547d82416387288f8334bfeecf10309b68d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/8a/bc/8abca547d82416387288f8334bfeecf10309b68d.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyMTE1NF9ncm91cF8wMDJfZW5fdXM7MTEyMTE1NDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Dark denim blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "75"
+          },
+          "rgbColor": "#79829D",
+          "genArticle": "121154002237",
+          "turnToSku": "1121154002001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1121154002",
+        "name": "Regular Fit Denim Shirt",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/8b/4f/8b4f49c5b060337ae5910d6864d0820a3170d346.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/8b/4f/8b4f49c5b060337ae5910d6864d0820a3170d346.jpg"
+          }
+        ],
+        "pk": "9434584612865",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 44.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 44.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/8a/bc/8abca547d82416387288f8334bfeecf10309b68d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/8a/bc/8abca547d82416387288f8334bfeecf10309b68d.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/8a/bc/8abca547d82416387288f8334bfeecf10309b68d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/8a/bc/8abca547d82416387288f8334bfeecf10309b68d.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyMTE1NF9ncm91cF8wMDJfZW5fdXM7MTEyMTE1NDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Dark denim blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "75"
+        },
+        "rgbColor": "#79829D",
+        "genArticle": "121154002237",
+        "turnToSku": "1121154002001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 372,
+          "filterCode": "XL"
+        },
+        {
+          "orderFilter": 369,
+          "filterCode": "M"
+        },
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        },
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        },
+        {
+          "orderFilter": 370,
+          "filterCode": "L"
+        },
+        {
+          "orderFilter": 375,
+          "filterCode": "XXL"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1121154002",
+        "1121154001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyMTE1NF9ncm91cF8wMDJfZW5fdXM7MTEyMTE1NDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+      "searchEngineProductId": "1121154_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1121154002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#79829D",
+        "#2E2E30"
+      ],
+      "articleColorNames": [
+        "Dark denim blue",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shirts_longsleeved",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/34/c3/34c3f63ac819a2cf4da5a5e468e1e465b36407d6.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/56/16/561603e0fa6afd29b15a6c61b8d8ec60afcb60ad.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/06/87/068752e9e199b7701c5272038fdef340890918e9.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6d/ff/6dff46b8cb763fca17daa11a498fb40379faf6e9.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/19/a8/19a8cb11128fb7195a621f703d76531affcd0739.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/34/c3/34c3f63ac819a2cf4da5a5e468e1e465b36407d6.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6d/ff/6dff46b8cb763fca17daa11a498fb40379faf6e9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/af/17/af17d19fdd9e3100fe392fc55c7d5d8dce3ba79c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/56/16/561603e0fa6afd29b15a6c61b8d8ec60afcb60ad.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/06/87/068752e9e199b7701c5272038fdef340890918e9.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/af/17/af17d19fdd9e3100fe392fc55c7d5d8dce3ba79c.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/19/a8/19a8cb11128fb7195a621f703d76531affcd0739.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1004945_group_027",
+      "name": "Denim Overshirt",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/cc/dc/ccdc9e8c38db1608889c739ba6a09f3ea378277d.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/cc/dc/ccdc9e8c38db1608889c739ba6a09f3ea378277d.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9455577792513",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1004945027",
+          "name": "Denim Overshirt",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/cc/dc/ccdc9e8c38db1608889c739ba6a09f3ea378277d.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/cc/dc/ccdc9e8c38db1608889c739ba6a09f3ea378277d.jpg"
+            }
+          ],
+          "pk": "9434559610881",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d1/84/d18458beac6526c3380adf4524ca49be3bd7d892.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/d1/84/d18458beac6526c3380adf4524ca49be3bd7d892.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d1/84/d18458beac6526c3380adf4524ca49be3bd7d892.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/d1/84/d18458beac6526c3380adf4524ca49be3bd7d892.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjdfZW5fdXM7MTAwNDk0NTAyN19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "008000",
+            "text": "Light green",
+            "filterName": "Green_008000",
+            "hybrisCode": "98"
+          },
+          "rgbColor": "#A5B092",
+          "genArticle": "004945027237",
+          "turnToSku": "1004945027001"
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "H&M MAN"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1004945027",
+        "name": "Denim Overshirt",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/cc/dc/ccdc9e8c38db1608889c739ba6a09f3ea378277d.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/cc/dc/ccdc9e8c38db1608889c739ba6a09f3ea378277d.jpg"
+          }
+        ],
+        "pk": "9434559610881",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d1/84/d18458beac6526c3380adf4524ca49be3bd7d892.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/d1/84/d18458beac6526c3380adf4524ca49be3bd7d892.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d1/84/d18458beac6526c3380adf4524ca49be3bd7d892.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/d1/84/d18458beac6526c3380adf4524ca49be3bd7d892.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjdfZW5fdXM7MTAwNDk0NTAyN19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "008000",
+          "text": "Light green",
+          "filterName": "Green_008000",
+          "hybrisCode": "98"
+        },
+        "rgbColor": "#A5B092",
+        "genArticle": "004945027237",
+        "turnToSku": "1004945027001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 370,
+          "filterCode": "L"
+        },
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        },
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        },
+        {
+          "orderFilter": 372,
+          "filterCode": "XL"
+        },
+        {
+          "orderFilter": 381,
+          "filterCode": "3XL"
+        },
+        {
+          "orderFilter": 375,
+          "filterCode": "XXL"
+        },
+        {
+          "orderFilter": 369,
+          "filterCode": "M"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1004945027",
+        "1004945023",
+        "1004945024",
+        "1004945026"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjdfZW5fdXM7MTAwNDk0NTAyN19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+      "searchEngineProductId": "1004945_group_027_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1004945027.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#A5B092",
+        "#E8E9E7",
+        "#999588",
+        "#D8AD8F"
+      ],
+      "articleColorNames": [
+        "Light green",
+        "Cream",
+        "Beige",
+        "Apricot pink"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shirts_denim",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2b/69/2b69166592b96a6a8337ad5b2dfed0b3753f7d32.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/2b/69/2b69166592b96a6a8337ad5b2dfed0b3753f7d32.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/99/5c/995c13b58e362bf05f7c0ab815c65fd8a2473484.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ce/b7/ceb7c016e38123d4355eda7acadb0cfb91b76114.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/cf/93/cf93e817fb4c64add2c68bf617b97e08f38d7ef2.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/cf/93/cf93e817fb4c64add2c68bf617b97e08f38d7ef2.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ce/b7/ceb7c016e38123d4355eda7acadb0cfb91b76114.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/99/5c/995c13b58e362bf05f7c0ab815c65fd8a2473484.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f7/6e/f76e5f00441f68359b42d26218c78a27622937b7.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/f7/6e/f76e5f00441f68359b42d26218c78a27622937b7.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1121154_group_001",
+      "name": "Regular Fit Denim Shirt",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 44.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 44.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2e/54/2e5434ab3145020ff5ff7a8a853b96f6dce367a4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/2e/54/2e5434ab3145020ff5ff7a8a853b96f6dce367a4.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9459786285057",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 44.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 44.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1121154001",
+          "name": "Regular Fit Denim Shirt",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2e/54/2e5434ab3145020ff5ff7a8a853b96f6dce367a4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/2e/54/2e5434ab3145020ff5ff7a8a853b96f6dce367a4.jpg"
+            }
+          ],
+          "pk": "9434561216513",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 44.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 44.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/bc/33bc77877262f0cb644a9f1f04087549e9636271.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/33/bc/33bc77877262f0cb644a9f1f04087549e9636271.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/bc/33bc77877262f0cb644a9f1f04087549e9636271.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/33/bc/33bc77877262f0cb644a9f1f04087549e9636271.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyMTE1NF9ncm91cF8wMDFfZW5fdXM7MTEyMTE1NDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#2E2E30",
+          "genArticle": "121154001237",
+          "turnToSku": "1121154001001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1121154001",
+        "name": "Regular Fit Denim Shirt",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2e/54/2e5434ab3145020ff5ff7a8a853b96f6dce367a4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/2e/54/2e5434ab3145020ff5ff7a8a853b96f6dce367a4.jpg"
+          }
+        ],
+        "pk": "9434561216513",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 44.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 44.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/bc/33bc77877262f0cb644a9f1f04087549e9636271.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/33/bc/33bc77877262f0cb644a9f1f04087549e9636271.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/bc/33bc77877262f0cb644a9f1f04087549e9636271.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/33/bc/33bc77877262f0cb644a9f1f04087549e9636271.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyMTE1NF9ncm91cF8wMDFfZW5fdXM7MTEyMTE1NDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#2E2E30",
+        "genArticle": "121154001237",
+        "turnToSku": "1121154001001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 369,
+          "filterCode": "M"
+        },
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        },
+        {
+          "orderFilter": 370,
+          "filterCode": "L"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1121154001",
+        "1121154002"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyMTE1NF9ncm91cF8wMDFfZW5fdXM7MTEyMTE1NDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+      "searchEngineProductId": "1121154_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1121154001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#2E2E30",
+        "#79829D"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Dark denim blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shirts_longsleeved",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ab/17/ab1701964ad724ebf113c14a8d3a06bf2206451f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/33/b7/33b78447748ca98c0a7728fe6d7fee2969fbd18f.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/b7/33b78447748ca98c0a7728fe6d7fee2969fbd18f.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/66/b2/66b2e67c7a5f3848d152fbf19970d30241b52420.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/20/6a20207c7114739b57290c26477b60a905fb3bc9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/7f/95/7f95cce38689fa2cf0fd43c48234b035e9d22f02.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e8/bf/e8bf8860c1f16785c3d02e866578398992dca42e.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e8/bf/e8bf8860c1f16785c3d02e866578398992dca42e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/7f/95/7f95cce38689fa2cf0fd43c48234b035e9d22f02.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ab/17/ab1701964ad724ebf113c14a8d3a06bf2206451f.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/b2/66b2e67c7a5f3848d152fbf19970d30241b52420.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6a/20/6a20207c7114739b57290c26477b60a905fb3bc9.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1004945_group_026",
+      "name": "Denim Overshirt",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/3a/843a0ee78e050c47680af68ac3e1baf439222db2.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/84/3a/843a0ee78e050c47680af68ac3e1baf439222db2.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9456423960577",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1004945026",
+          "name": "Denim Overshirt",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/3a/843a0ee78e050c47680af68ac3e1baf439222db2.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/84/3a/843a0ee78e050c47680af68ac3e1baf439222db2.jpg"
+            }
+          ],
+          "pk": "9434577502209",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/91/c2/91c25f1af2a1d0c7c0e7fe297cee2859fff26009.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/91/c2/91c25f1af2a1d0c7c0e7fe297cee2859fff26009.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/91/c2/91c25f1af2a1d0c7c0e7fe297cee2859fff26009.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/91/c2/91c25f1af2a1d0c7c0e7fe297cee2859fff26009.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjZfZW5fdXM7MTAwNDk0NTAyNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFA500",
+            "text": "Apricot pink",
+            "filterName": "Orange_FFA500",
+            "hybrisCode": "34"
+          },
+          "rgbColor": "#D8AD8F",
+          "genArticle": "004945026237",
+          "turnToSku": "1004945026001"
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "H&M MAN"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1004945026",
+        "name": "Denim Overshirt",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/3a/843a0ee78e050c47680af68ac3e1baf439222db2.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/84/3a/843a0ee78e050c47680af68ac3e1baf439222db2.jpg"
+          }
+        ],
+        "pk": "9434577502209",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/91/c2/91c25f1af2a1d0c7c0e7fe297cee2859fff26009.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/91/c2/91c25f1af2a1d0c7c0e7fe297cee2859fff26009.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/91/c2/91c25f1af2a1d0c7c0e7fe297cee2859fff26009.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/91/c2/91c25f1af2a1d0c7c0e7fe297cee2859fff26009.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjZfZW5fdXM7MTAwNDk0NTAyNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFA500",
+          "text": "Apricot pink",
+          "filterName": "Orange_FFA500",
+          "hybrisCode": "34"
+        },
+        "rgbColor": "#D8AD8F",
+        "genArticle": "004945026237",
+        "turnToSku": "1004945026001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 375,
+          "filterCode": "XXL"
+        },
+        {
+          "orderFilter": 370,
+          "filterCode": "L"
+        },
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        },
+        {
+          "orderFilter": 369,
+          "filterCode": "M"
+        },
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        },
+        {
+          "orderFilter": 372,
+          "filterCode": "XL"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1004945026",
+        "1004945023",
+        "1004945024",
+        "1004945027"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjZfZW5fdXM7MTAwNDk0NTAyNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+      "searchEngineProductId": "1004945_group_026_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1004945026.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#D8AD8F",
+        "#E8E9E7",
+        "#999588",
+        "#A5B092"
+      ],
+      "articleColorNames": [
+        "Apricot pink",
+        "Cream",
+        "Beige",
+        "Light green"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shirts_denim",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/74/4b/744b3c9082664e93df162404b3827483ec4ceb79.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e0/ab/e0ab12d34a79d7cd699e6887dd7c08d4eedc3cec.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/09/8c/098c6101fbda44117b265c059483788c179d9e4c.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/0d/30/0d3001c84ec4557da1d531abf991b552d59e2a2c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e0/ab/e0ab12d34a79d7cd699e6887dd7c08d4eedc3cec.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/b1/12/b112bc387440615df0a30660a841668e5c197a83.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b1/12/b112bc387440615df0a30660a841668e5c197a83.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/09/8c/098c6101fbda44117b265c059483788c179d9e4c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/0d/30/0d3001c84ec4557da1d531abf991b552d59e2a2c.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/74/4b/744b3c9082664e93df162404b3827483ec4ceb79.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1004945_group_023",
+      "name": "Denim Overshirt",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/65/80/658025a8a3dc77f627a2a3000ba38f75e16f6fa4.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/65/80/658025a8a3dc77f627a2a3000ba38f75e16f6fa4.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9456422551553",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1004945023",
+          "name": "Denim Overshirt",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/65/80/658025a8a3dc77f627a2a3000ba38f75e16f6fa4.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/65/80/658025a8a3dc77f627a2a3000ba38f75e16f6fa4.jpg"
+            }
+          ],
+          "pk": "9434568523777",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/79/28/79286e84ef41b5384d029de1d069956fd4004860.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/79/28/79286e84ef41b5384d029de1d069956fd4004860.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/79/28/79286e84ef41b5384d029de1d069956fd4004860.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/79/28/79286e84ef41b5384d029de1d069956fd4004860.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjNfZW5fdXM7MTAwNDk0NTAyM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFFFFF",
+            "text": "Cream",
+            "filterName": "White_FFFFFF",
+            "hybrisCode": "10"
+          },
+          "rgbColor": "#E8E9E7",
+          "genArticle": "004945023237",
+          "turnToSku": "1004945023001",
+          "videoId": "6806980d396f2ea6b9eef891559c6e55ae220837",
+          "plpVideo": false
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "H&M MAN"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1004945023",
+        "name": "Denim Overshirt",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/65/80/658025a8a3dc77f627a2a3000ba38f75e16f6fa4.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/65/80/658025a8a3dc77f627a2a3000ba38f75e16f6fa4.jpg"
+          }
+        ],
+        "pk": "9434568523777",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/79/28/79286e84ef41b5384d029de1d069956fd4004860.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/79/28/79286e84ef41b5384d029de1d069956fd4004860.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/79/28/79286e84ef41b5384d029de1d069956fd4004860.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/79/28/79286e84ef41b5384d029de1d069956fd4004860.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjNfZW5fdXM7MTAwNDk0NTAyM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFFFFF",
+          "text": "Cream",
+          "filterName": "White_FFFFFF",
+          "hybrisCode": "10"
+        },
+        "rgbColor": "#E8E9E7",
+        "genArticle": "004945023237",
+        "turnToSku": "1004945023001",
+        "videoId": "6806980d396f2ea6b9eef891559c6e55ae220837",
+        "plpVideo": false
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 375,
+          "filterCode": "XXL"
+        },
+        {
+          "orderFilter": 369,
+          "filterCode": "M"
+        },
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        },
+        {
+          "orderFilter": 372,
+          "filterCode": "XL"
+        },
+        {
+          "orderFilter": 370,
+          "filterCode": "L"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1004945023",
+        "1004945024",
+        "1004945026",
+        "1004945027"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjNfZW5fdXM7MTAwNDk0NTAyM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+      "searchEngineProductId": "1004945_group_023_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1004945023.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#E8E9E7",
+        "#999588",
+        "#D8AD8F",
+        "#A5B092"
+      ],
+      "articleColorNames": [
+        "Cream",
+        "Beige",
+        "Apricot pink",
+        "Light green"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shirts_denim",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/4f/bb/4fbbb8f557ce116d774fe0153a833e850edb8119.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/53/c4/53c447b0235e7e64ea4cd17900bdaf2e04b14be0.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/a9/66a925b1c84f05687ef0a117c7826ee49d0e7e98.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/66/a9/66a925b1c84f05687ef0a117c7826ee49d0e7e98.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/0a/96/0a96df65290c37dd3bf7f658652537dfdbcdedca.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/10/f2/10f2071f97cb9596625634d208b3dd653473d5ee.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/c4/53c447b0235e7e64ea4cd17900bdaf2e04b14be0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/0a/96/0a96df65290c37dd3bf7f658652537dfdbcdedca.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/10/f2/10f2071f97cb9596625634d208b3dd653473d5ee.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/4f/bb/4fbbb8f557ce116d774fe0153a833e850edb8119.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1004945_group_024",
+      "name": "Denim Overshirt",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/25/15/2515cd17f5dbaf96cf7c236a014639f619f32136.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/25/15/2515cd17f5dbaf96cf7c236a014639f619f32136.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9461965979649",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1004945024",
+          "name": "Denim Overshirt",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/25/15/2515cd17f5dbaf96cf7c236a014639f619f32136.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/25/15/2515cd17f5dbaf96cf7c236a014639f619f32136.jpg"
+            }
+          ],
+          "pk": "9441888632833",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/7a/73/7a7358a1967e75ccdcd293d9e29b62648e197420.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/7a/73/7a7358a1967e75ccdcd293d9e29b62648e197420.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/7a/73/7a7358a1967e75ccdcd293d9e29b62648e197420.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/7a/73/7a7358a1967e75ccdcd293d9e29b62648e197420.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjRfZW5fdXM7MTAwNDk0NTAyNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Beige",
+            "filterName": "",
+            "hybrisCode": "13"
+          },
+          "rgbColor": "#999588",
+          "turnToSku": "1004945024001",
+          "videoId": "5c9139f916ee0159bb52703ac7623080787b5302",
+          "plpVideo": false
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "H&M MAN"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1004945024",
+        "name": "Denim Overshirt",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/25/15/2515cd17f5dbaf96cf7c236a014639f619f32136.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/25/15/2515cd17f5dbaf96cf7c236a014639f619f32136.jpg"
+          }
+        ],
+        "pk": "9441888632833",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/7a/73/7a7358a1967e75ccdcd293d9e29b62648e197420.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/7a/73/7a7358a1967e75ccdcd293d9e29b62648e197420.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/7a/73/7a7358a1967e75ccdcd293d9e29b62648e197420.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/7a/73/7a7358a1967e75ccdcd293d9e29b62648e197420.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjRfZW5fdXM7MTAwNDk0NTAyNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Beige",
+          "filterName": "",
+          "hybrisCode": "13"
+        },
+        "rgbColor": "#999588",
+        "turnToSku": "1004945024001",
+        "videoId": "5c9139f916ee0159bb52703ac7623080787b5302",
+        "plpVideo": false
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1004945024",
+        "1004945023",
+        "1004945026",
+        "1004945027"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAwNDk0NV9ncm91cF8wMjRfZW5fdXM7MTAwNDk0NTAyNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxOw",
+      "searchEngineProductId": "1004945_group_024_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1004945024.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#999588",
+        "#E8E9E7",
+        "#D8AD8F",
+        "#A5B092"
+      ],
+      "articleColorNames": [
+        "Beige",
+        "Cream",
+        "Apricot pink",
+        "Light green"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shirts_denim",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/be/14/be146249bc470bc90f947be57577c02977692d47.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/a0/2f/a02fa9a02c792d3fae3f30529593f049bb6a6978.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/f3/fcf3167521c3c0ba6ba2b06aa81d489ff3d14303.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/be/14/be146249bc470bc90f947be57577c02977692d47.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/75/da/75dae655b73506286b40e61114e911869595b5a4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ed/f7/edf715626d25ccbdf23bd090376f89056926f456.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a0/2f/a02fa9a02c792d3fae3f30529593f049bb6a6978.jpg],origin[dam],category[men_shirts_denim],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/5c/5f/5c5f9248f583f909b4e8c6e53a2d7b9727d1cf5a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ed/f7/edf715626d25ccbdf23bd090376f89056926f456.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/fc/f3/fcf3167521c3c0ba6ba2b06aa81d489ff3d14303.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/5c/5f/5c5f9248f583f909b4e8c6e53a2d7b9727d1cf5a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/75/da/75dae655b73506286b40e61114e911869595b5a4.jpg"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "pageSize": 30,
+    "currentPage": 0,
+    "sort": "stock",
+    "numberOfPages": 1,
+    "totalNumberOfResults": 8,
+    "totalNumberOfResultsUnfiltered": 0
+  },
+  "facets": [
+    {
+      "code": "concepts",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "H&M MAN",
+          "count": 4,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colors",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "beige",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "black",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "blue",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "green",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "orange",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "white",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "fits",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Regular fit",
+          "count": 4,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "contexts",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Casual",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "productTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Shirt",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "ageGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "adult",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "customerGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Man",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "assortmentTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "clothing",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "clothing ",
+          "count": 4,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sizes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "363_xs_3_menswear",
+          "count": 6,
+          "selected": false
+        },
+        {
+          "code": "366_s_3_menswear",
+          "count": 7,
+          "selected": false
+        },
+        {
+          "code": "369_m_3_menswear",
+          "count": 7,
+          "selected": false
+        },
+        {
+          "code": "370_l_3_menswear",
+          "count": 7,
+          "selected": false
+        },
+        {
+          "code": "372_xl_3_menswear",
+          "count": 5,
+          "selected": false
+        },
+        {
+          "code": "375_xxl_3_menswear",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "381_3xl_3_menswear",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sale",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "false",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colorWithNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "black_000000",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "blue_0000ff",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "green_008000",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "orange_ffa500",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "white_ffffff",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "brandNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "H&M",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "clothingStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Overshirt",
+          "count": 6,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "collarStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Turn-down Collar",
+          "count": 4,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "garmentLengths",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Regular length",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sleeveLengths",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Long sleeve",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "patterns",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "solid-color",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "materials",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Cotton",
+          "count": 8,
+          "selected": false
+        },
+        {
+          "code": "Denim",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colourShades",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Blue gray",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "Bright blue",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "Bright green",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Charcoal",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "Ecru",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Khaki green",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Lime",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Olive",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Pastel blue",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "Peach",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Royal blue",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "Taupe",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Wheat",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "allCategories",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "men_all",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "freeTextSearch": "",
+  "categoryCode": "men_shirts_denim",
+  "rangeFacets": [
+    {
+      "code": "priceRange",
+      "range": {
+        "min": 29.99,
+        "max": 44.99,
+        "minSelected": 29.99,
+        "maxSelected": 44.99
+      }
+    }
+  ],
+  "baseUrl": "https://www2.hm.com"
+}

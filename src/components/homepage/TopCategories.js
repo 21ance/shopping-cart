@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import Casual from "../../images/categories/casual.jpg";
 import Hoodie from "../../images/categories/hoodie.avif";
 import Jeans from "../../images/categories/jeans.avif";
@@ -8,10 +9,18 @@ const TopCategories = () => {
     <section className="section-top-categories">
       <h2>TOP CATEGORIES</h2>
       <div className="categories-container">
-        <Category title="Casual" backgroundImage={Casual} />
-        <Category title="Hoodie" backgroundImage={Hoodie} />
-        <Category title="Jeans" backgroundImage={Jeans} />
-        <Category title="Shorts" backgroundImage={Shorts} />
+        <Link to={`/categories/casual`} className="remove-link-style">
+          <Category title="Casual" backgroundImage={Casual} />
+        </Link>
+        <Link to={`/categories/hoodie`} className="remove-link-style">
+          <Category title="Hoodie" backgroundImage={Hoodie} />
+        </Link>
+        <Link to={`/categories/jeans`} className="remove-link-style">
+          <Category title="Jeans" backgroundImage={Jeans} />
+        </Link>
+        <Link to={`/categories/shorts`} className="remove-link-style">
+          <Category title="Shorts" backgroundImage={Shorts} />
+        </Link>
       </div>
     </section>
   );

@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Header from "./components/homepage/Header";
 import HomePage from "./components/homepage/HomePage";
 import ProductDetails from "./components/product/ProductDetails";
+import { CategoryPage } from "./components/category/CategoryPage";
 
 const RouteSwitch = () => {
   const [cart, setCart] = useState([]);
@@ -19,7 +20,7 @@ const RouteSwitch = () => {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route
-          path="/products/:itemCode"
+          path="categories/:category/:itemCode"
           element={
             <ProductDetails
               setCart={setCart}
@@ -28,6 +29,7 @@ const RouteSwitch = () => {
             />
           }
         />
+        <Route path="/categories/:categoryType" element={<CategoryPage />} />
       </Routes>
     </BrowserRouter>
   );

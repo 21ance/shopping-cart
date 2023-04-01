@@ -1,27 +1,26 @@
 import { useState } from "react";
-import { useLocation } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import ProductImageSlider from "./ProductImageSlider";
 import ExtraDetails from "./ExtraDetails";
-import {
-  MdFavoriteBorder,
-  MdFavorite,
-  MdOutlineShoppingBag,
-  MdOutlineLocalShipping,
-  MdShoppingBag,
-} from "react-icons/md";
+import { MdFavoriteBorder, MdFavorite, MdShoppingBag } from "react-icons/md";
+import db from "../../data/db";
 // import Counter from "../Counter";
 
 const ProductDetails = (props) => {
-  const location = useLocation();
-  const item = location.state.item;
-  const [mainImage, setMainImage] = useState(item.images[0].baseUrl);
-
-  const { setCart, favorites, setFavorites } = props;
+  // for counter, commnet out for now
   // const [quantity, setQuantity] = useState(0);
+
+  const { category, itemCode } = useParams();
+  const item = db[category].results.filter((obj) => {
+    return obj.code === itemCode;
+  });
+
+  const [mainImage, setMainImage] = useState(item[0].images[0].baseUrl);
+  const { setCart, favorites, setFavorites } = props;
   const [size, setSize] = useState("Select Size");
   const [message, setMessage] = useState("");
   const [isFavorite, setIsFavorite] = useState(() => {
-    return favorites.filter((e) => e.id === item.code).length !== 0
+    return favorites.filter((e) => e.id === item[0].code).length !== 0
       ? true
       : false;
   });
@@ -31,7 +30,7 @@ const ProductDetails = (props) => {
   }
 
   function handleMouseOut() {
-    setMainImage(item.images[0].baseUrl);
+    setMainImage(item[0].images[0].baseUrl);
   }
 
   function handleAddToBag() {
@@ -42,9 +41,9 @@ const ProductDetails = (props) => {
     setCart((prev) => [
       ...prev,
       {
-        id: item.code,
-        product: item.name,
-        price: item.price.value,
+        id: item[0].code,
+        product: item[0].name,
+        price: item[0].price.value,
         size: size,
         quantity: 1,
       },
@@ -52,14 +51,14 @@ const ProductDetails = (props) => {
   }
 
   function handleAddToFav() {
-    if (favorites.filter((e) => e.id === item.code).length === 0) {
+    if (favorites.filter((e) => e.id === item[0].code).length === 0) {
       setIsFavorite(true);
       setFavorites((prev) => [
         ...prev,
         {
-          id: item.code,
-          product: item.name,
-          price: item.price.value,
+          id: item[0].code,
+          product: item[0].name,
+          price: item[0].price.value,
           size: size,
           quantity: 1,
         },
@@ -68,7 +67,7 @@ const ProductDetails = (props) => {
       setIsFavorite(false);
       setFavorites(
         favorites.filter((fav) => {
-          return fav.id !== item.code;
+          return fav.id !== item[0].code;
         })
       );
     }
@@ -78,8 +77,8 @@ const ProductDetails = (props) => {
     <main className="product-details">
       <figure className="product-images">
         <ProductImageSlider
-          mainImage={item.images[0].baseUrl}
-          imageList={item.galleryImages}
+          mainImage={item[0].images[0].baseUrl}
+          imageList={item[0].galleryImages}
           handleMouseOver={handleMouseOver}
           handleMouseOut={handleMouseOut}
         />
@@ -89,8 +88,8 @@ const ProductDetails = (props) => {
         </span>
       </figure>
       <aside className="product-rightside">
-        <h3>{item.name}</h3>
-        <span className="product-price">${item.price.value}</span>
+        <h3>{item[0].name}</h3>
+        <span className="product-price">${item[0].price.value}</span>
         <select
           name="Size"
           id="productSize"
@@ -101,7 +100,7 @@ const ProductDetails = (props) => {
           value={size}
         >
           <option>Select Size</option>
-          {item.variantSizes
+          {item[0].variantSizes
             .sort((a, b) => (a.orderFilter > b.orderFilter ? 1 : -1))
             .map((size) => {
               return (
