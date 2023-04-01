@@ -1,4 +1,4 @@
-import { CategoryTitle, CategoryLink } from "./CategoryPage";
+import { CategoryTitle, CategoryLink } from "../CategoryPage";
 
 const Shirts = () => {
   return (

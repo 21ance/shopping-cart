@@ -1,0 +1,2989 @@
+{
+  "results": [
+    {
+      "code": "0938875_group_008",
+      "name": "Slim Tapered Jeans",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/a4/4ea4717696ec26c7eee5e37f35ba2b1c1e25d530.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/4e/a4/4ea4717696ec26c7eee5e37f35ba2b1c1e25d530.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9323209981953",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0938875008",
+          "name": "Slim Tapered Jeans",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/a4/4ea4717696ec26c7eee5e37f35ba2b1c1e25d530.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/4e/a4/4ea4717696ec26c7eee5e37f35ba2b1c1e25d530.jpg"
+            }
+          ],
+          "pk": "9322804871169",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/cf/62/cf62e2f1f75d7809c083de87505770bebe68c580.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/cf/62/cf62e2f1f75d7809c083de87505770bebe68c580.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/cf/62/cf62e2f1f75d7809c083de87505770bebe68c580.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/cf/62/cf62e2f1f75d7809c083de87505770bebe68c580.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMDhfZW5fdXM7MDkzODg3NTAwOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Denim blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "74"
+          },
+          "rgbColor": "#AFBBE0",
+          "genArticle": "938875008226",
+          "turnToSku": "0938875008013"
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "DENIM"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0938875008",
+        "name": "Slim Tapered Jeans",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/4e/a4/4ea4717696ec26c7eee5e37f35ba2b1c1e25d530.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/4e/a4/4ea4717696ec26c7eee5e37f35ba2b1c1e25d530.jpg"
+          }
+        ],
+        "pk": "9322804871169",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/cf/62/cf62e2f1f75d7809c083de87505770bebe68c580.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/cf/62/cf62e2f1f75d7809c083de87505770bebe68c580.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/cf/62/cf62e2f1f75d7809c083de87505770bebe68c580.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/cf/62/cf62e2f1f75d7809c083de87505770bebe68c580.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMDhfZW5fdXM7MDkzODg3NTAwOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Denim blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "74"
+        },
+        "rgbColor": "#AFBBE0",
+        "genArticle": "938875008226",
+        "turnToSku": "0938875008013"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 1426,
+          "filterCode": "34/32"
+        },
+        {
+          "orderFilter": 106,
+          "filterCode": "38"
+        },
+        {
+          "orderFilter": 85,
+          "filterCode": "31"
+        },
+        {
+          "orderFilter": 91,
+          "filterCode": "33"
+        },
+        {
+          "orderFilter": 1396,
+          "filterCode": "29/30"
+        },
+        {
+          "orderFilter": 1415,
+          "filterCode": "32/34"
+        },
+        {
+          "orderFilter": 111,
+          "filterCode": "40"
+        },
+        {
+          "orderFilter": 1413,
+          "filterCode": "32/30"
+        },
+        {
+          "orderFilter": 82,
+          "filterCode": "30"
+        },
+        {
+          "orderFilter": 1420,
+          "filterCode": "33/32"
+        },
+        {
+          "orderFilter": 1408,
+          "filterCode": "31/32"
+        },
+        {
+          "orderFilter": 1437,
+          "filterCode": "38/32"
+        },
+        {
+          "orderFilter": 76,
+          "filterCode": "28"
+        },
+        {
+          "orderFilter": 1414,
+          "filterCode": "32/32"
+        },
+        {
+          "orderFilter": 1443,
+          "filterCode": "40/32"
+        },
+        {
+          "orderFilter": 101,
+          "filterCode": "36"
+        },
+        {
+          "orderFilter": 1427,
+          "filterCode": "34/34"
+        },
+        {
+          "orderFilter": 1432,
+          "filterCode": "36/32"
+        },
+        {
+          "orderFilter": 94,
+          "filterCode": "34"
+        },
+        {
+          "orderFilter": 1402,
+          "filterCode": "30/32"
+        },
+        {
+          "orderFilter": 1401,
+          "filterCode": "30/30"
+        },
+        {
+          "orderFilter": 88,
+          "filterCode": "32"
+        },
+        {
+          "orderFilter": 79,
+          "filterCode": "29"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "0938875008",
+        "0938875002",
+        "0938875007",
+        "0938875012"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMDhfZW5fdXM7MDkzODg3NTAwOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "0938875_group_008_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0938875008.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#AFBBE0",
+        "#EEEDE1",
+        "#2E2E30",
+        "#7187BC"
+      ],
+      "articleColorNames": [
+        "Denim blue",
+        "White",
+        "Black",
+        "Denim blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_slim",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c8/bd/c8bd2c5b9c94713d465297b59a2e0ae250047572.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/11/20/1120fbdf1dc629d75543882c95b1245a59a19c1d.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/11/20/1120fbdf1dc629d75543882c95b1245a59a19c1d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/10/48/1048556a7a85cae2102671eac00c58ca2ffe3613.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/10/48/1048556a7a85cae2102671eac00c58ca2ffe3613.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/2f/a0/2fa02992e436b3baea661ea189f0d2c9ae176de0.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2f/a0/2fa02992e436b3baea661ea189f0d2c9ae176de0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/c8/bd/c8bd2c5b9c94713d465297b59a2e0ae250047572.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/61/59/61596df616a44b7a4cec19aa3c8cffe7b0088093.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/61/59/61596df616a44b7a4cec19aa3c8cffe7b0088093.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1166422_group_005",
+      "name": "Regular Tapered Crop Jeans",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1e/ee/1eee85fac4ab0184b70a2a23d431b11d96c97e4c.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/1e/ee/1eee85fac4ab0184b70a2a23d431b11d96c97e4c.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9473124237313",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1166422005",
+          "name": "Regular Tapered Crop Jeans",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/1e/ee/1eee85fac4ab0184b70a2a23d431b11d96c97e4c.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/1e/ee/1eee85fac4ab0184b70a2a23d431b11d96c97e4c.jpg"
+            }
+          ],
+          "pk": "9450958716929",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/8f/6a8fd42cdaece9eb75ac98e4d5d05e430c370fd9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/6a/8f/6a8fd42cdaece9eb75ac98e4d5d05e430c370fd9.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/8f/6a8fd42cdaece9eb75ac98e4d5d05e430c370fd9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/6a/8f/6a8fd42cdaece9eb75ac98e4d5d05e430c370fd9.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE2NjQyMl9ncm91cF8wMDVfZW5fdXM7MTE2NjQyMjAwNV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Denim blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "76"
+          },
+          "rgbColor": "#5F6475",
+          "turnToSku": "1166422005004"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1166422005",
+        "name": "Regular Tapered Crop Jeans",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/1e/ee/1eee85fac4ab0184b70a2a23d431b11d96c97e4c.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/1e/ee/1eee85fac4ab0184b70a2a23d431b11d96c97e4c.jpg"
+          }
+        ],
+        "pk": "9450958716929",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/8f/6a8fd42cdaece9eb75ac98e4d5d05e430c370fd9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/6a/8f/6a8fd42cdaece9eb75ac98e4d5d05e430c370fd9.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6a/8f/6a8fd42cdaece9eb75ac98e4d5d05e430c370fd9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/6a/8f/6a8fd42cdaece9eb75ac98e4d5d05e430c370fd9.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE2NjQyMl9ncm91cF8wMDVfZW5fdXM7MTE2NjQyMjAwNV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Denim blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "76"
+        },
+        "rgbColor": "#5F6475",
+        "turnToSku": "1166422005004"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 76,
+          "filterCode": "28"
+        },
+        {
+          "orderFilter": 82,
+          "filterCode": "30"
+        },
+        {
+          "orderFilter": 85,
+          "filterCode": "31"
+        },
+        {
+          "orderFilter": 94,
+          "filterCode": "34"
+        },
+        {
+          "orderFilter": 117,
+          "filterCode": "42"
+        },
+        {
+          "orderFilter": 101,
+          "filterCode": "36"
+        },
+        {
+          "orderFilter": 106,
+          "filterCode": "38"
+        },
+        {
+          "orderFilter": 79,
+          "filterCode": "29"
+        },
+        {
+          "orderFilter": 91,
+          "filterCode": "33"
+        },
+        {
+          "orderFilter": 88,
+          "filterCode": "32"
+        },
+        {
+          "orderFilter": 111,
+          "filterCode": "40"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1166422005",
+        "1166422003",
+        "1166422004"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE2NjQyMl9ncm91cF8wMDVfZW5fdXM7MTE2NjQyMjAwNV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "1166422_group_005_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1166422005.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#5F6475",
+        "#E8E9E7",
+        "#94989F"
+      ],
+      "articleColorNames": [
+        "Denim blue",
+        "White",
+        "Denim gray"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_tapered",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/be/f5/bef50e24e60589a2c03308f684edc266c85a44bf.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/c4/de/c4de548cd09ca5eae92fbb1c63b6a8578799135d.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c0/88/c088ef528a5325b309c5b01ed7f18a9092850747.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/be/f5/bef50e24e60589a2c03308f684edc266c85a44bf.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c4/de/c4de548cd09ca5eae92fbb1c63b6a8578799135d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/c0/88/c088ef528a5325b309c5b01ed7f18a9092850747.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a4/a9/a4a905a9fa4ca6148a239a37efb3485ec016a126.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/a4/a9/a4a905a9fa4ca6148a239a37efb3485ec016a126.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/fe/53feeb29353336f02564491379bc69abe63a057f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/1a/ac/1aac078248d5ee86cbf4bf40facf4913855b9fd7.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1a/ac/1aac078248d5ee86cbf4bf40facf4913855b9fd7.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/53/fe/53feeb29353336f02564491379bc69abe63a057f.jpg"
+        }
+      ]
+    },
+    {
+      "code": "0938875_group_007",
+      "name": "Slim Tapered Jeans",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/7d/e4/7de4fe548155af2bcf6ae85a801eb6383a196bc2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/7d/e4/7de4fe548155af2bcf6ae85a801eb6383a196bc2.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9316730896385",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0938875007",
+          "name": "Slim Tapered Jeans",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/7d/e4/7de4fe548155af2bcf6ae85a801eb6383a196bc2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/7d/e4/7de4fe548155af2bcf6ae85a801eb6383a196bc2.jpg"
+            }
+          ],
+          "pk": "9316267065345",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b3/2f/b32f9eaf504c4fb4a18c7859c7f5dd5ca86b02b8.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/b3/2f/b32f9eaf504c4fb4a18c7859c7f5dd5ca86b02b8.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b3/2f/b32f9eaf504c4fb4a18c7859c7f5dd5ca86b02b8.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/b3/2f/b32f9eaf504c4fb4a18c7859c7f5dd5ca86b02b8.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMDdfZW5fdXM7MDkzODg3NTAwN19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#2E2E30",
+          "genArticle": "938875007226",
+          "turnToSku": "0938875007001"
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "DENIM"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0938875007",
+        "name": "Slim Tapered Jeans",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/7d/e4/7de4fe548155af2bcf6ae85a801eb6383a196bc2.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/7d/e4/7de4fe548155af2bcf6ae85a801eb6383a196bc2.jpg"
+          }
+        ],
+        "pk": "9316267065345",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b3/2f/b32f9eaf504c4fb4a18c7859c7f5dd5ca86b02b8.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/b3/2f/b32f9eaf504c4fb4a18c7859c7f5dd5ca86b02b8.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b3/2f/b32f9eaf504c4fb4a18c7859c7f5dd5ca86b02b8.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/b3/2f/b32f9eaf504c4fb4a18c7859c7f5dd5ca86b02b8.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMDdfZW5fdXM7MDkzODg3NTAwN19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#2E2E30",
+        "genArticle": "938875007226",
+        "turnToSku": "0938875007001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 106,
+          "filterCode": "38"
+        },
+        {
+          "orderFilter": 1443,
+          "filterCode": "40/32"
+        },
+        {
+          "orderFilter": 1413,
+          "filterCode": "32/30"
+        },
+        {
+          "orderFilter": 1396,
+          "filterCode": "29/30"
+        },
+        {
+          "orderFilter": 1427,
+          "filterCode": "34/34"
+        },
+        {
+          "orderFilter": 79,
+          "filterCode": "29"
+        },
+        {
+          "orderFilter": 1426,
+          "filterCode": "34/32"
+        },
+        {
+          "orderFilter": 1414,
+          "filterCode": "32/32"
+        },
+        {
+          "orderFilter": 1402,
+          "filterCode": "30/32"
+        },
+        {
+          "orderFilter": 82,
+          "filterCode": "30"
+        },
+        {
+          "orderFilter": 1401,
+          "filterCode": "30/30"
+        },
+        {
+          "orderFilter": 88,
+          "filterCode": "32"
+        },
+        {
+          "orderFilter": 91,
+          "filterCode": "33"
+        },
+        {
+          "orderFilter": 1408,
+          "filterCode": "31/32"
+        },
+        {
+          "orderFilter": 1392,
+          "filterCode": "28/32"
+        },
+        {
+          "orderFilter": 1432,
+          "filterCode": "36/32"
+        },
+        {
+          "orderFilter": 111,
+          "filterCode": "40"
+        },
+        {
+          "orderFilter": 1448,
+          "filterCode": "42/32"
+        },
+        {
+          "orderFilter": 117,
+          "filterCode": "42"
+        },
+        {
+          "orderFilter": 76,
+          "filterCode": "28"
+        },
+        {
+          "orderFilter": 1437,
+          "filterCode": "38/32"
+        },
+        {
+          "orderFilter": 101,
+          "filterCode": "36"
+        },
+        {
+          "orderFilter": 94,
+          "filterCode": "34"
+        },
+        {
+          "orderFilter": 85,
+          "filterCode": "31"
+        },
+        {
+          "orderFilter": 1420,
+          "filterCode": "33/32"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "0938875007",
+        "0938875002",
+        "0938875008",
+        "0938875012"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMDdfZW5fdXM7MDkzODg3NTAwN19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "0938875_group_007_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0938875007.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#2E2E30",
+        "#EEEDE1",
+        "#AFBBE0",
+        "#7187BC"
+      ],
+      "articleColorNames": [
+        "Black",
+        "White",
+        "Denim blue",
+        "Denim blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_slim",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/94/97/94972b50baf57c83efc6c459f489749d9895b5a6.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/da/81/da81fc92faac50330f2f9d105177620929e9eb7e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/68/33/683345527706e8f902bb58a173420ceb45484331.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/db/af/dbaf7528596a61fd60a9804229944c4c5f803fed.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2b/72/2b72dd7562c96ab453b9bff74772b21506e94863.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/2b/72/2b72dd7562c96ab453b9bff74772b21506e94863.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/af/dbaf7528596a61fd60a9804229944c4c5f803fed.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/68/33/683345527706e8f902bb58a173420ceb45484331.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e2/72/e2729a97595b95ff497dee6ade988e727adabfe3.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/94/97/94972b50baf57c83efc6c459f489749d9895b5a6.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/da/81/da81fc92faac50330f2f9d105177620929e9eb7e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e2/72/e2729a97595b95ff497dee6ade988e727adabfe3.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1166422_group_004",
+      "name": "Regular Tapered Crop Jeans",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d6/34/d634004957d18b607af6aea9202d09204099f8d9.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/d6/34/d634004957d18b607af6aea9202d09204099f8d9.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9473000701953",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1166422004",
+          "name": "Regular Tapered Crop Jeans",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d6/34/d634004957d18b607af6aea9202d09204099f8d9.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/d6/34/d634004957d18b607af6aea9202d09204099f8d9.jpg"
+            }
+          ],
+          "pk": "9450967171073",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/18/d018a56330a8e020c26eb322f697551644f6a6dd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/d0/18/d018a56330a8e020c26eb322f697551644f6a6dd.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/18/d018a56330a8e020c26eb322f697551644f6a6dd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/d0/18/d018a56330a8e020c26eb322f697551644f6a6dd.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE2NjQyMl9ncm91cF8wMDRfZW5fdXM7MTE2NjQyMjAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "808080",
+            "text": "Denim gray",
+            "filterName": "Gray_808080",
+            "hybrisCode": "06"
+          },
+          "rgbColor": "#94989F",
+          "turnToSku": "1166422004004"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1166422004",
+        "name": "Regular Tapered Crop Jeans",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d6/34/d634004957d18b607af6aea9202d09204099f8d9.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/d6/34/d634004957d18b607af6aea9202d09204099f8d9.jpg"
+          }
+        ],
+        "pk": "9450967171073",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/18/d018a56330a8e020c26eb322f697551644f6a6dd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/d0/18/d018a56330a8e020c26eb322f697551644f6a6dd.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/18/d018a56330a8e020c26eb322f697551644f6a6dd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/d0/18/d018a56330a8e020c26eb322f697551644f6a6dd.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE2NjQyMl9ncm91cF8wMDRfZW5fdXM7MTE2NjQyMjAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "808080",
+          "text": "Denim gray",
+          "filterName": "Gray_808080",
+          "hybrisCode": "06"
+        },
+        "rgbColor": "#94989F",
+        "turnToSku": "1166422004004"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 117,
+          "filterCode": "42"
+        },
+        {
+          "orderFilter": 111,
+          "filterCode": "40"
+        },
+        {
+          "orderFilter": 101,
+          "filterCode": "36"
+        },
+        {
+          "orderFilter": 94,
+          "filterCode": "34"
+        },
+        {
+          "orderFilter": 85,
+          "filterCode": "31"
+        },
+        {
+          "orderFilter": 106,
+          "filterCode": "38"
+        },
+        {
+          "orderFilter": 88,
+          "filterCode": "32"
+        },
+        {
+          "orderFilter": 79,
+          "filterCode": "29"
+        },
+        {
+          "orderFilter": 82,
+          "filterCode": "30"
+        },
+        {
+          "orderFilter": 76,
+          "filterCode": "28"
+        },
+        {
+          "orderFilter": 91,
+          "filterCode": "33"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1166422004",
+        "1166422003",
+        "1166422005"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE2NjQyMl9ncm91cF8wMDRfZW5fdXM7MTE2NjQyMjAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "1166422_group_004_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1166422004.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#94989F",
+        "#E8E9E7",
+        "#5F6475"
+      ],
+      "articleColorNames": [
+        "Denim gray",
+        "White",
+        "Denim blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_tapered",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/49/17/49178f2b68f063d227d8522556118745d48e1360.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/57/c5/57c5f23c5b7b6919a2888627e3544489ca14a60f.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6d/a1/6da1439dcdbc3f5a7e32c77e9bc8a8e474a6aa75.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/94/69/946937279f2742939c7d5a1b851854f3cd91b279.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/94/3d/943d3546396fbbf77622f001469c6d26f8dcf167.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/94/3d/943d3546396fbbf77622f001469c6d26f8dcf167.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/94/69/946937279f2742939c7d5a1b851854f3cd91b279.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/49/17/49178f2b68f063d227d8522556118745d48e1360.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/57/c5/57c5f23c5b7b6919a2888627e3544489ca14a60f.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6d/a1/6da1439dcdbc3f5a7e32c77e9bc8a8e474a6aa75.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1013317_group_006",
+      "name": "Hybrid Regular Tapered Joggers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/cc/11/cc11acab1e9daef47e7692f5480004f0e4d0a650.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/cc/11/cc11acab1e9daef47e7692f5480004f0e4d0a650.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9341764042753",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1013317006",
+          "name": "Hybrid Regular Tapered Joggers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/cc/11/cc11acab1e9daef47e7692f5480004f0e4d0a650.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/cc/11/cc11acab1e9daef47e7692f5480004f0e4d0a650.jpg"
+            }
+          ],
+          "pk": "9340657336321",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b7/8c/b78cb5df58daff4161277e0f77b29165deaf57ef.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/b7/8c/b78cb5df58daff4161277e0f77b29165deaf57ef.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b7/8c/b78cb5df58daff4161277e0f77b29165deaf57ef.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/b7/8c/b78cb5df58daff4161277e0f77b29165deaf57ef.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMDZfZW5fdXM7MTAxMzMxNzAwNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#2E2E30",
+          "genArticle": "013317006237",
+          "turnToSku": "1013317006001"
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "DENIM"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1013317006",
+        "name": "Hybrid Regular Tapered Joggers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/cc/11/cc11acab1e9daef47e7692f5480004f0e4d0a650.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/cc/11/cc11acab1e9daef47e7692f5480004f0e4d0a650.jpg"
+          }
+        ],
+        "pk": "9340657336321",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b7/8c/b78cb5df58daff4161277e0f77b29165deaf57ef.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/b7/8c/b78cb5df58daff4161277e0f77b29165deaf57ef.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b7/8c/b78cb5df58daff4161277e0f77b29165deaf57ef.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/b7/8c/b78cb5df58daff4161277e0f77b29165deaf57ef.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMDZfZW5fdXM7MTAxMzMxNzAwNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#2E2E30",
+        "genArticle": "013317006237",
+        "turnToSku": "1013317006001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        },
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        },
+        {
+          "orderFilter": 369,
+          "filterCode": "M"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1013317006",
+        "1013317002",
+        "1013317005",
+        "1013317010"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMDZfZW5fdXM7MTAxMzMxNzAwNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "1013317_group_006_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1013317006.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#2E2E30",
+        "#6089C2",
+        "#494A4F",
+        "#232327"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Denim blue",
+        "Dark gray",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_joggers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f9/30/f93068cbb33ae08efbc9c66b64d9dd62add16da6.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/04/7d/047df9609531c43d273d28a87ab2c8594be2317b.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/42/5d/425d63381896c8afd2753d5429853fb1dc591a3f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/42/5d/425d63381896c8afd2753d5429853fb1dc591a3f.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/18/77/1877190097f513d178b1dd17e28a35c58d6c2011.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/f9/30/f93068cbb33ae08efbc9c66b64d9dd62add16da6.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/04/7d/047df9609531c43d273d28a87ab2c8594be2317b.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/18/77/1877190097f513d178b1dd17e28a35c58d6c2011.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2f/2b/2f2bccd722a269540dd67fad4e2ea81f83e8c9cf.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/2f/2b/2f2bccd722a269540dd67fad4e2ea81f83e8c9cf.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1013317_group_002",
+      "name": "Hybrid Regular Tapered Joggers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/43/78/4378f364a771f73f855db412ea67087b95a51237.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/43/78/4378f364a771f73f855db412ea67087b95a51237.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9341766893569",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1013317002",
+          "name": "Hybrid Regular Tapered Joggers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/43/78/4378f364a771f73f855db412ea67087b95a51237.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/43/78/4378f364a771f73f855db412ea67087b95a51237.jpg"
+            }
+          ],
+          "pk": "9314359803905",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/5a/df/5adf90e5ac6ffcc12e8282d5429b316a4c4794b6.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/5a/df/5adf90e5ac6ffcc12e8282d5429b316a4c4794b6.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/5a/df/5adf90e5ac6ffcc12e8282d5429b316a4c4794b6.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/5a/df/5adf90e5ac6ffcc12e8282d5429b316a4c4794b6.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMDJfZW5fdXM7MTAxMzMxNzAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Denim blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "75"
+          },
+          "rgbColor": "#6089C2",
+          "genArticle": "013317002226",
+          "turnToSku": "1013317002001"
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "DENIM"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1013317002",
+        "name": "Hybrid Regular Tapered Joggers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/43/78/4378f364a771f73f855db412ea67087b95a51237.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/43/78/4378f364a771f73f855db412ea67087b95a51237.jpg"
+          }
+        ],
+        "pk": "9314359803905",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/5a/df/5adf90e5ac6ffcc12e8282d5429b316a4c4794b6.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/5a/df/5adf90e5ac6ffcc12e8282d5429b316a4c4794b6.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/5a/df/5adf90e5ac6ffcc12e8282d5429b316a4c4794b6.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/5a/df/5adf90e5ac6ffcc12e8282d5429b316a4c4794b6.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMDJfZW5fdXM7MTAxMzMxNzAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Denim blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "75"
+        },
+        "rgbColor": "#6089C2",
+        "genArticle": "013317002226",
+        "turnToSku": "1013317002001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 369,
+          "filterCode": "M"
+        },
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        },
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1013317002",
+        "1013317005",
+        "1013317006",
+        "1013317010"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMDJfZW5fdXM7MTAxMzMxNzAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "1013317_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1013317002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#6089C2",
+        "#494A4F",
+        "#2E2E30",
+        "#232327"
+      ],
+      "articleColorNames": [
+        "Denim blue",
+        "Dark gray",
+        "Black",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_joggers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/7a/9d/7a9d809caaca828861794878b0b7eb3881148937.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/cd/16/cd165be15654e86a822667c681ef0583d45b6ae5.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/cd/16/cd165be15654e86a822667c681ef0583d45b6ae5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/7a/9d/7a9d809caaca828861794878b0b7eb3881148937.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/8a/c9/8ac982793b86fedac81c6de4e81d56677fcd4890.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/c3/e9/c3e9e5ce20671f517cc17bb9f520f82bbd8055a9.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/35/25/35251351cc4b8ba601215187a44d96622ee5afcb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/35/25/35251351cc4b8ba601215187a44d96622ee5afcb.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c3/e9/c3e9e5ce20671f517cc17bb9f520f82bbd8055a9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/b0/f5/b0f52333b1d173ae66b71d02eff10a6c18d5975d.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b0/f5/b0f52333b1d173ae66b71d02eff10a6c18d5975d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/8a/c9/8ac982793b86fedac81c6de4e81d56677fcd4890.jpg"
+        }
+      ]
+    },
+    {
+      "code": "0938875_group_002",
+      "name": "Slim Tapered Jeans",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/cc/89ccc1cf0a2bcfc4eade5f730157c4bbc7b2a8cb.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/89/cc/89ccc1cf0a2bcfc4eade5f730157c4bbc7b2a8cb.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9298965594113",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0938875002",
+          "name": "Slim Tapered Jeans",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/cc/89ccc1cf0a2bcfc4eade5f730157c4bbc7b2a8cb.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/89/cc/89ccc1cf0a2bcfc4eade5f730157c4bbc7b2a8cb.jpg"
+            }
+          ],
+          "pk": "9280709984257",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/38/d038a938e8ae9c49257ae1c27b8443a9c830cae0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/d0/38/d038a938e8ae9c49257ae1c27b8443a9c830cae0.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/38/d038a938e8ae9c49257ae1c27b8443a9c830cae0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/d0/38/d038a938e8ae9c49257ae1c27b8443a9c830cae0.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMDJfZW5fdXM7MDkzODg3NTAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFFFFF",
+            "text": "White",
+            "filterName": "White_FFFFFF",
+            "hybrisCode": "11"
+          },
+          "rgbColor": "#EEEDE1",
+          "genArticle": "938875002225",
+          "turnToSku": "0938875002014",
+          "videoId": "bd40eafe1be47662d07073e3e3f06fd9532100cd-a",
+          "plpVideo": false
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "DENIM"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0938875002",
+        "name": "Slim Tapered Jeans",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/cc/89ccc1cf0a2bcfc4eade5f730157c4bbc7b2a8cb.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/89/cc/89ccc1cf0a2bcfc4eade5f730157c4bbc7b2a8cb.jpg"
+          }
+        ],
+        "pk": "9280709984257",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/38/d038a938e8ae9c49257ae1c27b8443a9c830cae0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/d0/38/d038a938e8ae9c49257ae1c27b8443a9c830cae0.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/38/d038a938e8ae9c49257ae1c27b8443a9c830cae0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/d0/38/d038a938e8ae9c49257ae1c27b8443a9c830cae0.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMDJfZW5fdXM7MDkzODg3NTAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFFFFF",
+          "text": "White",
+          "filterName": "White_FFFFFF",
+          "hybrisCode": "11"
+        },
+        "rgbColor": "#EEEDE1",
+        "genArticle": "938875002225",
+        "turnToSku": "0938875002014",
+        "videoId": "bd40eafe1be47662d07073e3e3f06fd9532100cd-a",
+        "plpVideo": false
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 88,
+          "filterCode": "32"
+        },
+        {
+          "orderFilter": 85,
+          "filterCode": "31"
+        },
+        {
+          "orderFilter": 91,
+          "filterCode": "33"
+        },
+        {
+          "orderFilter": 1420,
+          "filterCode": "33/32"
+        },
+        {
+          "orderFilter": 1407,
+          "filterCode": "31/30"
+        },
+        {
+          "orderFilter": 76,
+          "filterCode": "28"
+        },
+        {
+          "orderFilter": 1414,
+          "filterCode": "32/32"
+        },
+        {
+          "orderFilter": 1392,
+          "filterCode": "28/32"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "0938875002",
+        "0938875007",
+        "0938875008",
+        "0938875012"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMDJfZW5fdXM7MDkzODg3NTAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "0938875_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0938875002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#EEEDE1",
+        "#2E2E30",
+        "#AFBBE0",
+        "#7187BC"
+      ],
+      "articleColorNames": [
+        "White",
+        "Black",
+        "Denim blue",
+        "Denim blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_slim",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/32/06/320642c029247bdb11363cbc464a57c1316ad763.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/1f/08/1f08f121ea32b7f219b17c1295856cb62cace524.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/cb/45/cb45116a7859a386f229f5e90a343124bb63f65d.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/32/06/320642c029247bdb11363cbc464a57c1316ad763.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1f/08/1f08f121ea32b7f219b17c1295856cb62cace524.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/9f/0b/9f0b23e5c1426bf5ea934d3276ea9e0b5037dc80.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9f/0b/9f0b23e5c1426bf5ea934d3276ea9e0b5037dc80.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/cb/45/cb45116a7859a386f229f5e90a343124bb63f65d.jpg"
+        }
+      ]
+    },
+    {
+      "code": "0938875_group_012",
+      "name": "Slim Tapered Jeans",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9343812337665",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0938875012",
+          "name": "Slim Tapered Jeans",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg"
+            }
+          ],
+          "pk": "9343886524417",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMTJfZW5fdXM7MDkzODg3NTAxMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Denim blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "75"
+          },
+          "rgbColor": "#7187BC",
+          "genArticle": "938875012225",
+          "turnToSku": "0938875012014"
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "DENIM"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0938875012",
+        "name": "Slim Tapered Jeans",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg"
+          }
+        ],
+        "pk": "9343886524417",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/a7/7b/a77b7edf934ef39e32adc590b6b9dfe626b72dda.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMTJfZW5fdXM7MDkzODg3NTAxMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Denim blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "75"
+        },
+        "rgbColor": "#7187BC",
+        "genArticle": "938875012225",
+        "turnToSku": "0938875012014"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 85,
+          "filterCode": "31"
+        },
+        {
+          "orderFilter": 82,
+          "filterCode": "30"
+        },
+        {
+          "orderFilter": 1402,
+          "filterCode": "30/32"
+        },
+        {
+          "orderFilter": 1408,
+          "filterCode": "31/32"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "0938875012",
+        "0938875002",
+        "0938875007",
+        "0938875008"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDkzODg3NV9ncm91cF8wMTJfZW5fdXM7MDkzODg3NTAxMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "0938875_group_012_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0938875012.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#7187BC",
+        "#EEEDE1",
+        "#2E2E30",
+        "#AFBBE0"
+      ],
+      "articleColorNames": [
+        "Denim blue",
+        "White",
+        "Black",
+        "Denim blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_slim",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/07/d6/07d6f85412049cce5cf57f97cf6cfd0e9ae1d0e0.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/07/d6/07d6f85412049cce5cf57f97cf6cfd0e9ae1d0e0.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/59/9b/599b40242432c666ec90cc0822dce27dabebda0f.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/59/9b/599b40242432c666ec90cc0822dce27dabebda0f.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1166422_group_003",
+      "name": "Regular Tapered Crop Jeans",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b8/55/b855f96d2f993f1d722bdee0add326fb6423064c.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/b8/55/b855f96d2f993f1d722bdee0add326fb6423064c.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9473001881601",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 34.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 34.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1166422003",
+          "name": "Regular Tapered Crop Jeans",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b8/55/b855f96d2f993f1d722bdee0add326fb6423064c.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/b8/55/b855f96d2f993f1d722bdee0add326fb6423064c.jpg"
+            }
+          ],
+          "pk": "9445944852481",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 34.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 34.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/fb/13/fb1330ff0b4c3d7e32e643a68660d0999e09cdbb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/fb/13/fb1330ff0b4c3d7e32e643a68660d0999e09cdbb.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/fb/13/fb1330ff0b4c3d7e32e643a68660d0999e09cdbb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/fb/13/fb1330ff0b4c3d7e32e643a68660d0999e09cdbb.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE2NjQyMl9ncm91cF8wMDNfZW5fdXM7MTE2NjQyMjAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFFFFF",
+            "text": "White",
+            "filterName": "White_FFFFFF",
+            "hybrisCode": "10"
+          },
+          "rgbColor": "#E8E9E7",
+          "turnToSku": "1166422003004"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1166422003",
+        "name": "Regular Tapered Crop Jeans",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b8/55/b855f96d2f993f1d722bdee0add326fb6423064c.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/b8/55/b855f96d2f993f1d722bdee0add326fb6423064c.jpg"
+          }
+        ],
+        "pk": "9445944852481",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 34.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 34.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/fb/13/fb1330ff0b4c3d7e32e643a68660d0999e09cdbb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/fb/13/fb1330ff0b4c3d7e32e643a68660d0999e09cdbb.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/fb/13/fb1330ff0b4c3d7e32e643a68660d0999e09cdbb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/fb/13/fb1330ff0b4c3d7e32e643a68660d0999e09cdbb.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE2NjQyMl9ncm91cF8wMDNfZW5fdXM7MTE2NjQyMjAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFFFFF",
+          "text": "White",
+          "filterName": "White_FFFFFF",
+          "hybrisCode": "10"
+        },
+        "rgbColor": "#E8E9E7",
+        "turnToSku": "1166422003004"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 101,
+          "filterCode": "36"
+        },
+        {
+          "orderFilter": 85,
+          "filterCode": "31"
+        },
+        {
+          "orderFilter": 79,
+          "filterCode": "29"
+        },
+        {
+          "orderFilter": 82,
+          "filterCode": "30"
+        },
+        {
+          "orderFilter": 76,
+          "filterCode": "28"
+        },
+        {
+          "orderFilter": 106,
+          "filterCode": "38"
+        },
+        {
+          "orderFilter": 94,
+          "filterCode": "34"
+        },
+        {
+          "orderFilter": 111,
+          "filterCode": "40"
+        },
+        {
+          "orderFilter": 91,
+          "filterCode": "33"
+        },
+        {
+          "orderFilter": 117,
+          "filterCode": "42"
+        },
+        {
+          "orderFilter": 88,
+          "filterCode": "32"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1166422003",
+        "1166422004",
+        "1166422005"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE2NjQyMl9ncm91cF8wMDNfZW5fdXM7MTE2NjQyMjAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "1166422_group_003_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1166422003.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#E8E9E7",
+        "#94989F",
+        "#5F6475"
+      ],
+      "articleColorNames": [
+        "White",
+        "Denim gray",
+        "Denim blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_tapered",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fd/14/fd145e16ed3cf3f2f172a0153c3b62ff9416263e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/71/76/7176be7e1a41c1b3204473c2465e7e6e8782a566.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/44/d9/44d974a9d7f2612b92167ee0a225ef6e12897d97.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/fd/14/fd145e16ed3cf3f2f172a0153c3b62ff9416263e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/5c/10/5c102770c0838ea172ff4c6f7d226c86af44aa55.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/4a/ce/4acea48e46983e0797ddd16681bc3cc546b45084.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/71/76/7176be7e1a41c1b3204473c2465e7e6e8782a566.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/44/d9/44d974a9d7f2612b92167ee0a225ef6e12897d97.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/4a/ce/4acea48e46983e0797ddd16681bc3cc546b45084.jpg],origin[dam],category[men_jeans_tapered],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/5c/10/5c102770c0838ea172ff4c6f7d226c86af44aa55.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1013317_group_005",
+      "name": "Hybrid Regular Tapered Joggers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/4f/d04f513919888e8bb5a7416e2b6817ca807c7aa3.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/d0/4f/d04f513919888e8bb5a7416e2b6817ca807c7aa3.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9341762764801",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1013317005",
+          "name": "Hybrid Regular Tapered Joggers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/4f/d04f513919888e8bb5a7416e2b6817ca807c7aa3.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/d0/4f/d04f513919888e8bb5a7416e2b6817ca807c7aa3.jpg"
+            }
+          ],
+          "pk": "9331187318785",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2f/69/2f69a783e8be68b520aceca28b3674d84331b0bf.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/2f/69/2f69a783e8be68b520aceca28b3674d84331b0bf.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2f/69/2f69a783e8be68b520aceca28b3674d84331b0bf.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/2f/69/2f69a783e8be68b520aceca28b3674d84331b0bf.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMDVfZW5fdXM7MTAxMzMxNzAwNV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "808080",
+            "text": "Dark gray",
+            "filterName": "Gray_808080",
+            "hybrisCode": "08"
+          },
+          "rgbColor": "#494A4F",
+          "genArticle": "013317005214",
+          "turnToSku": "1013317005001"
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "DENIM"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1013317005",
+        "name": "Hybrid Regular Tapered Joggers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/4f/d04f513919888e8bb5a7416e2b6817ca807c7aa3.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/d0/4f/d04f513919888e8bb5a7416e2b6817ca807c7aa3.jpg"
+          }
+        ],
+        "pk": "9331187318785",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2f/69/2f69a783e8be68b520aceca28b3674d84331b0bf.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/2f/69/2f69a783e8be68b520aceca28b3674d84331b0bf.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2f/69/2f69a783e8be68b520aceca28b3674d84331b0bf.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/2f/69/2f69a783e8be68b520aceca28b3674d84331b0bf.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMDVfZW5fdXM7MTAxMzMxNzAwNV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "808080",
+          "text": "Dark gray",
+          "filterName": "Gray_808080",
+          "hybrisCode": "08"
+        },
+        "rgbColor": "#494A4F",
+        "genArticle": "013317005214",
+        "turnToSku": "1013317005001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        },
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1013317005",
+        "1013317002",
+        "1013317006",
+        "1013317010"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMDVfZW5fdXM7MTAxMzMxNzAwNV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "1013317_group_005_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1013317005.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#494A4F",
+        "#6089C2",
+        "#2E2E30",
+        "#232327"
+      ],
+      "articleColorNames": [
+        "Dark gray",
+        "Denim blue",
+        "Black",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_joggers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9f/61/9f6184f7445183337dcdec4e8d9beace0766a423.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/9f/61/9f6184f7445183337dcdec4e8d9beace0766a423.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/68/82/688259f417f9106eac29b50308c4913741b155f1.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/68/82/688259f417f9106eac29b50308c4913741b155f1.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/51/a4/51a4fc9f3e36d983ed34f4db513de5cc052d3dba.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/51/a4/51a4fc9f3e36d983ed34f4db513de5cc052d3dba.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6c/86/6c8603ffe03af431add3ddcc47f7dc340dbf0285.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/1d/d7/1dd778d22315542025c6256db7a08132bf4933e2.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/30/333003b16f9898c8d840f61922f85b18c42f0bc5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/33/30/333003b16f9898c8d840f61922f85b18c42f0bc5.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1d/d7/1dd778d22315542025c6256db7a08132bf4933e2.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6c/86/6c8603ffe03af431add3ddcc47f7dc340dbf0285.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1013317_group_010",
+      "name": "Hybrid Regular Tapered Joggers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 22.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 22.99",
+        "type": "RED"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9344502792193",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "redPrice": {
+        "currencyIso": "USD",
+        "value": 22.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 22.99",
+        "type": "RED"
+      },
+      "articles": [
+        {
+          "code": "1013317010",
+          "name": "Hybrid Regular Tapered Joggers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg"
+            }
+          ],
+          "pk": "9344346226689",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "redPrice": {
+            "currencyIso": "USD",
+            "value": 22.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 22.99",
+            "type": "RED"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMTBfZW5fdXM7MTAxMzMxNzAxMF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#232327",
+          "genArticle": "013317010237",
+          "percentageDiscount": "-43%",
+          "turnToSku": "1013317010001"
+        }
+      ],
+      "visible": false,
+      "concept": [
+        "DENIM"
+      ],
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1013317010",
+        "name": "Hybrid Regular Tapered Joggers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg"
+          }
+        ],
+        "pk": "9344346226689",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "redPrice": {
+          "currencyIso": "USD",
+          "value": 22.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 22.99",
+          "type": "RED"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/6e/50/6e50acd0ddb7c78870f2552d33fa4acddea41533.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMTBfZW5fdXM7MTAxMzMxNzAxMF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#232327",
+        "genArticle": "013317010237",
+        "percentageDiscount": "-43%",
+        "turnToSku": "1013317010001"
+      },
+      "sale": true,
+      "variantSizes": [
+        {
+          "orderFilter": 363,
+          "filterCode": "XS"
+        },
+        {
+          "orderFilter": 366,
+          "filterCode": "S"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1013317010",
+        "1013317002",
+        "1013317005",
+        "1013317006"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAxMzMxN19ncm91cF8wMTBfZW5fdXM7MTAxMzMxNzAxMF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2ODs",
+      "searchEngineProductId": "1013317_group_010_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1013317010.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#232327",
+        "#6089C2",
+        "#494A4F",
+        "#2E2E30"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Denim blue",
+        "Dark gray",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 4,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_jeans_joggers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/73/ca/73cac2e622420de9a1d41c3edfc07e43ed5c7cf0.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/73/ca/73cac2e622420de9a1d41c3edfc07e43ed5c7cf0.jpg"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "pageSize": 30,
+    "currentPage": 0,
+    "sort": "stock",
+    "numberOfPages": 1,
+    "totalNumberOfResults": 11,
+    "totalNumberOfResultsUnfiltered": 0
+  },
+  "facets": [
+    {
+      "code": "concepts",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "DENIM",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colors",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "black",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "blue",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "gray",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "white",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "fits",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Regular fit",
+          "count": 7,
+          "selected": false
+        },
+        {
+          "code": "Slim fit",
+          "count": 4,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "contexts",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Casual",
+          "count": 11,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "productTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Jeans",
+          "count": 11,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "ageGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "adult",
+          "count": 11,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "customerGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Man",
+          "count": 11,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "assortmentTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "clothing",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sizes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "101_36_5_waist",
+          "count": 5,
+          "selected": false
+        },
+        {
+          "code": "106_38_5_waist",
+          "count": 5,
+          "selected": false
+        },
+        {
+          "code": "111_40_5_waist",
+          "count": 5,
+          "selected": false
+        },
+        {
+          "code": "117_42_5_waist",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "1392_28/32_5_waist",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "1396_29/30_5_waist",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "1401_30/30_5_waist",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "1402_30/32_5_waist",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "1407_31/30_5_waist",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "1408_31/32_5_waist",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "1413_32/30_5_waist",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "1414_32/32_5_waist",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "1415_32/34_5_waist",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "1420_33/32_5_waist",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "1426_34/32_5_waist",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "1427_34/34_5_waist",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "1432_36/32_5_waist",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "1437_38/32_5_waist",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "1443_40/32_5_waist",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "1448_42/32_5_waist",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "363_xs_3_menswear",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "366_s_3_menswear",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "369_m_3_menswear",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "76_28_5_waist",
+          "count": 6,
+          "selected": false
+        },
+        {
+          "code": "79_29_5_waist",
+          "count": 5,
+          "selected": false
+        },
+        {
+          "code": "82_30_5_waist",
+          "count": 6,
+          "selected": false
+        },
+        {
+          "code": "85_31_5_waist",
+          "count": 7,
+          "selected": false
+        },
+        {
+          "code": "88_32_5_waist",
+          "count": 6,
+          "selected": false
+        },
+        {
+          "code": "91_33_5_waist",
+          "count": 6,
+          "selected": false
+        },
+        {
+          "code": "94_34_5_waist",
+          "count": 5,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sale",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "false",
+          "count": 10,
+          "selected": false
+        },
+        {
+          "code": "true",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colorWithNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "black_000000",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "blue_0000ff",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "gray_808080",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "white_ffffff",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "brandNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "H&M",
+          "count": 11,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "clothingStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Joggers",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "Tapered",
+          "count": 11,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "garmentLengths",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Ankle-length",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "Long",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "waistRises",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Regular waist",
+          "count": 11,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "patterns",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "solid-color",
+          "count": 9,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "materials",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Cotton",
+          "count": 7,
+          "selected": false
+        },
+        {
+          "code": "Denim",
+          "count": 11,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colourShades",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Bright blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Cobalt blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Dark blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Gray silver",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Gray white",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Indigo",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Navy blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Royal blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Stone",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "White gray",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "allCategories",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "men_all",
+          "count": 11,
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "freeTextSearch": "",
+  "categoryCode": "men_jeans_tapered",
+  "rangeFacets": [
+    {
+      "code": "priceRange",
+      "range": {
+        "min": 22.99,
+        "max": 39.99,
+        "minSelected": 22.99,
+        "maxSelected": 39.99
+      }
+    }
+  ],
+  "baseUrl": "https://www2.hm.com"
+}

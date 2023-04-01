@@ -12,8 +12,8 @@ const TopCategories = () => {
         <Link to={`/categories/casual`} className="remove-link-style">
           <Category title="Casual" backgroundImage={Casual} />
         </Link>
-        <Link to={`/categories/hoodie`} className="remove-link-style">
-          <Category title="Hoodie" backgroundImage={Hoodie} />
+        <Link to={`/categories/hoodies`} className="remove-link-style">
+          <Category title="Hoodies" backgroundImage={Hoodie} />
         </Link>
         <Link to={`/categories/jeans`} className="remove-link-style">
           <Category title="Jeans" backgroundImage={Jeans} />

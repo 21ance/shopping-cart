@@ -1,0 +1,4035 @@
+{
+  "results": [
+    {
+      "code": "1125436_group_001",
+      "name": "Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/5d/7d/5d7d0aada854c1b33422336cda2d306a088bf852.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/5d/7d/5d7d0aada854c1b33422336cda2d306a088bf852.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9461964832769",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1125436001",
+          "name": "Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/5d/7d/5d7d0aada854c1b33422336cda2d306a088bf852.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/5d/7d/5d7d0aada854c1b33422336cda2d306a088bf852.jpg"
+            }
+          ],
+          "pk": "9441496727553",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 49.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 49.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/07/5307c68bce64423447feac834ee2486bc4307f12.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/53/07/5307c68bce64423447feac834ee2486bc4307f12.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/07/5307c68bce64423447feac834ee2486bc4307f12.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/53/07/5307c68bce64423447feac834ee2486bc4307f12.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQzNl9ncm91cF8wMDFfZW5fdXM7MTEyNTQzNjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1125436001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1125436001",
+        "name": "Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/5d/7d/5d7d0aada854c1b33422336cda2d306a088bf852.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/5d/7d/5d7d0aada854c1b33422336cda2d306a088bf852.jpg"
+          }
+        ],
+        "pk": "9441496727553",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 49.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 49.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/07/5307c68bce64423447feac834ee2486bc4307f12.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/53/07/5307c68bce64423447feac834ee2486bc4307f12.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/07/5307c68bce64423447feac834ee2486bc4307f12.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/53/07/5307c68bce64423447feac834ee2486bc4307f12.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQzNl9ncm91cF8wMDFfZW5fdXM7MTEyNTQzNjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1125436001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1125436001",
+        "1125436002"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQzNl9ncm91cF8wMDFfZW5fdXM7MTEyNTQzNjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1125436_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1125436001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628",
+        "#3E3838"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Dark brown"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/89/0f/890fd3355c7b85d70d66c140dc6ae0ae0b6f92c5.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/20/a3/20a395c1f64582580efadcea971ee40334831c98.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/20/a3/20a395c1f64582580efadcea971ee40334831c98.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/cf/84/cf84671e2f3abe9ba8eba67eefc4c8b754cd577d.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ff/ba/ffba414c15f703cef022dcb1dccccc4fb679bf2e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ff/ba/ffba414c15f703cef022dcb1dccccc4fb679bf2e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/cf/84/cf84671e2f3abe9ba8eba67eefc4c8b754cd577d.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/89/0f/890fd3355c7b85d70d66c140dc6ae0ae0b6f92c5.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1125436_group_002",
+      "name": "Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/0a/e5/0ae5c691db2f08c21984c01c881b2e10ddc2f72f.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/0a/e5/0ae5c691db2f08c21984c01c881b2e10ddc2f72f.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9459205013505",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1125436002",
+          "name": "Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/0a/e5/0ae5c691db2f08c21984c01c881b2e10ddc2f72f.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/0a/e5/0ae5c691db2f08c21984c01c881b2e10ddc2f72f.jpg"
+            }
+          ],
+          "pk": "9433429966849",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 49.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 49.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2a/15/2a155a691bc97237d9f0d9caa715ded86b66688a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/2a/15/2a155a691bc97237d9f0d9caa715ded86b66688a.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2a/15/2a155a691bc97237d9f0d9caa715ded86b66688a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/2a/15/2a155a691bc97237d9f0d9caa715ded86b66688a.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQzNl9ncm91cF8wMDJfZW5fdXM7MTEyNTQzNjAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "A52A2A",
+            "text": "Dark brown",
+            "filterName": "Brown_A52A2A",
+            "hybrisCode": "17"
+          },
+          "rgbColor": "#3E3838",
+          "turnToSku": "1125436002003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1125436002",
+        "name": "Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/0a/e5/0ae5c691db2f08c21984c01c881b2e10ddc2f72f.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/0a/e5/0ae5c691db2f08c21984c01c881b2e10ddc2f72f.jpg"
+          }
+        ],
+        "pk": "9433429966849",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 49.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 49.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2a/15/2a155a691bc97237d9f0d9caa715ded86b66688a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/2a/15/2a155a691bc97237d9f0d9caa715ded86b66688a.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2a/15/2a155a691bc97237d9f0d9caa715ded86b66688a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/2a/15/2a155a691bc97237d9f0d9caa715ded86b66688a.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQzNl9ncm91cF8wMDJfZW5fdXM7MTEyNTQzNjAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "A52A2A",
+          "text": "Dark brown",
+          "filterName": "Brown_A52A2A",
+          "hybrisCode": "17"
+        },
+        "rgbColor": "#3E3838",
+        "turnToSku": "1125436002003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1125436002",
+        "1125436001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQzNl9ncm91cF8wMDJfZW5fdXM7MTEyNTQzNjAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1125436_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1125436002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#3E3838",
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Dark brown",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/46/ce/46cec8f75aaa0adc76b9047fe3e74cf27f2ae1e7.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/1b/01/1b014581102a149c734757ae99866579939dadc4.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/71/0a/710a2cef2f1f9e03de0e4a075b098473db3d4f75.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/46/ce/46cec8f75aaa0adc76b9047fe3e74cf27f2ae1e7.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1b/01/1b014581102a149c734757ae99866579939dadc4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/91/89/9189a16ca2ec44985d5936ea2b52953ca34de778.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/da/e5/dae582e1b77885516a3a58c489bee92454a7453e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/22/8f/228feb558accf63cdfd410486c1edff6ff948883.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/28/9f/289fc9fdcc21130b94802d049b288dff2a94689f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/71/0a/710a2cef2f1f9e03de0e4a075b098473db3d4f75.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/22/8f/228feb558accf63cdfd410486c1edff6ff948883.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/da/e5/dae582e1b77885516a3a58c489bee92454a7453e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/91/89/9189a16ca2ec44985d5936ea2b52953ca34de778.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/28/9f/289fc9fdcc21130b94802d049b288dff2a94689f.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1125423_group_001",
+      "name": "Chunky Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/0d/ab/0dabf9bd597d1d527315821040e4f75c667b0e9a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/0d/ab/0dabf9bd597d1d527315821040e4f75c667b0e9a.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9462010413057",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1125423001",
+          "name": "Chunky Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/0d/ab/0dabf9bd597d1d527315821040e4f75c667b0e9a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/0d/ab/0dabf9bd597d1d527315821040e4f75c667b0e9a.jpg"
+            }
+          ],
+          "pk": "9445548032001",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 49.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 49.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/96/1c/961c166b80e6460ad20745336553ec889ab62757.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/96/1c/961c166b80e6460ad20745336553ec889ab62757.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/96/1c/961c166b80e6460ad20745336553ec889ab62757.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/96/1c/961c166b80e6460ad20745336553ec889ab62757.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQyM19ncm91cF8wMDFfZW5fdXM7MTEyNTQyMzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "A52A2A",
+            "text": "Dark brown",
+            "filterName": "Brown_A52A2A",
+            "hybrisCode": "17"
+          },
+          "rgbColor": "#372B2D",
+          "turnToSku": "1125423001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1125423001",
+        "name": "Chunky Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/0d/ab/0dabf9bd597d1d527315821040e4f75c667b0e9a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/0d/ab/0dabf9bd597d1d527315821040e4f75c667b0e9a.jpg"
+          }
+        ],
+        "pk": "9445548032001",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 49.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 49.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/96/1c/961c166b80e6460ad20745336553ec889ab62757.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/96/1c/961c166b80e6460ad20745336553ec889ab62757.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/96/1c/961c166b80e6460ad20745336553ec889ab62757.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/96/1c/961c166b80e6460ad20745336553ec889ab62757.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQyM19ncm91cF8wMDFfZW5fdXM7MTEyNTQyMzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "A52A2A",
+          "text": "Dark brown",
+          "filterName": "Brown_A52A2A",
+          "hybrisCode": "17"
+        },
+        "rgbColor": "#372B2D",
+        "turnToSku": "1125423001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1125423001",
+        "1125423002"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQyM19ncm91cF8wMDFfZW5fdXM7MTEyNTQyMzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1125423_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1125423001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#372B2D",
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Dark brown",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/95/7095da5643a23b53121114d32b69ac1bcbcc87c9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/92/58/9258b2085c790c6f7584f1f8685ebabc93fd684b.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ca/7d/ca7dee1b43e4acd9b6d089b3957512d51f11cf73.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/94/c7/94c7265581489baf27809fdaf0b0b524f9002d46.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/23/e4/23e42071894e50521c5d8b6e100201950c8e6a80.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/70/95/7095da5643a23b53121114d32b69ac1bcbcc87c9.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/94/c7/94c7265581489baf27809fdaf0b0b524f9002d46.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ca/7d/ca7dee1b43e4acd9b6d089b3957512d51f11cf73.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/92/58/9258b2085c790c6f7584f1f8685ebabc93fd684b.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/23/e4/23e42071894e50521c5d8b6e100201950c8e6a80.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1125423_group_002",
+      "name": "Chunky Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b0/b4/b0b41e27afa3a2f51939ea47996b2cdb344a4b59.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/b0/b4/b0b41e27afa3a2f51939ea47996b2cdb344a4b59.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9462014705665",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 49.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 49.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1125423002",
+          "name": "Chunky Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b0/b4/b0b41e27afa3a2f51939ea47996b2cdb344a4b59.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/b0/b4/b0b41e27afa3a2f51939ea47996b2cdb344a4b59.jpg"
+            }
+          ],
+          "pk": "9442952511489",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 49.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 49.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b3/c8/b3c8f8e50a52426d53aa6a775175707d8381d967.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/b3/c8/b3c8f8e50a52426d53aa6a775175707d8381d967.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b3/c8/b3c8f8e50a52426d53aa6a775175707d8381d967.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/b3/c8/b3c8f8e50a52426d53aa6a775175707d8381d967.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQyM19ncm91cF8wMDJfZW5fdXM7MTEyNTQyMzAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1125423002003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1125423002",
+        "name": "Chunky Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b0/b4/b0b41e27afa3a2f51939ea47996b2cdb344a4b59.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/b0/b4/b0b41e27afa3a2f51939ea47996b2cdb344a4b59.jpg"
+          }
+        ],
+        "pk": "9442952511489",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 49.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 49.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b3/c8/b3c8f8e50a52426d53aa6a775175707d8381d967.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/b3/c8/b3c8f8e50a52426d53aa6a775175707d8381d967.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b3/c8/b3c8f8e50a52426d53aa6a775175707d8381d967.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/b3/c8/b3c8f8e50a52426d53aa6a775175707d8381d967.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQyM19ncm91cF8wMDJfZW5fdXM7MTEyNTQyMzAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1125423002003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1125423002",
+        "1125423001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQyM19ncm91cF8wMDJfZW5fdXM7MTEyNTQyMzAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1125423_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1125423002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628",
+        "#372B2D"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Dark brown"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e3/b1/e3b1777655618d56318f56f2c35e393e49c275ad.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/10/4f/104fa0d3cbeb816fbd66f2400e26cfeb81af0e4c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b0/1f/b01f51f970eedee07d133cd9e65a8789444f3700.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/b0/1f/b01f51f970eedee07d133cd9e65a8789444f3700.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/10/4f/104fa0d3cbeb816fbd66f2400e26cfeb81af0e4c.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d1/93/d1931426d579978cf130d9dabed5526efedc7dd1.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d1/93/d1931426d579978cf130d9dabed5526efedc7dd1.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e3/b1/e3b1777655618d56318f56f2c35e393e49c275ad.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/55/81/55818bb6abe5df44d44e8e31bdc1c927c55156da.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/55/81/55818bb6abe5df44d44e8e31bdc1c927c55156da.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1125458_group_002",
+      "name": "Mule Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9466203766785",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1125458002",
+          "name": "Mule Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg"
+            }
+          ],
+          "pk": "9449563881473",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQ1OF9ncm91cF8wMDJfZW5fdXM7MTEyNTQ1ODAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "A52A2A",
+            "text": "Dark brown",
+            "filterName": "Brown_A52A2A",
+            "hybrisCode": "17"
+          },
+          "rgbColor": "#372B2D",
+          "turnToSku": "1125458002004"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1125458002",
+        "name": "Mule Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg"
+          }
+        ],
+        "pk": "9449563881473",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/19/28/192814e1df3d18f78a3371327b34f31976e38f88.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQ1OF9ncm91cF8wMDJfZW5fdXM7MTEyNTQ1ODAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "A52A2A",
+          "text": "Dark brown",
+          "filterName": "Brown_A52A2A",
+          "hybrisCode": "17"
+        },
+        "rgbColor": "#372B2D",
+        "turnToSku": "1125458002004"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1125458002",
+        "1125458001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQ1OF9ncm91cF8wMDJfZW5fdXM7MTEyNTQ1ODAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1125458_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1125458002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#372B2D",
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Dark brown",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/79/86/79868c1ede9ffb6f92ba27707582beb7c5978e43.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/10/2a/102a3f91f854ca14cf6c5cd77206f21b62f644c1.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/10/2a/102a3f91f854ca14cf6c5cd77206f21b62f644c1.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/79/86/79868c1ede9ffb6f92ba27707582beb7c5978e43.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2a/a5/2aa5ce460d257208e2c3d6bcbcbaf1c419d89c07.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/2a/a5/2aa5ce460d257208e2c3d6bcbcbaf1c419d89c07.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1127532_group_001",
+      "name": "Buckle-detail Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a8/0e/a80ea53f7bf14e0c4092a748a2ecbbb1f0c7d94b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/a8/0e/a80ea53f7bf14e0c4092a748a2ecbbb1f0c7d94b.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9466592657409",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1127532001",
+          "name": "Buckle-detail Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a8/0e/a80ea53f7bf14e0c4092a748a2ecbbb1f0c7d94b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/a8/0e/a80ea53f7bf14e0c4092a748a2ecbbb1f0c7d94b.jpg"
+            }
+          ],
+          "pk": "9453747404801",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6f/f0/6ff014419975879583d85d5106748e387f2b3053.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/6f/f0/6ff014419975879583d85d5106748e387f2b3053.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6f/f0/6ff014419975879583d85d5106748e387f2b3053.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/6f/f0/6ff014419975879583d85d5106748e387f2b3053.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNzUzMl9ncm91cF8wMDFfZW5fdXM7MTEyNzUzMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1127532001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1127532001",
+        "name": "Buckle-detail Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a8/0e/a80ea53f7bf14e0c4092a748a2ecbbb1f0c7d94b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/a8/0e/a80ea53f7bf14e0c4092a748a2ecbbb1f0c7d94b.jpg"
+          }
+        ],
+        "pk": "9453747404801",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6f/f0/6ff014419975879583d85d5106748e387f2b3053.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/6f/f0/6ff014419975879583d85d5106748e387f2b3053.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6f/f0/6ff014419975879583d85d5106748e387f2b3053.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/6f/f0/6ff014419975879583d85d5106748e387f2b3053.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNzUzMl9ncm91cF8wMDFfZW5fdXM7MTEyNzUzMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1127532001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1127532001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNzUzMl9ncm91cF8wMDFfZW5fdXM7MTEyNzUzMjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1127532_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1127532001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/71/3a/713a522dc93ce45e94b679f86527ea872e94968d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/71/3a/713a522dc93ce45e94b679f86527ea872e94968d.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/35/fa/35fa310dfa70cc48c50ac48adfe19fb7706440da.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/96/de/96de6b8319ef21d08b80735db3bfeff76fafc669.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fa/78/fa787b865bdf4e498101f7fcd24a48b07b87249a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/35/fa/35fa310dfa70cc48c50ac48adfe19fb7706440da.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b3/fc/b3fc6958ecbb4ae0a7f9d8593ce7d890fbc68bdd.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/fa/78/fa787b865bdf4e498101f7fcd24a48b07b87249a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/96/de/96de6b8319ef21d08b80735db3bfeff76fafc669.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/b3/fc/b3fc6958ecbb4ae0a7f9d8593ce7d890fbc68bdd.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1125458_group_001",
+      "name": "Mule Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/11/63/116308141be2ccc382a43245133279c690e46cdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/11/63/116308141be2ccc382a43245133279c690e46cdf.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9464708235265",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1125458001",
+          "name": "Mule Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/11/63/116308141be2ccc382a43245133279c690e46cdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/11/63/116308141be2ccc382a43245133279c690e46cdf.jpg"
+            }
+          ],
+          "pk": "9449558507521",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/17/42/17425b2d5b33581fa961fbaa362df3f2a9c6f11f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/17/42/17425b2d5b33581fa961fbaa362df3f2a9c6f11f.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/17/42/17425b2d5b33581fa961fbaa362df3f2a9c6f11f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/17/42/17425b2d5b33581fa961fbaa362df3f2a9c6f11f.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQ1OF9ncm91cF8wMDFfZW5fdXM7MTEyNTQ1ODAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1125458001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1125458001",
+        "name": "Mule Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/11/63/116308141be2ccc382a43245133279c690e46cdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/11/63/116308141be2ccc382a43245133279c690e46cdf.jpg"
+          }
+        ],
+        "pk": "9449558507521",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/17/42/17425b2d5b33581fa961fbaa362df3f2a9c6f11f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/17/42/17425b2d5b33581fa961fbaa362df3f2a9c6f11f.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/17/42/17425b2d5b33581fa961fbaa362df3f2a9c6f11f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/17/42/17425b2d5b33581fa961fbaa362df3f2a9c6f11f.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQ1OF9ncm91cF8wMDFfZW5fdXM7MTEyNTQ1ODAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1125458001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1125458001",
+        "1125458002"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyNTQ1OF9ncm91cF8wMDFfZW5fdXM7MTEyNTQ1ODAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1125458_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1125458001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628",
+        "#372B2D"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Dark brown"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/4b/03/4b03eb23fe124412205b45f4b5b6053c2d4057a3.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/f1/9d/f19de991a01ca89a0cc1f614778021d830af7bf9.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d3/41/d341e74ddf9b923ef29a764573da88fa07c9a426.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/4b/03/4b03eb23fe124412205b45f4b5b6053c2d4057a3.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2e/cd/2ecd49f71fe97c3192b61c1c8716e867c595cc75.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/2e/cd/2ecd49f71fe97c3192b61c1c8716e867c595cc75.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/9d/f19de991a01ca89a0cc1f614778021d830af7bf9.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/17/94/17942934071c842e44fe41624a8ef74fde9fede0.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/17/94/17942934071c842e44fe41624a8ef74fde9fede0.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d3/41/d341e74ddf9b923ef29a764573da88fa07c9a426.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1055764_group_006",
+      "name": "Tasseled Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/5d/06/5d068ea08960061f5c000e54301483a9ca2c062b.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/5d/06/5d068ea08960061f5c000e54301483a9ca2c062b.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9466204291073",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1055764006",
+          "name": "Tasseled Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/5d/06/5d068ea08960061f5c000e54301483a9ca2c062b.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/5d/06/5d068ea08960061f5c000e54301483a9ca2c062b.jpg"
+            }
+          ],
+          "pk": "9451168235521",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f4/73/f473b4bc4d6ee6112acd8fc0a4fa4a242342da90.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/f4/73/f473b4bc4d6ee6112acd8fc0a4fa4a242342da90.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f4/73/f473b4bc4d6ee6112acd8fc0a4fa4a242342da90.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/f4/73/f473b4bc4d6ee6112acd8fc0a4fa4a242342da90.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2NF9ncm91cF8wMDZfZW5fdXM7MTA1NTc2NDAwNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Light brown",
+            "filterName": "Brown_A52A2A",
+            "hybrisCode": "18"
+          },
+          "rgbColor": "#715B3F",
+          "turnToSku": "1055764006004"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1055764006",
+        "name": "Tasseled Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/5d/06/5d068ea08960061f5c000e54301483a9ca2c062b.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/5d/06/5d068ea08960061f5c000e54301483a9ca2c062b.jpg"
+          }
+        ],
+        "pk": "9451168235521",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f4/73/f473b4bc4d6ee6112acd8fc0a4fa4a242342da90.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/f4/73/f473b4bc4d6ee6112acd8fc0a4fa4a242342da90.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f4/73/f473b4bc4d6ee6112acd8fc0a4fa4a242342da90.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/f4/73/f473b4bc4d6ee6112acd8fc0a4fa4a242342da90.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2NF9ncm91cF8wMDZfZW5fdXM7MTA1NTc2NDAwNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Light brown",
+          "filterName": "Brown_A52A2A",
+          "hybrisCode": "18"
+        },
+        "rgbColor": "#715B3F",
+        "turnToSku": "1055764006004"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1055764006",
+        "1055764003"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2NF9ncm91cF8wMDZfZW5fdXM7MTA1NTc2NDAwNl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1055764_group_006_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1055764006.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#715B3F",
+        "#738080"
+      ],
+      "articleColorNames": [
+        "Light brown",
+        "Turquoise"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/29/c9/29c9b4ebf43f382b1ed4c335ff8da29161c83e1b.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/29/c9/29c9b4ebf43f382b1ed4c335ff8da29161c83e1b.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/bd/d5/bdd56ee6dd071e9804d779ab82c9db4da599ac8d.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ca/f3/caf32fe206b4f1e9c0de9dbe029e1d43bea40eb3.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/31/50/3150c01589d7c74a881dae085eee20b3f4356234.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ad/93/ad93383023701ba08d11040bc76dcc8a9100b366.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ca/f3/caf32fe206b4f1e9c0de9dbe029e1d43bea40eb3.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/31/50/3150c01589d7c74a881dae085eee20b3f4356234.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ad/93/ad93383023701ba08d11040bc76dcc8a9100b366.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/bd/d5/bdd56ee6dd071e9804d779ab82c9db4da599ac8d.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1033841_group_008",
+      "name": "Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/88/db88b44e6ebb8cd8d12dca37c0f12a70060c8419.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/db/88/db88b44e6ebb8cd8d12dca37c0f12a70060c8419.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9464619139073",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1033841008",
+          "name": "Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/88/db88b44e6ebb8cd8d12dca37c0f12a70060c8419.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/db/88/db88b44e6ebb8cd8d12dca37c0f12a70060c8419.jpg"
+            }
+          ],
+          "pk": "9448986705921",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/e5/eee55cd7c0408c3deee1912366984c2587a1a24d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/ee/e5/eee55cd7c0408c3deee1912366984c2587a1a24d.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/e5/eee55cd7c0408c3deee1912366984c2587a1a24d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/ee/e5/eee55cd7c0408c3deee1912366984c2587a1a24d.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAzMzg0MV9ncm91cF8wMDhfZW5fdXM7MTAzMzg0MTAwOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Dark beige",
+            "filterName": "",
+            "hybrisCode": "15"
+          },
+          "rgbColor": "#7F7366",
+          "turnToSku": "1033841008003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1033841008",
+        "name": "Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/88/db88b44e6ebb8cd8d12dca37c0f12a70060c8419.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/db/88/db88b44e6ebb8cd8d12dca37c0f12a70060c8419.jpg"
+          }
+        ],
+        "pk": "9448986705921",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/e5/eee55cd7c0408c3deee1912366984c2587a1a24d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/ee/e5/eee55cd7c0408c3deee1912366984c2587a1a24d.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/e5/eee55cd7c0408c3deee1912366984c2587a1a24d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/ee/e5/eee55cd7c0408c3deee1912366984c2587a1a24d.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAzMzg0MV9ncm91cF8wMDhfZW5fdXM7MTAzMzg0MTAwOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Dark beige",
+          "filterName": "",
+          "hybrisCode": "15"
+        },
+        "rgbColor": "#7F7366",
+        "turnToSku": "1033841008003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1033841008",
+        "1033841001",
+        "1033841009"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAzMzg0MV9ncm91cF8wMDhfZW5fdXM7MTAzMzg0MTAwOF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1033841_group_008_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1033841008.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#7F7366",
+        "#272628",
+        "#393A45"
+      ],
+      "articleColorNames": [
+        "Dark beige",
+        "Black",
+        "Navy blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/da/c1/dac167685971655d116171ad4fac58453adc9291.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/72/ba/72ba724a682b2e494a170208b62b4e43fa162d50.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/39/88/3988e30edf6f3167aeab05fbb91d99500fa0c89e.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/da/c1/dac167685971655d116171ad4fac58453adc9291.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/0a/ba/0aba7312dc6cd52e874faa7a5085f9280b78cb3a.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/0a/ba/0aba7312dc6cd52e874faa7a5085f9280b78cb3a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/72/ba/72ba724a682b2e494a170208b62b4e43fa162d50.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/93/a6/93a6094a6f60a6ead98ffedd77003f1f1a9956fc.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/93/a6/93a6094a6f60a6ead98ffedd77003f1f1a9956fc.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/39/88/3988e30edf6f3167aeab05fbb91d99500fa0c89e.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1055764_group_003",
+      "name": "Tasseled Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b6/5a/b65a25d448b6e9be158de536704574a6731674ce.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/b6/5a/b65a25d448b6e9be158de536704574a6731674ce.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9399686299649",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1055764003",
+          "name": "Tasseled Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b6/5a/b65a25d448b6e9be158de536704574a6731674ce.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/b6/5a/b65a25d448b6e9be158de536704574a6731674ce.jpg"
+            }
+          ],
+          "pk": "9367711711233",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/52/05/52053475b704f292d64b8e03ddb85647a64f8c93.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/52/05/52053475b704f292d64b8e03ddb85647a64f8c93.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/52/05/52053475b704f292d64b8e03ddb85647a64f8c93.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/52/05/52053475b704f292d64b8e03ddb85647a64f8c93.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2NF9ncm91cF8wMDNfZW5fdXM7MTA1NTc2NDAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "40E0D0",
+            "text": "Turquoise",
+            "filterName": "Turquoise_40E0D0",
+            "hybrisCode": "89"
+          },
+          "rgbColor": "#738080",
+          "turnToSku": "1055764003003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1055764003",
+        "name": "Tasseled Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b6/5a/b65a25d448b6e9be158de536704574a6731674ce.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/b6/5a/b65a25d448b6e9be158de536704574a6731674ce.jpg"
+          }
+        ],
+        "pk": "9367711711233",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/52/05/52053475b704f292d64b8e03ddb85647a64f8c93.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/52/05/52053475b704f292d64b8e03ddb85647a64f8c93.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/52/05/52053475b704f292d64b8e03ddb85647a64f8c93.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/52/05/52053475b704f292d64b8e03ddb85647a64f8c93.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2NF9ncm91cF8wMDNfZW5fdXM7MTA1NTc2NDAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "40E0D0",
+          "text": "Turquoise",
+          "filterName": "Turquoise_40E0D0",
+          "hybrisCode": "89"
+        },
+        "rgbColor": "#738080",
+        "turnToSku": "1055764003003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1055764003",
+        "1055764006"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2NF9ncm91cF8wMDNfZW5fdXM7MTA1NTc2NDAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1055764_group_003_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1055764003.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#738080",
+        "#715B3F"
+      ],
+      "articleColorNames": [
+        "Turquoise",
+        "Light brown"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/5c/845cc0c571a67a3a1b9dabb8f34a26de39ba3570.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/9e/13/9e13ba1475ce418c8fddb3d8d8bc00410c6992b7.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/d9/ecd98177898c3cc60eb4ec9000c8c63902e7ef4b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d6/55/d655f40107a44cefbdf5c3269dc90f5c8246136a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9e/13/9e13ba1475ce418c8fddb3d8d8bc00410c6992b7.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ec/d9/ecd98177898c3cc60eb4ec9000c8c63902e7ef4b.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d6/55/d655f40107a44cefbdf5c3269dc90f5c8246136a.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/84/5c/845cc0c571a67a3a1b9dabb8f34a26de39ba3570.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1033841_group_009",
+      "name": "Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/68/40/68406b734e2c388c3e2f4bfa68a74eecf184c95a.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/68/40/68406b734e2c388c3e2f4bfa68a74eecf184c95a.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9457130110977",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1033841009",
+          "name": "Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/68/40/68406b734e2c388c3e2f4bfa68a74eecf184c95a.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/68/40/68406b734e2c388c3e2f4bfa68a74eecf184c95a.jpg"
+            }
+          ],
+          "pk": "9434011041793",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/1d/fa/1dfaec81eb1740b9fd0e798c32010322ffefb835.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/1d/fa/1dfaec81eb1740b9fd0e798c32010322ffefb835.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/1d/fa/1dfaec81eb1740b9fd0e798c32010322ffefb835.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/1d/fa/1dfaec81eb1740b9fd0e798c32010322ffefb835.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAzMzg0MV9ncm91cF8wMDlfZW5fdXM7MTAzMzg0MTAwOV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Navy blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "73"
+          },
+          "rgbColor": "#393A45",
+          "genArticle": "033841009238",
+          "turnToSku": "1033841009003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1033841009",
+        "name": "Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/68/40/68406b734e2c388c3e2f4bfa68a74eecf184c95a.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/68/40/68406b734e2c388c3e2f4bfa68a74eecf184c95a.jpg"
+          }
+        ],
+        "pk": "9434011041793",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/1d/fa/1dfaec81eb1740b9fd0e798c32010322ffefb835.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/1d/fa/1dfaec81eb1740b9fd0e798c32010322ffefb835.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/1d/fa/1dfaec81eb1740b9fd0e798c32010322ffefb835.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/1d/fa/1dfaec81eb1740b9fd0e798c32010322ffefb835.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAzMzg0MV9ncm91cF8wMDlfZW5fdXM7MTAzMzg0MTAwOV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Navy blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "73"
+        },
+        "rgbColor": "#393A45",
+        "genArticle": "033841009238",
+        "turnToSku": "1033841009003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1033841009",
+        "1033841001",
+        "1033841008"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAzMzg0MV9ncm91cF8wMDlfZW5fdXM7MTAzMzg0MTAwOV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1033841_group_009_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1033841009.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#393A45",
+        "#272628",
+        "#7F7366"
+      ],
+      "articleColorNames": [
+        "Navy blue",
+        "Black",
+        "Dark beige"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c7/dc/c7dc63eb5ccec7254339d27059ddf19a3d3e862c.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/15/62/1562b4b87fb4c6f392b4a34474db851c9f1086fc.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e1/d4/e1d4a9c25dc65f42f4d5bbe04cacfddf3e120220.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/0c/a9/0ca9072df0b9c9a4a1d5f28e5a0d1c1091badda4.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/15/62/1562b4b87fb4c6f392b4a34474db851c9f1086fc.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/c7/dc/c7dc63eb5ccec7254339d27059ddf19a3d3e862c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/0c/a9/0ca9072df0b9c9a4a1d5f28e5a0d1c1091badda4.jpg],origin[dam],category[men_shoes_loafers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ba/fc/bafc454ac8d64f8563987d875f8c64e4c6577599.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/27/db/27dbef59b395c860250a55bc9e0bf5ba9728d6c3.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/27/db/27dbef59b395c860250a55bc9e0bf5ba9728d6c3.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ba/fc/bafc454ac8d64f8563987d875f8c64e4c6577599.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e1/d4/e1d4a9c25dc65f42f4d5bbe04cacfddf3e120220.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1119290_group_001",
+      "name": "Embroidered Velour Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e4/8a/e48a486595d8056fe37ecfae528e51648b6e3840.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/e4/8a/e48a486595d8056fe37ecfae528e51648b6e3840.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9445523947521",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1119290001",
+          "name": "Embroidered Velour Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/e4/8a/e48a486595d8056fe37ecfae528e51648b6e3840.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/e4/8a/e48a486595d8056fe37ecfae528e51648b6e3840.jpg"
+            }
+          ],
+          "pk": "9422680588289",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/3b/c4/3bc42fd495eb32d562b4c7368ffead75f87f2ecb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/3b/c4/3bc42fd495eb32d562b4c7368ffead75f87f2ecb.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/3b/c4/3bc42fd495eb32d562b4c7368ffead75f87f2ecb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/3b/c4/3bc42fd495eb32d562b4c7368ffead75f87f2ecb.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExOTI5MF9ncm91cF8wMDFfZW5fdXM7MTExOTI5MDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black/emblem",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1119290001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1119290001",
+        "name": "Embroidered Velour Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/e4/8a/e48a486595d8056fe37ecfae528e51648b6e3840.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/e4/8a/e48a486595d8056fe37ecfae528e51648b6e3840.jpg"
+          }
+        ],
+        "pk": "9422680588289",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/3b/c4/3bc42fd495eb32d562b4c7368ffead75f87f2ecb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/3b/c4/3bc42fd495eb32d562b4c7368ffead75f87f2ecb.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/3b/c4/3bc42fd495eb32d562b4c7368ffead75f87f2ecb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/3b/c4/3bc42fd495eb32d562b4c7368ffead75f87f2ecb.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExOTI5MF9ncm91cF8wMDFfZW5fdXM7MTExOTI5MDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black/emblem",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1119290001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1119290001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExOTI5MF9ncm91cF8wMDFfZW5fdXM7MTExOTI5MDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1119290_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1119290001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Black/emblem"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/71/21/7121d34dd03c52ff82d72336693fb0cc8886063e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/71/21/7121d34dd03c52ff82d72336693fb0cc8886063e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6e/8b/6e8bfb669bd31b29cadd9a952f5e978a61a34e47.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ce/6b/ce6ba1b88f5e6090d00520627e5ba678ab081649.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/10/86/1086fa8068945f56bddf7525b1c5001ec14896fa.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6e/8b/6e8bfb669bd31b29cadd9a952f5e978a61a34e47.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ce/6b/ce6ba1b88f5e6090d00520627e5ba678ab081649.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/10/86/1086fa8068945f56bddf7525b1c5001ec14896fa.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1152334_group_002",
+      "name": "Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e8/ec/e8eca3e5712c9e490e87e5ab5fb577f2667c9167.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/e8/ec/e8eca3e5712c9e490e87e5ab5fb577f2667c9167.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9467386986497",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1152334002",
+          "name": "Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/e8/ec/e8eca3e5712c9e490e87e5ab5fb577f2667c9167.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/e8/ec/e8eca3e5712c9e490e87e5ab5fb577f2667c9167.jpg"
+            }
+          ],
+          "pk": "9454724284417",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/1f/c7/1fc76f671790af9a221d7275a75fdb03f7d27dff.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/1f/c7/1fc76f671790af9a221d7275a75fdb03f7d27dff.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/1f/c7/1fc76f671790af9a221d7275a75fdb03f7d27dff.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/1f/c7/1fc76f671790af9a221d7275a75fdb03f7d27dff.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE1MjMzNF9ncm91cF8wMDJfZW5fdXM7MTE1MjMzNDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Beige",
+            "filterName": "",
+            "hybrisCode": "14"
+          },
+          "rgbColor": "#A28053",
+          "turnToSku": "1152334002003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1152334002",
+        "name": "Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/e8/ec/e8eca3e5712c9e490e87e5ab5fb577f2667c9167.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/e8/ec/e8eca3e5712c9e490e87e5ab5fb577f2667c9167.jpg"
+          }
+        ],
+        "pk": "9454724284417",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/1f/c7/1fc76f671790af9a221d7275a75fdb03f7d27dff.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/1f/c7/1fc76f671790af9a221d7275a75fdb03f7d27dff.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/1f/c7/1fc76f671790af9a221d7275a75fdb03f7d27dff.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/1f/c7/1fc76f671790af9a221d7275a75fdb03f7d27dff.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE1MjMzNF9ncm91cF8wMDJfZW5fdXM7MTE1MjMzNDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Beige",
+          "filterName": "",
+          "hybrisCode": "14"
+        },
+        "rgbColor": "#A28053",
+        "turnToSku": "1152334002003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1152334002",
+        "1152334001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE1MjMzNF9ncm91cF8wMDJfZW5fdXM7MTE1MjMzNDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1152334_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1152334002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#A28053",
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Beige",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fe/fa/fefad533216acfa5578a0e9aaf9da0fb6c36e981.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/10/56/1056a190e3dd31ec6a2888bfa7d4e00c3c382b36.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/10/56/1056a190e3dd31ec6a2888bfa7d4e00c3c382b36.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/90/79/90794354b6352e2b97988d8c1ed3ad06b32ac65f.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b4/36/b436d2e08a764adfbdb46ba6fd794dd33593dd4b.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/b4/36/b436d2e08a764adfbdb46ba6fd794dd33593dd4b.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/90/79/90794354b6352e2b97988d8c1ed3ad06b32ac65f.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/fe/fa/fefad533216acfa5578a0e9aaf9da0fb6c36e981.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9c/ce/9ccebe4a884f78027dda96146b773b8b353f6376.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/9c/ce/9ccebe4a884f78027dda96146b773b8b353f6376.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1152334_group_001",
+      "name": "Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/77/ec7711c69d2236865411c8d38bca51fe8ef6e223.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/ec/77/ec7711c69d2236865411c8d38bca51fe8ef6e223.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9467386888193",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1152334001",
+          "name": "Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/77/ec7711c69d2236865411c8d38bca51fe8ef6e223.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/ec/77/ec7711c69d2236865411c8d38bca51fe8ef6e223.jpg"
+            }
+          ],
+          "pk": "9454753972225",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/42/a9/42a984f3080ce0ae1427f0caec4be264a623bda4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/42/a9/42a984f3080ce0ae1427f0caec4be264a623bda4.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/42/a9/42a984f3080ce0ae1427f0caec4be264a623bda4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/42/a9/42a984f3080ce0ae1427f0caec4be264a623bda4.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE1MjMzNF9ncm91cF8wMDFfZW5fdXM7MTE1MjMzNDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1152334001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1152334001",
+        "name": "Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/77/ec7711c69d2236865411c8d38bca51fe8ef6e223.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/ec/77/ec7711c69d2236865411c8d38bca51fe8ef6e223.jpg"
+          }
+        ],
+        "pk": "9454753972225",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/42/a9/42a984f3080ce0ae1427f0caec4be264a623bda4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/42/a9/42a984f3080ce0ae1427f0caec4be264a623bda4.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/42/a9/42a984f3080ce0ae1427f0caec4be264a623bda4.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/42/a9/42a984f3080ce0ae1427f0caec4be264a623bda4.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE1MjMzNF9ncm91cF8wMDFfZW5fdXM7MTE1MjMzNDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1152334001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1152334001",
+        "1152334002"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE1MjMzNF9ncm91cF8wMDFfZW5fdXM7MTE1MjMzNDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1152334_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1152334001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628",
+        "#A28053"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Beige"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6f/32/6f32a551391e7a40c9f5105654cc25e49ebc9255.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/86/60/866004e64d2c8c8faf3fb61f7c82d4bfefbee1fb.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/55/e8/55e8b2a0a2151c097893e4bd051ab823d3df83c3.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/55/e8/55e8b2a0a2151c097893e4bd051ab823d3df83c3.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c7/df/c7dfa9a2c2b10cf3b9fa3d9ae438e33a2b83e2fe.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6f/32/6f32a551391e7a40c9f5105654cc25e49ebc9255.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/86/60/866004e64d2c8c8faf3fb61f7c82d4bfefbee1fb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/fe/3d/fe3deaf3fb37d812e6459fa68002455a314afbbe.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f4/ee/f4eedfa2b54402e249e01a83b8e0aac1e4c388d0.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/c7/df/c7dfa9a2c2b10cf3b9fa3d9ae438e33a2b83e2fe.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fe/3d/fe3deaf3fb37d812e6459fa68002455a314afbbe.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/f4/ee/f4eedfa2b54402e249e01a83b8e0aac1e4c388d0.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1055766_group_001",
+      "name": "Mule Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/7b/2b/7b2b8458aba3f890ed7b5a8597fb21085d54d60a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/7b/2b/7b2b8458aba3f890ed7b5a8597fb21085d54d60a.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9400284282881",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1055766001",
+          "name": "Mule Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/7b/2b/7b2b8458aba3f890ed7b5a8597fb21085d54d60a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/7b/2b/7b2b8458aba3f890ed7b5a8597fb21085d54d60a.jpg"
+            }
+          ],
+          "pk": "9366829367297",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ff/ae/ffae4e19e2f0469d8f47b34a9dabcd305e4501e5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/ff/ae/ffae4e19e2f0469d8f47b34a9dabcd305e4501e5.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ff/ae/ffae4e19e2f0469d8f47b34a9dabcd305e4501e5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/ff/ae/ffae4e19e2f0469d8f47b34a9dabcd305e4501e5.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2Nl9ncm91cF8wMDFfZW5fdXM7MTA1NTc2NjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "055766001237",
+          "turnToSku": "1055766001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1055766001",
+        "name": "Mule Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/7b/2b/7b2b8458aba3f890ed7b5a8597fb21085d54d60a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/7b/2b/7b2b8458aba3f890ed7b5a8597fb21085d54d60a.jpg"
+          }
+        ],
+        "pk": "9366829367297",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ff/ae/ffae4e19e2f0469d8f47b34a9dabcd305e4501e5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/ff/ae/ffae4e19e2f0469d8f47b34a9dabcd305e4501e5.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ff/ae/ffae4e19e2f0469d8f47b34a9dabcd305e4501e5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/ff/ae/ffae4e19e2f0469d8f47b34a9dabcd305e4501e5.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2Nl9ncm91cF8wMDFfZW5fdXM7MTA1NTc2NjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "055766001237",
+        "turnToSku": "1055766001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1055766001",
+        "1055766003"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2Nl9ncm91cF8wMDFfZW5fdXM7MTA1NTc2NjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1055766_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1055766001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628",
+        "#7B7164"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Beige"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/36/eb/36eb8d41968080cbeb32331c6a94e8007975f6cc.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/fb/da/fbda7e27adf91b36616a8e722bf82c62861d9609.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/8e/fe/8efe3bc4ebd6c741c46d68c6b9a202277633a76f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/36/eb/36eb8d41968080cbeb32331c6a94e8007975f6cc.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/dd/f3/ddf3529af9c2e26f3eeff9cc8e876ea11207c2df.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/8c/3a/8c3a1b4c61ac158d40dc43486e6dda6826d1776a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f9/5b/f95b5cc32d70da8b6668c49be8c33766130a4fbe.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/f9/5b/f95b5cc32d70da8b6668c49be8c33766130a4fbe.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/8c/3a/8c3a1b4c61ac158d40dc43486e6dda6826d1776a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/dd/f3/ddf3529af9c2e26f3eeff9cc8e876ea11207c2df.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fb/da/fbda7e27adf91b36616a8e722bf82c62861d9609.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/8e/fe/8efe3bc4ebd6c741c46d68c6b9a202277633a76f.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1055766_group_003",
+      "name": "Mule Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6f/30/6f30868b6b7294694cb27b6a9df0a754b1c39c18.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/6f/30/6f30868b6b7294694cb27b6a9df0a754b1c39c18.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9400215535617",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1055766003",
+          "name": "Mule Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/6f/30/6f30868b6b7294694cb27b6a9df0a754b1c39c18.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/6f/30/6f30868b6b7294694cb27b6a9df0a754b1c39c18.jpg"
+            }
+          ],
+          "pk": "9366825664513",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/74/11/7411e73b1c877ccb8ef60548a72973a9c43b73cd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/74/11/7411e73b1c877ccb8ef60548a72973a9c43b73cd.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/74/11/7411e73b1c877ccb8ef60548a72973a9c43b73cd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/74/11/7411e73b1c877ccb8ef60548a72973a9c43b73cd.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2Nl9ncm91cF8wMDNfZW5fdXM7MTA1NTc2NjAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "F5F5DC",
+            "text": "Beige",
+            "filterName": "",
+            "hybrisCode": "14"
+          },
+          "rgbColor": "#7B7164",
+          "genArticle": "055766003237",
+          "turnToSku": "1055766003003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1055766003",
+        "name": "Mule Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/6f/30/6f30868b6b7294694cb27b6a9df0a754b1c39c18.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/6f/30/6f30868b6b7294694cb27b6a9df0a754b1c39c18.jpg"
+          }
+        ],
+        "pk": "9366825664513",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/74/11/7411e73b1c877ccb8ef60548a72973a9c43b73cd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/74/11/7411e73b1c877ccb8ef60548a72973a9c43b73cd.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/74/11/7411e73b1c877ccb8ef60548a72973a9c43b73cd.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/74/11/7411e73b1c877ccb8ef60548a72973a9c43b73cd.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2Nl9ncm91cF8wMDNfZW5fdXM7MTA1NTc2NjAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "F5F5DC",
+          "text": "Beige",
+          "filterName": "",
+          "hybrisCode": "14"
+        },
+        "rgbColor": "#7B7164",
+        "genArticle": "055766003237",
+        "turnToSku": "1055766003003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1055766003",
+        "1055766001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NTc2Nl9ncm91cF8wMDNfZW5fdXM7MTA1NTc2NjAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1055766_group_003_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1055766003.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#7B7164",
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Beige",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/df/f4/dff448f0d92bb9d082fc5b8e6c0e35f623871897.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/df/f4/dff448f0d92bb9d082fc5b8e6c0e35f623871897.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1b/aa/1baa9f0cbeb00ed564825d9d7dcf4cfb9b4f2a24.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/46/61/4661beebc40b1feea837118e84fc8ef6d9b88696.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c7/c0/c7c092490399980f4a57b6c39d232edea52d6a93.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d5/df/d5df7135255b5bf31dfc1afad955d3ddc4a8b719.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d5/df/d5df7135255b5bf31dfc1afad955d3ddc4a8b719.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/1b/aa/1baa9f0cbeb00ed564825d9d7dcf4cfb9b4f2a24.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/46/61/4661beebc40b1feea837118e84fc8ef6d9b88696.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/c7/c0/c7c092490399980f4a57b6c39d232edea52d6a93.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1033841_group_001",
+      "name": "Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2b/74/2b7431ccd990155c99180c6390a12f47ea7b85c1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/2b/74/2b7431ccd990155c99180c6390a12f47ea7b85c1.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9387624366081",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1033841001",
+          "name": "Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/2b/74/2b7431ccd990155c99180c6390a12f47ea7b85c1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/2b/74/2b7431ccd990155c99180c6390a12f47ea7b85c1.jpg"
+            }
+          ],
+          "pk": "9350084493313",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/bc/03/bc038fb2d03dff1d7f2e5589e39683d68b49b3a5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/bc/03/bc038fb2d03dff1d7f2e5589e39683d68b49b3a5.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/bc/03/bc038fb2d03dff1d7f2e5589e39683d68b49b3a5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/bc/03/bc038fb2d03dff1d7f2e5589e39683d68b49b3a5.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAzMzg0MV9ncm91cF8wMDFfZW5fdXM7MTAzMzg0MTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "033841001238",
+          "turnToSku": "1033841001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1033841001",
+        "name": "Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/2b/74/2b7431ccd990155c99180c6390a12f47ea7b85c1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/2b/74/2b7431ccd990155c99180c6390a12f47ea7b85c1.jpg"
+          }
+        ],
+        "pk": "9350084493313",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/bc/03/bc038fb2d03dff1d7f2e5589e39683d68b49b3a5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/bc/03/bc038fb2d03dff1d7f2e5589e39683d68b49b3a5.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/bc/03/bc038fb2d03dff1d7f2e5589e39683d68b49b3a5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/bc/03/bc038fb2d03dff1d7f2e5589e39683d68b49b3a5.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAzMzg0MV9ncm91cF8wMDFfZW5fdXM7MTAzMzg0MTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "033841001238",
+        "turnToSku": "1033841001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1033841001",
+        "1033841008",
+        "1033841009"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAzMzg0MV9ncm91cF8wMDFfZW5fdXM7MTAzMzg0MTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1033841_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1033841001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628",
+        "#7F7366",
+        "#393A45"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Dark beige",
+        "Navy blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ad/63/ad6328d76e698193dfe3961596ef44c482add55d.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ad/63/ad6328d76e698193dfe3961596ef44c482add55d.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/93/22/9322fec90f0480fa043693680a084af95deae6a4.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/93/22/9322fec90f0480fa043693680a084af95deae6a4.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/30/2a/302a25262f79bc085cfe777c7aace1f347d9c6b5.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/30/2a/302a25262f79bc085cfe777c7aace1f347d9c6b5.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b0/c4/b0c4683bf03cbd9eb8494249287c253d75609439.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/b0/c4/b0c4683bf03cbd9eb8494249287c253d75609439.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1119291_group_001",
+      "name": "Tasseled Loafers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/23/ec237052d6d10769912bed6b2d691e1ec280da2c.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/ec/23/ec237052d6d10769912bed6b2d691e1ec280da2c.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9445523161089",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1119291001",
+          "name": "Tasseled Loafers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/23/ec237052d6d10769912bed6b2d691e1ec280da2c.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/ec/23/ec237052d6d10769912bed6b2d691e1ec280da2c.jpg"
+            }
+          ],
+          "pk": "9422688780289",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ae/bc/aebcde7a7fa94aa25101eb6c8e5807883b8d0681.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/ae/bc/aebcde7a7fa94aa25101eb6c8e5807883b8d0681.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ae/bc/aebcde7a7fa94aa25101eb6c8e5807883b8d0681.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/ae/bc/aebcde7a7fa94aa25101eb6c8e5807883b8d0681.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExOTI5MV9ncm91cF8wMDFfZW5fdXM7MTExOTI5MTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1119291001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1119291001",
+        "name": "Tasseled Loafers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/23/ec237052d6d10769912bed6b2d691e1ec280da2c.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/ec/23/ec237052d6d10769912bed6b2d691e1ec280da2c.jpg"
+          }
+        ],
+        "pk": "9422688780289",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ae/bc/aebcde7a7fa94aa25101eb6c8e5807883b8d0681.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/ae/bc/aebcde7a7fa94aa25101eb6c8e5807883b8d0681.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ae/bc/aebcde7a7fa94aa25101eb6c8e5807883b8d0681.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/ae/bc/aebcde7a7fa94aa25101eb6c8e5807883b8d0681.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExOTI5MV9ncm91cF8wMDFfZW5fdXM7MTExOTI5MTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1119291001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1119291001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExOTI5MV9ncm91cF8wMDFfZW5fdXM7MTExOTI5MTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszNjs",
+      "searchEngineProductId": "1119291_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1119291001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_loafers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e5/61/e561c4abbff9adcefe1a887a57022ccdcefb7f3a.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/54/06/54062c689e662256b4621f8a151f22ca09143eba.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/54/06/54062c689e662256b4621f8a151f22ca09143eba.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e5/61/e561c4abbff9adcefe1a887a57022ccdcefb7f3a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/05/0b/050baf773e0039131d0c33727d4ef6a4f5cf3a4e.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/05/0b/050baf773e0039131d0c33727d4ef6a4f5cf3a4e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d8/05/d8055e20ecb3e2f85b067f0c924359490cd597d3.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d8/05/d8055e20ecb3e2f85b067f0c924359490cd597d3.jpg"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "pageSize": 30,
+    "currentPage": 0,
+    "sort": "stock",
+    "numberOfPages": 1,
+    "totalNumberOfResults": 18,
+    "totalNumberOfResultsUnfiltered": 0
+  },
+  "facets": [
+    {
+      "code": "colors",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "beige",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "black",
+          "count": 9,
+          "selected": false
+        },
+        {
+          "code": "blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "brown",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "turquoise",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "contexts",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Casual",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "Formal",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "productTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Shoes",
+          "count": 18,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "ageGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "adult",
+          "count": 18,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "customerGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Man",
+          "count": 18,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "assortmentTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "footwear",
+          "count": 15,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sizes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "13_9_6_footwear",
+          "count": 18,
+          "selected": false
+        },
+        {
+          "code": "14_10_6_footwear",
+          "count": 17,
+          "selected": false
+        },
+        {
+          "code": "16_12_6_footwear",
+          "count": 17,
+          "selected": false
+        },
+        {
+          "code": "36_7.5_6_footwear",
+          "count": 18,
+          "selected": false
+        },
+        {
+          "code": "38_8.5_6_footwear",
+          "count": 17,
+          "selected": false
+        },
+        {
+          "code": "40_10.5_6_footwear",
+          "count": 18,
+          "selected": false
+        },
+        {
+          "code": "41_11.5_6_footwear",
+          "count": 16,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sale",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "false",
+          "count": 18,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colorWithNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "black_000000",
+          "count": 9,
+          "selected": false
+        },
+        {
+          "code": "blue_0000ff",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "brown_a52a2a",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "turquoise_40e0d0",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "brandNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "H&M",
+          "count": 18,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "footwearStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Loafers",
+          "count": 18,
+          "selected": false
+        },
+        {
+          "code": "Mules",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "heelHeights",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Low heel",
+          "count": 14,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "patterns",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "solid-color",
+          "count": 17,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "trendings",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "embroidered",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "materials",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Canvas",
+          "count": 7,
+          "selected": false
+        },
+        {
+          "code": "Velour",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Velvet",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colourShades",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Aquamarine",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Charcoal",
+          "count": 7,
+          "selected": false
+        },
+        {
+          "code": "Dark blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Emerald green",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Mahogany",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Navy blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Rust",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Sea green",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Teal",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "seasonality",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "spring",
+          "count": 13,
+          "selected": false
+        },
+        {
+          "code": "winter",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "allCategories",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "men_all",
+          "count": 18,
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "freeTextSearch": "",
+  "categoryCode": "men_shoes_loafers",
+  "rangeFacets": [
+    {
+      "code": "priceRange",
+      "range": {
+        "min": 39.99,
+        "max": 49.99,
+        "minSelected": 39.99,
+        "maxSelected": 49.99
+      }
+    }
+  ],
+  "baseUrl": "https://www2.hm.com"
+}

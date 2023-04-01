@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Header from "./components/homepage/Header";
+import Header from "./components/Header";
 import HomePage from "./components/homepage/HomePage";
 import ProductDetails from "./components/product/ProductDetails";
 import { CategoryPage } from "./components/category/CategoryPage";

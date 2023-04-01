@@ -1,0 +1,1840 @@
+{
+  "results": [
+    {
+      "code": "0853284_group_001",
+      "name": "Leather Sandals",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f2/33/f23373d065cfd98ffdeffcfa6579692b8da05a1b.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/f2/33/f23373d065cfd98ffdeffcfa6579692b8da05a1b.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9279793168385",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0853284001",
+          "name": "Leather Sandals",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f2/33/f23373d065cfd98ffdeffcfa6579692b8da05a1b.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/f2/33/f23373d065cfd98ffdeffcfa6579692b8da05a1b.jpg"
+            }
+          ],
+          "pk": "9235747897345",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/dd/04/dd0461789c309c7cdb9fc28dbe4d4975c3689c1a.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/dd/04/dd0461789c309c7cdb9fc28dbe4d4975c3689c1a.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/dd/04/dd0461789c309c7cdb9fc28dbe4d4975c3689c1a.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/dd/04/dd0461789c309c7cdb9fc28dbe4d4975c3689c1a.jpg"
+            }
+          ],
+          "markers": [
+            {
+              "text": "Premium Selection",
+              "type": "QUALITY"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDg1MzI4NF9ncm91cF8wMDFfZW5fdXM7MDg1MzI4NDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "genArticle": "853284001237",
+          "turnToSku": "0853284001003"
+        }
+      ],
+      "markers": [
+        {
+          "text": "Premium Selection",
+          "type": "QUALITY"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0853284001",
+        "name": "Leather Sandals",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f2/33/f23373d065cfd98ffdeffcfa6579692b8da05a1b.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/f2/33/f23373d065cfd98ffdeffcfa6579692b8da05a1b.jpg"
+          }
+        ],
+        "pk": "9235747897345",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/dd/04/dd0461789c309c7cdb9fc28dbe4d4975c3689c1a.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/dd/04/dd0461789c309c7cdb9fc28dbe4d4975c3689c1a.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/dd/04/dd0461789c309c7cdb9fc28dbe4d4975c3689c1a.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/dd/04/dd0461789c309c7cdb9fc28dbe4d4975c3689c1a.jpg"
+          }
+        ],
+        "markers": [
+          {
+            "text": "Premium Selection",
+            "type": "QUALITY"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDg1MzI4NF9ncm91cF8wMDFfZW5fdXM7MDg1MzI4NDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "genArticle": "853284001237",
+        "turnToSku": "0853284001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "0853284001",
+        "0853284002"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDg1MzI4NF9ncm91cF8wMDFfZW5fdXM7MDg1MzI4NDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+      "searchEngineProductId": "0853284_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0853284001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628",
+        "#353031"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Dark brown"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_sandals_espandrillos",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/18/1c/181c5002b83627dcc425248479aeebd472eeb83d.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/b7/66/b766b79db7af2589e185de285e4a1f354b6bd60b.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b7/66/b766b79db7af2589e185de285e4a1f354b6bd60b.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/5c/89/5c890deb601c01667f488339d3b89f046669baa8.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/99/f0/99f09573a1c35dbd65307323ff7776037926965d.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/18/1c/181c5002b83627dcc425248479aeebd472eeb83d.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9a/56/9a56541d0f021f96ef28fead6e8c6d2899b14ec6.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVEDETAIL],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/99/f0/99f09573a1c35dbd65307323ff7776037926965d.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/5c/89/5c890deb601c01667f488339d3b89f046669baa8.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVEDETAIL],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/9a/56/9a56541d0f021f96ef28fead6e8c6d2899b14ec6.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1128251_group_001",
+      "name": "Espadrilles",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/00/f7/00f7e886485860230556b1164d89961692d966d5.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/00/f7/00f7e886485860230556b1164d89961692d966d5.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9469523361793",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1128251001",
+          "name": "Espadrilles",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/00/f7/00f7e886485860230556b1164d89961692d966d5.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/00/f7/00f7e886485860230556b1164d89961692d966d5.jpg"
+            }
+          ],
+          "pk": "9441488535553",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/43/e8/43e8c7ea61b6b1d19f6d8f8dd146c0606e12c178.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/43/e8/43e8c7ea61b6b1d19f6d8f8dd146c0606e12c178.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/43/e8/43e8c7ea61b6b1d19f6d8f8dd146c0606e12c178.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/43/e8/43e8c7ea61b6b1d19f6d8f8dd146c0606e12c178.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODI1MV9ncm91cF8wMDFfZW5fdXM7MTEyODI1MTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1128251001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1128251001",
+        "name": "Espadrilles",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/00/f7/00f7e886485860230556b1164d89961692d966d5.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/00/f7/00f7e886485860230556b1164d89961692d966d5.jpg"
+          }
+        ],
+        "pk": "9441488535553",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/43/e8/43e8c7ea61b6b1d19f6d8f8dd146c0606e12c178.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/43/e8/43e8c7ea61b6b1d19f6d8f8dd146c0606e12c178.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/43/e8/43e8c7ea61b6b1d19f6d8f8dd146c0606e12c178.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/43/e8/43e8c7ea61b6b1d19f6d8f8dd146c0606e12c178.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODI1MV9ncm91cF8wMDFfZW5fdXM7MTEyODI1MTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1128251001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1128251001",
+        "1128251002",
+        "1128251003"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODI1MV9ncm91cF8wMDFfZW5fdXM7MTEyODI1MTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+      "searchEngineProductId": "1128251_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1128251001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628",
+        "#8F8C88",
+        "#2D323F"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Gray",
+        "Dark blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/59/79/5979df684f571b191f0fda9dc5f53bb801a8f0f1.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/7d/6d/7d6d2f6f6e181733a03c409ec73f4e56c8b0f339.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/7d/6d/7d6d2f6f6e181733a03c409ec73f4e56c8b0f339.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/63/5c/635c452324bc1a2364b3cefbcfaf23fecf84cf6a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/da/1e/da1e9b7099c7d7b3e89100a264bdb5e37f206980.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e8/cf/e8cf30e9e4d2715c96e404f5269d16b5af7c612a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e8/cf/e8cf30e9e4d2715c96e404f5269d16b5af7c612a.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/59/79/5979df684f571b191f0fda9dc5f53bb801a8f0f1.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/63/5c/635c452324bc1a2364b3cefbcfaf23fecf84cf6a.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/da/1e/da1e9b7099c7d7b3e89100a264bdb5e37f206980.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1128251_group_003",
+      "name": "Espadrilles",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/6d/536d7fc1c8018d88a1021d29a34b991287107e9d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/53/6d/536d7fc1c8018d88a1021d29a34b991287107e9d.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9467602829313",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1128251003",
+          "name": "Espadrilles",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/6d/536d7fc1c8018d88a1021d29a34b991287107e9d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/53/6d/536d7fc1c8018d88a1021d29a34b991287107e9d.jpg"
+            }
+          ],
+          "pk": "9442931507201",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/6d/336dda8584d2b4770418d4152af1ee6063ee28bb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/33/6d/336dda8584d2b4770418d4152af1ee6063ee28bb.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/6d/336dda8584d2b4770418d4152af1ee6063ee28bb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/33/6d/336dda8584d2b4770418d4152af1ee6063ee28bb.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODI1MV9ncm91cF8wMDNfZW5fdXM7MTEyODI1MTAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Dark blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "76"
+          },
+          "rgbColor": "#2D323F",
+          "turnToSku": "1128251003003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1128251003",
+        "name": "Espadrilles",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/53/6d/536d7fc1c8018d88a1021d29a34b991287107e9d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/53/6d/536d7fc1c8018d88a1021d29a34b991287107e9d.jpg"
+          }
+        ],
+        "pk": "9442931507201",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/6d/336dda8584d2b4770418d4152af1ee6063ee28bb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/33/6d/336dda8584d2b4770418d4152af1ee6063ee28bb.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/33/6d/336dda8584d2b4770418d4152af1ee6063ee28bb.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/33/6d/336dda8584d2b4770418d4152af1ee6063ee28bb.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODI1MV9ncm91cF8wMDNfZW5fdXM7MTEyODI1MTAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Dark blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "76"
+        },
+        "rgbColor": "#2D323F",
+        "turnToSku": "1128251003003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1128251003",
+        "1128251001",
+        "1128251002"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODI1MV9ncm91cF8wMDNfZW5fdXM7MTEyODI1MTAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+      "searchEngineProductId": "1128251_group_003_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1128251003.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#2D323F",
+        "#272628",
+        "#8F8C88"
+      ],
+      "articleColorNames": [
+        "Dark blue",
+        "Black",
+        "Gray"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1b/95/1b959e7b7d921148b91e5e32db4535077ba41874.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/1b/95/1b959e7b7d921148b91e5e32db4535077ba41874.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c8/bc/c8bc5359d35211949b68ad9ca95269afd5b439b2.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/32/43/3243d293ab7565743d69a4da16cea56c31a734fe.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e5/e4/e5e4353e5d2222ef25432bb271513adc95c85716.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e5/e4/e5e4353e5d2222ef25432bb271513adc95c85716.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/32/43/3243d293ab7565743d69a4da16cea56c31a734fe.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/df/fd/dffdf410ecadbb8b4bc4cf094b3dff86cdc5060e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/df/fd/dffdf410ecadbb8b4bc4cf094b3dff86cdc5060e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/c8/bc/c8bc5359d35211949b68ad9ca95269afd5b439b2.jpg"
+        }
+      ]
+    },
+    {
+      "code": "0853284_group_002",
+      "name": "Leather Sandals",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/9b/ca/9bca4d02abb6163e53339229206f6179fed24303.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/9b/ca/9bca4d02abb6163e53339229206f6179fed24303.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9279849660417",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 39.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 39.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "0853284002",
+          "name": "Leather Sandals",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/9b/ca/9bca4d02abb6163e53339229206f6179fed24303.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/9b/ca/9bca4d02abb6163e53339229206f6179fed24303.jpg"
+            }
+          ],
+          "pk": "9234980241409",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 39.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 39.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/0f/ff/0fff0f7267665c4982eeca6c1b2f24e86a5e8379.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/0f/ff/0fff0f7267665c4982eeca6c1b2f24e86a5e8379.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/0f/ff/0fff0f7267665c4982eeca6c1b2f24e86a5e8379.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/0f/ff/0fff0f7267665c4982eeca6c1b2f24e86a5e8379.jpg"
+            }
+          ],
+          "markers": [
+            {
+              "text": "Premium Selection",
+              "type": "QUALITY"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDg1MzI4NF9ncm91cF8wMDJfZW5fdXM7MDg1MzI4NDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "A52A2A",
+            "text": "Dark brown",
+            "filterName": "Brown_A52A2A",
+            "hybrisCode": "17"
+          },
+          "rgbColor": "#353031",
+          "genArticle": "853284002237",
+          "turnToSku": "0853284002003"
+        }
+      ],
+      "markers": [
+        {
+          "text": "Premium Selection",
+          "type": "QUALITY"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "0853284002",
+        "name": "Leather Sandals",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/9b/ca/9bca4d02abb6163e53339229206f6179fed24303.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/9b/ca/9bca4d02abb6163e53339229206f6179fed24303.jpg"
+          }
+        ],
+        "pk": "9234980241409",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 39.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 39.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/0f/ff/0fff0f7267665c4982eeca6c1b2f24e86a5e8379.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/0f/ff/0fff0f7267665c4982eeca6c1b2f24e86a5e8379.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/0f/ff/0fff0f7267665c4982eeca6c1b2f24e86a5e8379.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/0f/ff/0fff0f7267665c4982eeca6c1b2f24e86a5e8379.jpg"
+          }
+        ],
+        "markers": [
+          {
+            "text": "Premium Selection",
+            "type": "QUALITY"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDg1MzI4NF9ncm91cF8wMDJfZW5fdXM7MDg1MzI4NDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "A52A2A",
+          "text": "Dark brown",
+          "filterName": "Brown_A52A2A",
+          "hybrisCode": "17"
+        },
+        "rgbColor": "#353031",
+        "genArticle": "853284002237",
+        "turnToSku": "0853284002003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "0853284002",
+        "0853284001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MDg1MzI4NF9ncm91cF8wMDJfZW5fdXM7MDg1MzI4NDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+      "searchEngineProductId": "0853284_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.0853284002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#353031",
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Dark brown",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_sandals_espandrillos",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6e/fc/6efcca94b8dcd7afbf38b7f0ef23fbf2ecd29b9e.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/4d/41/4d41937cc7d6aff3a72525b7d2d2e2b9168edd6f.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6d/ba/6dba1bd46121277b72b4de9aac5d98df95b10565.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/fb/79/fb79a101995008e33f087046b05b5b11252ecff2.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fd/47/fd476de9be402dfedf333bdc03fedad7ec325cc2.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6d/ba/6dba1bd46121277b72b4de9aac5d98df95b10565.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/4d/41/4d41937cc7d6aff3a72525b7d2d2e2b9168edd6f.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6e/fc/6efcca94b8dcd7afbf38b7f0ef23fbf2ecd29b9e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/7f/91/7f91207c3f8a3b338fd956f44d59ba786462b485.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/fd/47/fd476de9be402dfedf333bdc03fedad7ec325cc2.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fb/79/fb79a101995008e33f087046b05b5b11252ecff2.jpg],origin[dam],category[men_shoes_sandals_espandrillos],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/7f/91/7f91207c3f8a3b338fd956f44d59ba786462b485.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1128251_group_002",
+      "name": "Espadrilles",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e8/02/e8028d4d5f0967f6d6299aa3a621e3b04b4daf42.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/e8/02/e8028d4d5f0967f6d6299aa3a621e3b04b4daf42.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9469445832705",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1128251002",
+          "name": "Espadrilles",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/e8/02/e8028d4d5f0967f6d6299aa3a621e3b04b4daf42.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/e8/02/e8028d4d5f0967f6d6299aa3a621e3b04b4daf42.jpg"
+            }
+          ],
+          "pk": "9441493909505",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/bd/66bd2ee14e2f6f43fee4569a0eb027b15b78c8b3.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/66/bd/66bd2ee14e2f6f43fee4569a0eb027b15b78c8b3.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/bd/66bd2ee14e2f6f43fee4569a0eb027b15b78c8b3.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/66/bd/66bd2ee14e2f6f43fee4569a0eb027b15b78c8b3.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODI1MV9ncm91cF8wMDJfZW5fdXM7MTEyODI1MTAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "808080",
+            "text": "Gray",
+            "filterName": "Gray_808080",
+            "hybrisCode": "07"
+          },
+          "rgbColor": "#8F8C88",
+          "turnToSku": "1128251002003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1128251002",
+        "name": "Espadrilles",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/e8/02/e8028d4d5f0967f6d6299aa3a621e3b04b4daf42.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/e8/02/e8028d4d5f0967f6d6299aa3a621e3b04b4daf42.jpg"
+          }
+        ],
+        "pk": "9441493909505",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/bd/66bd2ee14e2f6f43fee4569a0eb027b15b78c8b3.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/66/bd/66bd2ee14e2f6f43fee4569a0eb027b15b78c8b3.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/66/bd/66bd2ee14e2f6f43fee4569a0eb027b15b78c8b3.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/66/bd/66bd2ee14e2f6f43fee4569a0eb027b15b78c8b3.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODI1MV9ncm91cF8wMDJfZW5fdXM7MTEyODI1MTAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "808080",
+          "text": "Gray",
+          "filterName": "Gray_808080",
+          "hybrisCode": "07"
+        },
+        "rgbColor": "#8F8C88",
+        "turnToSku": "1128251002003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1128251002",
+        "1128251001",
+        "1128251003"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODI1MV9ncm91cF8wMDJfZW5fdXM7MTEyODI1MTAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+      "searchEngineProductId": "1128251_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1128251002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#8F8C88",
+        "#272628",
+        "#2D323F"
+      ],
+      "articleColorNames": [
+        "Gray",
+        "Black",
+        "Dark blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 3,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d5/33/d533ba667099ceec64f00e59d9d55458baaaed89.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ed/15/ed154eee860571d91391c14b0647ef85b4d2a394.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ed/15/ed154eee860571d91391c14b0647ef85b4d2a394.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/78/26/78266e8cb1c2cec5f3f0c05732a5aee285f66175.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6c/e7/6ce749123f2f9a993ea099c7090f5b743dc1c353.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/74/83/7483233a0073563ed120af88a3c50e66d4d2e206.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/78/26/78266e8cb1c2cec5f3f0c05732a5aee285f66175.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d5/33/d533ba667099ceec64f00e59d9d55458baaaed89.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/74/83/7483233a0073563ed120af88a3c50e66d4d2e206.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6c/e7/6ce749123f2f9a993ea099c7090f5b743dc1c353.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1023328_group_003",
+      "name": "Slippers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9344993918977",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1023328003",
+          "name": "Slippers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg"
+            }
+          ],
+          "pk": "9327899508737",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 24.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 24.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAyMzMyOF9ncm91cF8wMDNfZW5fdXM7MTAyMzMyODAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "FFFFFF",
+            "text": "Cream",
+            "filterName": "White_FFFFFF",
+            "hybrisCode": "11"
+          },
+          "rgbColor": "#EEEDE1",
+          "turnToSku": "1023328003001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1023328003",
+        "name": "Slippers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg"
+          }
+        ],
+        "pk": "9327899508737",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 24.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 24.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/16/64/16644200ac2198ef906a8019b1f5cfda3b1bebdf.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAyMzMyOF9ncm91cF8wMDNfZW5fdXM7MTAyMzMyODAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "FFFFFF",
+          "text": "Cream",
+          "filterName": "White_FFFFFF",
+          "hybrisCode": "11"
+        },
+        "rgbColor": "#EEEDE1",
+        "turnToSku": "1023328003001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1023328003"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAyMzMyOF9ncm91cF8wMDNfZW5fdXM7MTAyMzMyODAwM19lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+      "searchEngineProductId": "1023328_group_003_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1023328003.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#EEEDE1"
+      ],
+      "articleColorNames": [
+        "Cream"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_sandals_espandrillos",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/43/e6/43e6d55d85894dcf3d1e1ca0d865b1e02204620e.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/8e/5b/8e5b1fdb8b96df18cf606942f6a7a626e5dda6bd.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/8f/bb/8fbbb11e2481446dc6647837860d2145cf808543.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/8f/bb/8fbbb11e2481446dc6647837860d2145cf808543.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/8e/5b/8e5b1fdb8b96df18cf606942f6a7a626e5dda6bd.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/43/e6/43e6d55d85894dcf3d1e1ca0d865b1e02204620e.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1056160_group_004",
+      "name": "Canvas Espadrilles",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9397658189825",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1056160004",
+          "name": "Canvas Espadrilles",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg"
+            }
+          ],
+          "pk": "9357577060353",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 17.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 17.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NjE2MF9ncm91cF8wMDRfZW5fdXM7MTA1NjE2MDAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "808080",
+            "text": "Dark taupe",
+            "filterName": "Gray_808080",
+            "hybrisCode": "07"
+          },
+          "rgbColor": "#8F8C88",
+          "genArticle": "056160004225",
+          "turnToSku": "1056160004003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1056160004",
+        "name": "Canvas Espadrilles",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg"
+          }
+        ],
+        "pk": "9357577060353",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 17.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 17.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/db/f1/dbf1fd35ef28650eb9b1b0bac486522e89c143e0.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NjE2MF9ncm91cF8wMDRfZW5fdXM7MTA1NjE2MDAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "808080",
+          "text": "Dark taupe",
+          "filterName": "Gray_808080",
+          "hybrisCode": "07"
+        },
+        "rgbColor": "#8F8C88",
+        "genArticle": "056160004225",
+        "turnToSku": "1056160004003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1056160004"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA1NjE2MF9ncm91cF8wMDRfZW5fdXM7MTA1NjE2MDAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTszMjs",
+      "searchEngineProductId": "1056160_group_004_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1056160004.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#8F8C88"
+      ],
+      "articleColorNames": [
+        "Dark taupe"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_sandals_espandrillos",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/8b/30/8b30d7b771c508b70744ebcb7130a501a338d9a0.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/a1/e7/a1e7612d3d60e76521e0a68c9d0b27b9c266c58c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fd/9b/fd9b8474f1ac0af714856a1f917d97e9f47faff8.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/8b/30/8b30d7b771c508b70744ebcb7130a501a338d9a0.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a1/e7/a1e7612d3d60e76521e0a68c9d0b27b9c266c58c.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/fd/9b/fd9b8474f1ac0af714856a1f917d97e9f47faff8.jpg"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "pageSize": 30,
+    "currentPage": 0,
+    "sort": "stock",
+    "numberOfPages": 1,
+    "totalNumberOfResults": 7,
+    "totalNumberOfResultsUnfiltered": 0
+  },
+  "facets": [
+    {
+      "code": "qualities",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Premium Selection",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colors",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "beige",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "black",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "brown",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "gray",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "white",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "productTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Shoes",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "ageGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "adult",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "customerGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Man",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "assortmentTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "footwear",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sizes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "13_9_6_footwear",
+          "count": 6,
+          "selected": false
+        },
+        {
+          "code": "14_10_6_footwear",
+          "count": 6,
+          "selected": false
+        },
+        {
+          "code": "16_12_6_footwear",
+          "count": 5,
+          "selected": false
+        },
+        {
+          "code": "36_7.5_6_footwear",
+          "count": 6,
+          "selected": false
+        },
+        {
+          "code": "38_8.5_6_footwear",
+          "count": 7,
+          "selected": false
+        },
+        {
+          "code": "40_10.5_6_footwear",
+          "count": 6,
+          "selected": false
+        },
+        {
+          "code": "41_11.5_6_footwear",
+          "count": 6,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sale",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "false",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colorWithNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "black_000000",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "blue_0000ff",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "brown_a52a2a",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "gray_808080",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "white_ffffff",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "brandNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "H&M",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "footwearStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Espadrilles",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "Sandals",
+          "count": 3,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "heelHeights",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "No heel",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "patterns",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "solid-color",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "trendings",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "leather",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "suede",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "materials",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Canvas",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "Leather",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colourShades",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Bright blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Charcoal",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "Cobalt blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Dark blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Dark gray",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "Indigo",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Navy blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Royal blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Stone",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "seasonality",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "summer",
+          "count": 3,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "allCategories",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "men_all",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "freeTextSearch": "",
+  "categoryCode": "men_shoes_sandals_espandrillos",
+  "rangeFacets": [
+    {
+      "code": "priceRange",
+      "range": {
+        "min": 17.99,
+        "max": 39.99,
+        "minSelected": 17.99,
+        "maxSelected": 39.99
+      }
+    }
+  ],
+  "baseUrl": "https://www2.hm.com"
+}

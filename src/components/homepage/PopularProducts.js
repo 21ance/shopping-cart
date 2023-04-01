@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import ProductPreview from "../product/ProductPreview";
 import db from "../../data/db";
 
-const fourItems = db.newarrival.results.slice(0, 4);
+const fourItems = db.new_arrival.results.slice(0, 4);
 const PopularProducts = () => {
   return (
     <section className="section-popular-products">
@@ -13,7 +13,7 @@ const PopularProducts = () => {
           return (
             <Link
               key={item.code}
-              to={`/categories/newarrival/${item.code}`}
+              to={`/categories/new_arrival/${item.code}`}
               className="remove-link-style dark-font"
             >
               <ProductPreview

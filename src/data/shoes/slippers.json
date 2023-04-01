@@ -1,0 +1,2292 @@
+{
+  "results": [
+    {
+      "code": "1072678_group_004",
+      "name": "Fleece-lined Slippers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/56/ac/56ac38b88ee9d963234ac785c6b9e7ba302e670e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/56/ac/56ac38b88ee9d963234ac785c6b9e7ba302e670e.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9441753464833",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1072678004",
+          "name": "Fleece-lined Slippers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/56/ac/56ac38b88ee9d963234ac785c6b9e7ba302e670e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/56/ac/56ac38b88ee9d963234ac785c6b9e7ba302e670e.jpg"
+            }
+          ],
+          "pk": "9412409819137",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 17.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 17.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/e8/f1e860b106fcceec8429749548e45883b167311d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/f1/e8/f1e860b106fcceec8429749548e45883b167311d.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/e8/f1e860b106fcceec8429749548e45883b167311d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/f1/e8/f1e860b106fcceec8429749548e45883b167311d.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3MjY3OF9ncm91cF8wMDRfZW5fdXM7MTA3MjY3ODAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1072678004001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1072678004",
+        "name": "Fleece-lined Slippers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/56/ac/56ac38b88ee9d963234ac785c6b9e7ba302e670e.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/56/ac/56ac38b88ee9d963234ac785c6b9e7ba302e670e.jpg"
+          }
+        ],
+        "pk": "9412409819137",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 17.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 17.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/e8/f1e860b106fcceec8429749548e45883b167311d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/f1/e8/f1e860b106fcceec8429749548e45883b167311d.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/e8/f1e860b106fcceec8429749548e45883b167311d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/f1/e8/f1e860b106fcceec8429749548e45883b167311d.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3MjY3OF9ncm91cF8wMDRfZW5fdXM7MTA3MjY3ODAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1072678004001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1072678004"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA3MjY3OF9ncm91cF8wMDRfZW5fdXM7MTA3MjY3ODAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+      "searchEngineProductId": "1072678_group_004_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1072678004.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_slippers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/3d/79/3d798fd0456b86f14e9bc8bcad6eadff7251e517.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/3d/79/3d798fd0456b86f14e9bc8bcad6eadff7251e517.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/21/17/21178766d6c34d675090c36ba6caf6a7717d76c1.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/21/17/21178766d6c34d675090c36ba6caf6a7717d76c1.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/3e/7b/3e7b5d5a104698c5edcaec51eb9212360bd0eff9.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/a7/54/a754b9d7a5370d1c8aca446e967d046de889611b.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a7/54/a754b9d7a5370d1c8aca446e967d046de889611b.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/3e/7b/3e7b5d5a104698c5edcaec51eb9212360bd0eff9.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1025755_group_001",
+      "name": "Soft Slippers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9348074373121",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1025755001",
+          "name": "Soft Slippers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg"
+            }
+          ],
+          "pk": "9328554541057",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 24.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 24.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAyNTc1NV9ncm91cF8wMDFfZW5fdXM7MTAyNTc1NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "008000",
+            "text": "Light green/The Mandalorian",
+            "filterName": "Green_008000,Multi_000000",
+            "hybrisCode": "97"
+          },
+          "rgbColor": "#A9C29D",
+          "turnToSku": "1025755001001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1025755001",
+        "name": "Soft Slippers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg"
+          }
+        ],
+        "pk": "9328554541057",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 24.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 24.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/a4/28/a428f99367e04ce4e9a951c59101a220bab9b23b.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAyNTc1NV9ncm91cF8wMDFfZW5fdXM7MTAyNTc1NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "008000",
+          "text": "Light green/The Mandalorian",
+          "filterName": "Green_008000,Multi_000000",
+          "hybrisCode": "97"
+        },
+        "rgbColor": "#A9C29D",
+        "turnToSku": "1025755001001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1025755001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTAyNTc1NV9ncm91cF8wMDFfZW5fdXM7MTAyNTc1NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+      "searchEngineProductId": "1025755_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1025755001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#A9C29D"
+      ],
+      "articleColorNames": [
+        "Light green/The Mandalorian"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_slippers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d0/ab/d0abbdc66b780bfab52dd40db2f85ceeed9a3637.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/74/c5/74c57544e7ad6ab38298eb462ef36b3e325f5d0a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/74/c5/74c57544e7ad6ab38298eb462ef36b3e325f5d0a.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d0/ab/d0abbdc66b780bfab52dd40db2f85ceeed9a3637.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a9/c0/a9c0b1ecc476593b76d35823649b2332653f3395.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/a9/c0/a9c0b1ecc476593b76d35823649b2332653f3395.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1041066_group_001",
+      "name": "Padded Slip-on Slippers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a1/45/a145d5205be27e46b86cd52a7ef1d7882672710b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/a1/45/a145d5205be27e46b86cd52a7ef1d7882672710b.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9358557937665",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1041066001",
+          "name": "Padded Slip-on Slippers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/a1/45/a145d5205be27e46b86cd52a7ef1d7882672710b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/a1/45/a145d5205be27e46b86cd52a7ef1d7882672710b.jpg"
+            }
+          ],
+          "pk": "9337333284865",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 29.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 29.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/12/03/12038201fb2a9f338b97c5953acab4ab257577a1.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/12/03/12038201fb2a9f338b97c5953acab4ab257577a1.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/12/03/12038201fb2a9f338b97c5953acab4ab257577a1.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/12/03/12038201fb2a9f338b97c5953acab4ab257577a1.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MTA2Nl9ncm91cF8wMDFfZW5fdXM7MTA0MTA2NjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black",
+            "filterName": "Black_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1041066001001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1041066001",
+        "name": "Padded Slip-on Slippers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/a1/45/a145d5205be27e46b86cd52a7ef1d7882672710b.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/a1/45/a145d5205be27e46b86cd52a7ef1d7882672710b.jpg"
+          }
+        ],
+        "pk": "9337333284865",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 29.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 29.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/12/03/12038201fb2a9f338b97c5953acab4ab257577a1.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/12/03/12038201fb2a9f338b97c5953acab4ab257577a1.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/12/03/12038201fb2a9f338b97c5953acab4ab257577a1.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/12/03/12038201fb2a9f338b97c5953acab4ab257577a1.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MTA2Nl9ncm91cF8wMDFfZW5fdXM7MTA0MTA2NjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1041066001001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1041066001",
+        "1041066004"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MTA2Nl9ncm91cF8wMDFfZW5fdXM7MTA0MTA2NjAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+      "searchEngineProductId": "1041066_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1041066001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628",
+        "#686B59"
+      ],
+      "articleColorNames": [
+        "Black",
+        "Green/plaid"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_slippers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/07/6b/076b6c5dcab926562ee449716a441dd23c2b6b05.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ef/bd/efbdb1ca55ce89d5f8c8d83a172c4ee45926074e.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/5e/0c/5e0cfc6d31a219d3c23c73bac335647199d3e7af.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/07/6b/076b6c5dcab926562ee449716a441dd23c2b6b05.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/18/95/1895471a5d119a526f2cec19abfa7d2b05359139.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/62/2b/622b19cd6fc3b693cf6c817e2962c79c4bcecd14.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/62/2b/622b19cd6fc3b693cf6c817e2962c79c4bcecd14.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/18/95/1895471a5d119a526f2cec19abfa7d2b05359139.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ef/bd/efbdb1ca55ce89d5f8c8d83a172c4ee45926074e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/25/0d/250d35363f559cb8be3d21884b6d2eeb7e70c928.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/25/0d/250d35363f559cb8be3d21884b6d2eeb7e70c928.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/5e/0c/5e0cfc6d31a219d3c23c73bac335647199d3e7af.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/20/29/202983693589051e154981c37666dfa73c8d426d.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/20/29/202983693589051e154981c37666dfa73c8d426d.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1112924_group_001",
+      "name": "Fleece-lined Slippers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/da/70da871d462b805d4e16feeeb2aaacdb8978018f.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/70/da/70da871d462b805d4e16feeeb2aaacdb8978018f.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9435153727489",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1112924001",
+          "name": "Fleece-lined Slippers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/da/70da871d462b805d4e16feeeb2aaacdb8978018f.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/70/da/70da871d462b805d4e16feeeb2aaacdb8978018f.jpg"
+            }
+          ],
+          "pk": "9406438244353",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ed/2f/ed2f468e6b2e25ca5c1e5a75c79b16f81e0a1ecc.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/ed/2f/ed2f468e6b2e25ca5c1e5a75c79b16f81e0a1ecc.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ed/2f/ed2f468e6b2e25ca5c1e5a75c79b16f81e0a1ecc.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/ed/2f/ed2f468e6b2e25ca5c1e5a75c79b16f81e0a1ecc.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExMjkyNF9ncm91cF8wMDFfZW5fdXM7MTExMjkyNDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "808080",
+            "text": "Dark gray",
+            "filterName": "Gray_808080,Multi_000000",
+            "hybrisCode": "08"
+          },
+          "rgbColor": "#494A4F",
+          "turnToSku": "1112924001001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1112924001",
+        "name": "Fleece-lined Slippers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/70/da/70da871d462b805d4e16feeeb2aaacdb8978018f.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/70/da/70da871d462b805d4e16feeeb2aaacdb8978018f.jpg"
+          }
+        ],
+        "pk": "9406438244353",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ed/2f/ed2f468e6b2e25ca5c1e5a75c79b16f81e0a1ecc.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/ed/2f/ed2f468e6b2e25ca5c1e5a75c79b16f81e0a1ecc.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ed/2f/ed2f468e6b2e25ca5c1e5a75c79b16f81e0a1ecc.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/ed/2f/ed2f468e6b2e25ca5c1e5a75c79b16f81e0a1ecc.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExMjkyNF9ncm91cF8wMDFfZW5fdXM7MTExMjkyNDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "808080",
+          "text": "Dark gray",
+          "filterName": "Gray_808080,Multi_000000",
+          "hybrisCode": "08"
+        },
+        "rgbColor": "#494A4F",
+        "turnToSku": "1112924001001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1112924001",
+        "1112924002"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExMjkyNF9ncm91cF8wMDFfZW5fdXM7MTExMjkyNDAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+      "searchEngineProductId": "1112924_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1112924001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#494A4F",
+        "#393B47"
+      ],
+      "articleColorNames": [
+        "Dark gray",
+        "Dark blue"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_slippers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/67/a4/67a4e5e86ff3de0415c29393f234e16b546c0345.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/57/ab/57ab330c49dbfbd111ac6d8657b97dcb591b9e53.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/57/ab/57ab330c49dbfbd111ac6d8657b97dcb591b9e53.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/67/a4/67a4e5e86ff3de0415c29393f234e16b546c0345.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/01/27/012731693942f43f2da89b1ec98c86ac79326ee7.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/01/27/012731693942f43f2da89b1ec98c86ac79326ee7.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/0c/54/0c543e7b286bccf0f0423267c4e8cdd1a894ce33.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/0c/54/0c543e7b286bccf0f0423267c4e8cdd1a894ce33.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1152353_group_001",
+      "name": "Printed Pool Slide Sandals",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9473001029633",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 24.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 24.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1152353001",
+          "name": "Printed Pool Slide Sandals",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg"
+            }
+          ],
+          "pk": "9449570271233",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 24.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 24.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE1MjM1M19ncm91cF8wMDFfZW5fdXM7MTE1MjM1MzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "000000",
+            "text": "Black/Smiley®",
+            "filterName": "Black_000000,Multi_000000",
+            "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1152353001001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1152353001",
+        "name": "Printed Pool Slide Sandals",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg"
+          }
+        ],
+        "pk": "9449570271233",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 24.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 24.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/fc/f0/fcf0bfd0f3b653c24ce3e47c5b5c356085a22f4d.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE1MjM1M19ncm91cF8wMDFfZW5fdXM7MTE1MjM1MzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "000000",
+          "text": "Black/Smiley®",
+          "filterName": "Black_000000,Multi_000000",
+          "hybrisCode": "09"
+        },
+        "rgbColor": "#272628",
+        "turnToSku": "1152353001001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1152353001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTE1MjM1M19ncm91cF8wMDFfZW5fdXM7MTE1MjM1MzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+      "searchEngineProductId": "1152353_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1152353001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Black/Smiley®"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/ec/eeecc379c4dcdfe02d70dbce56808c56d3eb4540.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/ee/ec/eeecc379c4dcdfe02d70dbce56808c56d3eb4540.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/a8/a7/a8a71fc55a121c711b8180dcd642195fbe214d98.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/40/0e/400ea20f43cb348aac76ecce472e52fb65a7d932.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/40/0e/400ea20f43cb348aac76ecce472e52fb65a7d932.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/a8/a7/a8a71fc55a121c711b8180dcd642195fbe214d98.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1112924_group_002",
+      "name": "Fleece-lined Slippers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/b8/96/b8968301c32be341808892a3e9aa9fa43c960ddd.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/b8/96/b8968301c32be341808892a3e9aa9fa43c960ddd.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9435153498113",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 19.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 19.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1112924002",
+          "name": "Fleece-lined Slippers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/b8/96/b8968301c32be341808892a3e9aa9fa43c960ddd.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/b8/96/b8968301c32be341808892a3e9aa9fa43c960ddd.jpg"
+            }
+          ],
+          "pk": "9406197825537",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 19.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 19.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/bd/37/bd377fe94766973493337618fb193b67f6911190.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/bd/37/bd377fe94766973493337618fb193b67f6911190.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/bd/37/bd377fe94766973493337618fb193b67f6911190.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/bd/37/bd377fe94766973493337618fb193b67f6911190.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExMjkyNF9ncm91cF8wMDJfZW5fdXM7MTExMjkyNDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Dark blue",
+            "filterName": "Blue_0000FF",
+            "hybrisCode": "76"
+          },
+          "rgbColor": "#393B47",
+          "turnToSku": "1112924002001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1112924002",
+        "name": "Fleece-lined Slippers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/b8/96/b8968301c32be341808892a3e9aa9fa43c960ddd.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/b8/96/b8968301c32be341808892a3e9aa9fa43c960ddd.jpg"
+          }
+        ],
+        "pk": "9406197825537",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 19.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 19.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/bd/37/bd377fe94766973493337618fb193b67f6911190.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/bd/37/bd377fe94766973493337618fb193b67f6911190.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/bd/37/bd377fe94766973493337618fb193b67f6911190.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/bd/37/bd377fe94766973493337618fb193b67f6911190.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExMjkyNF9ncm91cF8wMDJfZW5fdXM7MTExMjkyNDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Dark blue",
+          "filterName": "Blue_0000FF",
+          "hybrisCode": "76"
+        },
+        "rgbColor": "#393B47",
+        "turnToSku": "1112924002001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1112924002",
+        "1112924001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTExMjkyNF9ncm91cF8wMDJfZW5fdXM7MTExMjkyNDAwMl9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+      "searchEngineProductId": "1112924_group_002_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1112924002.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#393B47",
+        "#494A4F"
+      ],
+      "articleColorNames": [
+        "Dark blue",
+        "Dark gray"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_slippers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f4/d0/f4d04f87da539ad52b0a200a42128f94b7657d7c.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/21/0d/210dbf894fe3dba677fca5a243360746dba98e7d.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/c4/b3/c4b39deb7bca1861d00fdfbe5b80b0ede23e5cf6.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/be/74/be74e0d3ec79c0374a352fb2f9a1dbd71ea4214a.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/21/0d/210dbf894fe3dba677fca5a243360746dba98e7d.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/14/f0/14f01de14d49a2c53350697c480a94129a4f6d3b.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/14/f0/14f01de14d49a2c53350697c480a94129a4f6d3b.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/c4/b3/c4b39deb7bca1861d00fdfbe5b80b0ede23e5cf6.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/be/74/be74e0d3ec79c0374a352fb2f9a1dbd71ea4214a.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/f4/d0/f4d04f87da539ad52b0a200a42128f94b7657d7c.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1128365_group_001",
+      "name": "Fluffy Sandals",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/e0/ece039a7b447c1ef3abbf7a1aaec08b7930dce79.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/ec/e0/ece039a7b447c1ef3abbf7a1aaec08b7930dce79.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9445528109057",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1128365001",
+          "name": "Fluffy Sandals",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/e0/ece039a7b447c1ef3abbf7a1aaec08b7930dce79.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/ec/e0/ece039a7b447c1ef3abbf7a1aaec08b7930dce79.jpg"
+            }
+          ],
+          "pk": "9410538274817",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 29.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 29.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/0d/05/0d0557b55f18c676b5936b562a6918f5caf9d2b0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/0d/05/0d0557b55f18c676b5936b562a6918f5caf9d2b0.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/0d/05/0d0557b55f18c676b5936b562a6918f5caf9d2b0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/0d/05/0d0557b55f18c676b5936b562a6918f5caf9d2b0.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODM2NV9ncm91cF8wMDFfZW5fdXM7MTEyODM2NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "008000",
+            "text": "Moss green",
+            "filterName": "Green_008000",
+            "hybrisCode": "19"
+          },
+          "rgbColor": "#5E5648",
+          "turnToSku": "1128365001003"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1128365001",
+        "name": "Fluffy Sandals",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ec/e0/ece039a7b447c1ef3abbf7a1aaec08b7930dce79.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/ec/e0/ece039a7b447c1ef3abbf7a1aaec08b7930dce79.jpg"
+          }
+        ],
+        "pk": "9410538274817",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 29.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 29.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/0d/05/0d0557b55f18c676b5936b562a6918f5caf9d2b0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/0d/05/0d0557b55f18c676b5936b562a6918f5caf9d2b0.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/0d/05/0d0557b55f18c676b5936b562a6918f5caf9d2b0.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/0d/05/0d0557b55f18c676b5936b562a6918f5caf9d2b0.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODM2NV9ncm91cF8wMDFfZW5fdXM7MTEyODM2NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "008000",
+          "text": "Moss green",
+          "filterName": "Green_008000",
+          "hybrisCode": "19"
+        },
+        "rgbColor": "#5E5648",
+        "turnToSku": "1128365001003"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1128365001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTEyODM2NV9ncm91cF8wMDFfZW5fdXM7MTEyODM2NTAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+      "searchEngineProductId": "1128365_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1128365001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#5E5648"
+      ],
+      "articleColorNames": [
+        "Moss green"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_slippers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6b/46/6b4673f985baeb3ae575ec1282c4b578c268101f.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d3/5b/d35bd005a5c7941ae8c3814b0dd7ffc4c7aebeae.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2d/c2/2dc29aa9d22aad3161adcc0236713ea60019ebd1.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/2d/c2/2dc29aa9d22aad3161adcc0236713ea60019ebd1.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d3/5b/d35bd005a5c7941ae8c3814b0dd7ffc4c7aebeae.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6b/46/6b4673f985baeb3ae575ec1282c4b578c268101f.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2d/dd/2ddd9d7416e64bf308239ce7eea8ae40dcf384e1.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/3f/f1/3ff1b70722a6b1ac3acdfbf03d5326bd73acdc79.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/8d/63/8d63f9ee9dea93fe96c106eee218cf3a9b84b137.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/8d/63/8d63f9ee9dea93fe96c106eee218cf3a9b84b137.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/3f/f1/3ff1b70722a6b1ac3acdfbf03d5326bd73acdc79.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/2d/dd/2ddd9d7416e64bf308239ce7eea8ae40dcf384e1.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/2a/22/2a22aea1695e0d605d8816e0018ff859feda00b5.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/2a/22/2a22aea1695e0d605d8816e0018ff859feda00b5.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1041066_group_004",
+      "name": "Padded Slip-on Slippers",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/ec/eeec44a7bf3923ec96649874d0c2ab0e9aeead86.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/ee/ec/eeec44a7bf3923ec96649874d0c2ab0e9aeead86.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9440983777281",
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 29.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 29.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1041066004",
+          "name": "Padded Slip-on Slippers",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/ec/eeec44a7bf3923ec96649874d0c2ab0e9aeead86.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/ee/ec/eeec44a7bf3923ec96649874d0c2ab0e9aeead86.jpg"
+            }
+          ],
+          "pk": "9410289860609",
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 29.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 29.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f5/0f/f50f66e44ea4dd1a21c4d95690934ecc6ec3063e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/f5/0f/f50f66e44ea4dd1a21c4d95690934ecc6ec3063e.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/f5/0f/f50f66e44ea4dd1a21c4d95690934ecc6ec3063e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/f5/0f/f50f66e44ea4dd1a21c4d95690934ecc6ec3063e.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MTA2Nl9ncm91cF8wMDRfZW5fdXM7MTA0MTA2NjAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "008000",
+            "text": "Green/plaid",
+            "filterName": "Green_008000,Multi_000000",
+            "hybrisCode": "19"
+          },
+          "rgbColor": "#686B59",
+          "turnToSku": "1041066004001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1041066004",
+        "name": "Padded Slip-on Slippers",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/ee/ec/eeec44a7bf3923ec96649874d0c2ab0e9aeead86.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/ee/ec/eeec44a7bf3923ec96649874d0c2ab0e9aeead86.jpg"
+          }
+        ],
+        "pk": "9410289860609",
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 29.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 29.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f5/0f/f50f66e44ea4dd1a21c4d95690934ecc6ec3063e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/f5/0f/f50f66e44ea4dd1a21c4d95690934ecc6ec3063e.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/f5/0f/f50f66e44ea4dd1a21c4d95690934ecc6ec3063e.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/f5/0f/f50f66e44ea4dd1a21c4d95690934ecc6ec3063e.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MTA2Nl9ncm91cF8wMDRfZW5fdXM7MTA0MTA2NjAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "008000",
+          "text": "Green/plaid",
+          "filterName": "Green_008000,Multi_000000",
+          "hybrisCode": "19"
+        },
+        "rgbColor": "#686B59",
+        "turnToSku": "1041066004001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1041066004",
+        "1041066001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA0MTA2Nl9ncm91cF8wMDRfZW5fdXM7MTA0MTA2NjAwNF9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+      "searchEngineProductId": "1041066_group_004_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1041066004.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#686B59",
+        "#272628"
+      ],
+      "articleColorNames": [
+        "Green/plaid",
+        "Black"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 2,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_slippers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/56/4c/564c9bbd5e045aba2618001165ee32a377368010.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/25/1a/251af3cf3144a8234396a9df7474ddd5f540f051.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/25/1a/251af3cf3144a8234396a9df7474ddd5f540f051.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/87/f4/87f4a0ce0c0c2f726c3f0d3ed3f46fd36d2da00c.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/87/f4/87f4a0ce0c0c2f726c3f0d3ed3f46fd36d2da00c.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e6/80/e680e63d95727f047c0aaa20cbaa1018a24948ec.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/45/a3/45a320c86f051647b8ebbdae75607614ea083e96.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/56/4c/564c9bbd5e045aba2618001165ee32a377368010.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e6/80/e680e63d95727f047c0aaa20cbaa1018a24948ec.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/6d/04/6d0410a6c6ea647227fd0eb55de29073970e39d2.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/6d/04/6d0410a6c6ea647227fd0eb55de29073970e39d2.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/45/a3/45a320c86f051647b8ebbdae75607614ea083e96.jpg"
+        }
+      ]
+    },
+    {
+      "code": "1086887_group_001",
+      "name": "Pool Shoes",
+      "stock": {
+        "stockLevel": 1
+      },
+      "price": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "images": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg"
+        }
+      ],
+      "categories": [],
+      "pk": "9477417467905",
+      "sellingAttributes": [
+        "New Arrival"
+      ],
+      "whitePrice": {
+        "currencyIso": "USD",
+        "value": 17.99,
+        "priceType": "BUY",
+        "formattedValue": "$ 17.99",
+        "type": "WHITE"
+      },
+      "articles": [
+        {
+          "code": "1086887001",
+          "name": "Pool Shoes",
+          "images": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg"
+            }
+          ],
+          "pk": "9367465132033",
+          "sellingAttributes": [
+            "New Arrival"
+          ],
+          "whitePrice": {
+            "currencyIso": "USD",
+            "value": 17.99,
+            "priceType": "BUY",
+            "formattedValue": "$ 17.99",
+            "type": "WHITE"
+          },
+          "logoPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg"
+            }
+          ],
+          "normalPicture": [
+            {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg"
+            }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4Njg4N19ncm91cF8wMDFfZW5fdXM7MTA4Njg4NzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+            "code": "0000FF",
+            "text": "Blue/red/white",
+            "filterName": "Blue_0000FF,Multi_000000",
+            "hybrisCode": "73"
+          },
+          "rgbColor": "#252642",
+          "genArticle": "086887001226",
+          "turnToSku": "1086887001001"
+        }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "defaultArticle": {
+        "code": "1086887001",
+        "name": "Pool Shoes",
+        "images": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+            "baseUrl": "https://image.hm.com/assets/hm/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg"
+          }
+        ],
+        "pk": "9367465132033",
+        "sellingAttributes": [
+          "New Arrival"
+        ],
+        "whitePrice": {
+          "currencyIso": "USD",
+          "value": 17.99,
+          "priceType": "BUY",
+          "formattedValue": "$ 17.99",
+          "type": "WHITE"
+        },
+        "logoPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg"
+          }
+        ],
+        "normalPicture": [
+          {
+            "url": "https://lp2.hm.com/hmgoepprod?set=source[/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+            "baseUrl": "https://image.hm.com/assets/hm/84/af/84afce8fd3752ef7c99aecaaff83b18f8e217ee4.jpg"
+          }
+        ],
+        "visible": false,
+        "numbersOfPieces": 0,
+        "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4Njg4N19ncm91cF8wMDFfZW5fdXM7MTA4Njg4NzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+        "dummy": false,
+        "ecoTaxValue": 0,
+        "redirectToPdp": false,
+        "comingSoon": false,
+        "color": {
+          "code": "0000FF",
+          "text": "Blue/red/white",
+          "filterName": "Blue_0000FF,Multi_000000",
+          "hybrisCode": "73"
+        },
+        "rgbColor": "#252642",
+        "genArticle": "086887001226",
+        "turnToSku": "1086887001001"
+      },
+      "sale": false,
+      "variantSizes": [
+        {
+          "orderFilter": 16,
+          "filterCode": "12"
+        },
+        {
+          "orderFilter": 11,
+          "filterCode": "7"
+        },
+        {
+          "orderFilter": 41,
+          "filterCode": "11.5"
+        },
+        {
+          "orderFilter": 13,
+          "filterCode": "9"
+        },
+        {
+          "orderFilter": 40,
+          "filterCode": "10.5"
+        },
+        {
+          "orderFilter": 14,
+          "filterCode": "10"
+        },
+        {
+          "orderFilter": 38,
+          "filterCode": "8.5"
+        },
+        {
+          "orderFilter": 36,
+          "filterCode": "7.5"
+        }
+      ],
+      "swatches": [],
+      "articleCodes": [
+        "1086887001"
+      ],
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4Njg4N19ncm91cF8wMDFfZW5fdXM7MTA4Njg4NzAwMV9lbl91cztPQkpFQ1RJVkUkO05PTkU6Tk9ORTsxMTs",
+      "searchEngineProductId": "1086887_group_001_en_us",
+      "dummy": false,
+      "linkPdp": "/en_us/productpage.1086887001.html",
+      "categoryName": "Men",
+      "rgbColors": [
+        "#252642"
+      ],
+      "articleColorNames": [
+        "Blue/red/white"
+      ],
+      "ecoTaxValue": 0,
+      "swatchesTotal": 1,
+      "showPriceMarker": false,
+      "redirectToPdp": false,
+      "mainCategoryCode": "men_shoes_slippers",
+      "comingSoon": false,
+      "brandName": "H&M",
+      "galleryImages": [
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/da/36/da36682d0e07a6c1fd988fe951c7fa98919e2cea.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/da/36/da36682d0e07a6c1fd988fe951c7fa98919e2cea.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f2/7a/f27adc714d4c9c66423fa154729545fccf228be3.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/f2/7a/f27adc714d4c9c66423fa154729545fccf228be3.jpg"
+        },
+        {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/e7/e1/e7e10e6d4033b4d299e77d530b34a4d4463d9271.jpg],origin[dam],category[],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/e7/e1/e7e10e6d4033b4d299e77d530b34a4d4463d9271.jpg"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "pageSize": 30,
+    "currentPage": 0,
+    "sort": "stock",
+    "numberOfPages": 1,
+    "totalNumberOfResults": 9,
+    "totalNumberOfResultsUnfiltered": 0
+  },
+  "facets": [
+    {
+      "code": "colors",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "black",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "blue",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "gray",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "green",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "multi",
+          "count": 5,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "contexts",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Beach",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "Lounge",
+          "count": 4,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "productTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Shoes",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Slippers",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "productGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Loungewear",
+          "count": 3,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "ageGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "adult",
+          "count": 9,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "customerGroups",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Man",
+          "count": 9,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "assortmentTypes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "footwear",
+          "count": 7,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sizes",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "11_7_6_footwear",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "13_9_6_footwear",
+          "count": 8,
+          "selected": false
+        },
+        {
+          "code": "14_10_6_footwear",
+          "count": 8,
+          "selected": false
+        },
+        {
+          "code": "16_12_6_footwear",
+          "count": 4,
+          "selected": false
+        },
+        {
+          "code": "36_7.5_6_footwear",
+          "count": 8,
+          "selected": false
+        },
+        {
+          "code": "38_8.5_6_footwear",
+          "count": 8,
+          "selected": false
+        },
+        {
+          "code": "40_10.5_6_footwear",
+          "count": 8,
+          "selected": false
+        },
+        {
+          "code": "41_11.5_6_footwear",
+          "count": 8,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "sale",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "false",
+          "count": 9,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colorWithNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "black_000000",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "blue_0000ff",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "gray_808080",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "green_008000",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "multi_000000",
+          "count": 5,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "brandNames",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "H&M",
+          "count": 9,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "footwearStyles",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Flatform",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Slides",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "heelHeights",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "No heel",
+          "count": 6,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "patterns",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "checked",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "patterned",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "solid-color",
+          "count": 5,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "occasions",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "4th of july",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "trendings",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "faux fur",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "quilted",
+          "count": 2,
+          "selected": false
+        },
+        {
+          "code": "velvet",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "licenseItems",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "star wars",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "licenseCompanies",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "disney/star wars",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "materials",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Teddy",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "features",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "non-slip protection",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "padded",
+          "count": 2,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "colourShades",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "Bright blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Bright green",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Charcoal",
+          "count": 3,
+          "selected": false
+        },
+        {
+          "code": "Cobalt blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Dark blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Dark gray",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Indigo",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Khaki green",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Light green",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Lime",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Navy blue",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "Royal blue",
+          "count": 1,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "seasonality",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "autumn",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "summer",
+          "count": 1,
+          "selected": false
+        },
+        {
+          "code": "winter",
+          "count": 5,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "code": "allCategories",
+      "priority": 0,
+      "category": false,
+      "multiSelect": false,
+      "visible": true,
+      "values": [
+        {
+          "code": "men_all",
+          "count": 9,
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "freeTextSearch": "",
+  "categoryCode": "men_shoes_slippers",
+  "rangeFacets": [
+    {
+      "code": "priceRange",
+      "range": {
+        "min": 17.99,
+        "max": 29.99,
+        "minSelected": 17.99,
+        "maxSelected": 29.99
+      }
+    }
+  ],
+  "baseUrl": "https://www2.hm.com"
+}

@@ -12,10 +12,10 @@ const Header = (props) => {
         <span className="header-left-divider">|</span>
         <nav className="header-nav">
           <ul>
-            <li>NEW ARRIVAL</li>
-            <li>TOP</li>
-            <li>BOTTOM</li>
-            <li>SHOES</li>
+            <HeaderLink title="NEW ARRIVAL" link="new_arrival" />
+            <HeaderLink title="TOP" link="casual" />
+            <HeaderLink title="BOTTOM" link="linen" />
+            <HeaderLink title="SHOES" link="sneakers" />
           </ul>
         </nav>
       </div>
@@ -30,6 +30,15 @@ const Header = (props) => {
         </span>
       </div>
     </header>
+  );
+};
+
+const HeaderLink = (props) => {
+  const { title, link } = props;
+  return (
+    <Link to={`/categories/${link}`} className="remove-link-style white-font">
+      <li>{title}</li>
+    </Link>
   );
 };
 

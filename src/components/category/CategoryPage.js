@@ -1,5 +1,9 @@
 import { Link, NavLink, useLocation, useParams } from "react-router-dom";
-import Shirts from "./Shirt";
+import Shirts from "./tops/Shirt";
+import Hoodies from "./tops/Hoodies";
+import Trousers from "./pants/Trousers";
+import Jeans from "./pants/Jeans";
+import Shoes from "./shoes/Shoes";
 import ProductPreview from "../product/ProductPreview";
 import { useEffect } from "react";
 import db from "../../data/db";
@@ -16,16 +20,27 @@ const CategoryPage = () => {
   return (
     <div className="category-container">
       <aside className="category-list">
+        <NavLink
+          to={`/categories/new_arrival`}
+          className={({ isActive }) =>
+            (isActive ? "link-active" : "link") + " solo-link remove-link-style"
+          }
+        >
+          <CategoryTitle title="New Arrival" />
+        </NavLink>
         <Shirts />
+        <Hoodies />
+        <Trousers />
+        <Jeans />
+        <Shoes />
       </aside>
       <main className="product-display">
-        {/* {location.pathname} */}
+        <h1 className="page-title">{categoryType}</h1>
         {data.map((item) => {
           return (
             <Link
               key={item.code}
               to={`${location.pathname}/${item.code}`}
-              // state={{ item }}
               className="remove-link-style dark-font"
             >
               <ProductPreview
@@ -49,7 +64,7 @@ const CategoryTitle = (props) => {
 };
 
 const CategoryLink = (props) => {
-  const { categoryName, data } = props;
+  const { categoryName } = props;
 
   return (
     <NavLink
@@ -57,7 +72,6 @@ const CategoryLink = (props) => {
       className={({ isActive }) =>
         (isActive ? "link-active" : "link") + " category-link remove-link-style"
       }
-      state={{ data }}
     >
       <span>{categoryName}</span>
     </NavLink>

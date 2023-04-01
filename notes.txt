@@ -1,24 +1,5 @@
 men_newarrivals
 
-SHIRT/TANKS
-men_tshirtstanks_tanks
-men_tshirtstanks_shortsleeve
-men_tshirtstanks_printed
-men_tshirtstanks_longsleeve
-MEN_TSHIRTSTANKS_POLO
-men_basics_tshirts
-
-PANTS TROUSERS
-men_trousers_chinos
-men_trousers_joggers
-men_trousers_cargo
-men_trousers_linentrousers
-
-HOODIES
-men_hoodiessweatshirts_printed
-men_hoodiessweatshirts_hoodies
-men_hoodiessweatshirts_sweatshirts
-
 SHIRTS
 men_shirts_casual
 men_shirts_shortsleeved
@@ -28,13 +9,22 @@ men_shirts_flannel
 //men_shirt_dressed_slimfit
 //men_shirt_dressed_regularfit
 
+HOODIES
+men_hoodiessweatshirts_hoodies
+men_hoodiessweatshirts_printed
+men_hoodiessweatshirts_sweatshirts
+
+PANTS TROUSERS
+men_trousers_chinos
+men_trousers_joggers
+men_trousers_cargo
+men_trousers_linentrousers
+
 PANTS JEANS
-men_jeans_joggers
+men_jeans_tapered
 men_jeans_skinny
 men_jeans_slim
 men_jeans_regular
-men_jeans_relaxed
-men_jeans_tapered
 men_jeans_loose
 
 SHORTS
