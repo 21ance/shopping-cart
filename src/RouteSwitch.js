@@ -7,12 +7,23 @@ import { CategoryPage } from "./components/category/CategoryPage";
 import Cart from "./components/cart/Cart";
 
 const RouteSwitch = () => {
-  const [cart, setCart] = useState([]);
-  const [favorites, setFavorites] = useState([]);
+  const [cart, setCart] = useState(() => {
+    if (JSON.parse(localStorage.getItem("cart") !== null)) {
+      return JSON.parse(localStorage.getItem("cart"));
+    }
+    return [];
+  });
+
+  const [favorites, setFavorites] = useState(() => {
+    if (JSON.parse(localStorage.getItem("wishlist") !== null)) {
+      return JSON.parse(localStorage.getItem("wishlist"));
+    }
+    return [];
+  });
 
   useEffect(() => {
-    console.log(cart);
-    console.log(favorites);
+    localStorage.setItem("cart", JSON.stringify(cart));
+    localStorage.setItem("wishlist", JSON.stringify(favorites));
   }, [cart, favorites]);
 
   return (
@@ -31,7 +42,7 @@ const RouteSwitch = () => {
           }
         />
         <Route path="/categories/:categoryType" element={<CategoryPage />} />
-        <Route path="/cart" element={<Cart />} />
+        <Route path="/cart" element={<Cart cart={cart} setCart={setCart} />} />
       </Routes>
     </BrowserRouter>
   );

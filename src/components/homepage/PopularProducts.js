@@ -9,7 +9,6 @@ const PopularProducts = () => {
       <h2>POPULAR PRODUCTS</h2>
       <div className="popular-products">
         {fourItems.map((item) => {
-          console.log(item);
           return (
             <Link
               key={item.code}

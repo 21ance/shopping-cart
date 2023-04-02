@@ -1,6 +1,9 @@
 import { MdOutlineShoppingBag, MdShoppingCartCheckout } from "react-icons/md";
 
-const Cart = () => {
+const Cart = (props) => {
+  const { cart, setCart } = props;
+
+  console.log(cart);
   return (
     <main className="cart-page">
       <div className="page-title">
