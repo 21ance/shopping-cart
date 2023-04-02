@@ -34,23 +34,24 @@
       h3:before {
         content:' ';
         display:block;
-        border:2px solid $header-gold;
+        border:2px solid $gold-color;
         text-align: center;
       }
 
       h3:after {
         content:' ';
         display:block;
-        border:2px solid $header-gold;
+        border:2px solid $gold-color;
         text-align: center;
       }
     }
 
     .category:hover {
       align-items: end;
-      transition: 0.5s;
+
       h3 {
-        color: $header-gold;
+        // color: $gold-color;
+        display: none;
       }
 
       h3:before, h3:after {

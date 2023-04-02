@@ -18,9 +18,14 @@ header {
       font-weight: 300;
     }
 
+    .header-title:hover{
+      color:$gold-color;
+      transition: 0.5s;
+    }
+
     .header-left-divider {
       font-size: 3rem;
-      color: $header-gold;
+      color: $gold-color;
     }
 
     .header-nav {
@@ -29,6 +34,11 @@ header {
         align-items: center;
         list-style: none;
         gap: 30px;
+      }
+
+      li:hover{
+        color:$gold-color;
+        transition: 0.5s;
       }
     }
   }

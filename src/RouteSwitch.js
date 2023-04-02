@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import HomePage from "./components/homepage/HomePage";
 import ProductDetails from "./components/product/ProductDetails";
 import { CategoryPage } from "./components/category/CategoryPage";
+import Cart from "./components/cart/Cart";
 
 const RouteSwitch = () => {
   const [cart, setCart] = useState([]);
@@ -30,6 +31,7 @@ const RouteSwitch = () => {
           }
         />
         <Route path="/categories/:categoryType" element={<CategoryPage />} />
+        <Route path="/cart" element={<Cart />} />
       </Routes>
     </BrowserRouter>
   );

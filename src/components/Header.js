@@ -12,32 +12,41 @@ const Header = (props) => {
         <span className="header-left-divider">|</span>
         <nav className="header-nav">
           <ul>
-            <HeaderLink title="NEW ARRIVAL" link="new_arrival" />
-            <HeaderLink title="TOP" link="casual" />
-            <HeaderLink title="BOTTOM" link="linen" />
-            <HeaderLink title="SHOES" link="sneakers" />
+            <HeaderLink title="NEW ARRIVAL" link="/categories/new_arrival" />
+            <HeaderLink title="TOPS" link="/categories/casual" />
+            <HeaderLink title="PANTS" link="/categories/linen" />
+            <HeaderLink title="SHOES" link="/categories/sneakers" />
           </ul>
         </nav>
       </div>
       <div className="right-side">
-        <span className="header-icon">
-          <MdFavoriteBorder />
-          <span className="icon-counter">{favorites.length}</span>
-        </span>
-        <span className="header-icon">
-          <MdOutlineShoppingBag />
-          <span className="icon-counter">{cart.length}</span>
-        </span>
+        <HeaderLink
+          link={`/cart`}
+          icon={<MdFavoriteBorder />}
+          object={favorites}
+        />
+        <HeaderLink
+          link={`/cart`}
+          icon={<MdOutlineShoppingBag />}
+          object={cart}
+        />
       </div>
     </header>
   );
 };
 
 const HeaderLink = (props) => {
-  const { title, link } = props;
+  const { title = "", link, icon, object } = props;
   return (
-    <Link to={`/categories/${link}`} className="remove-link-style white-font">
-      <li>{title}</li>
+    <Link to={`${link}`} className="remove-link-style white-font">
+      {title !== "" ? (
+        <li>{title}</li>
+      ) : (
+        <span className="header-icon">
+          {icon}
+          <span className="icon-counter">{object.length}</span>
+        </span>
+      )}
     </Link>
   );
 };
