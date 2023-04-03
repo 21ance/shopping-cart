@@ -17,8 +17,8 @@ const PopularProducts = () => {
             >
               <ProductPreview
                 name={item.name}
-                defaultImage={item.articles[0].logoPicture[0].baseUrl}
-                hoveredImage={item.images[0].baseUrl}
+                defaultImage={item.articles[0].logoPicture[0].url}
+                hoveredImage={item.images[0].url}
                 price={item.price.value}
               />
             </Link>

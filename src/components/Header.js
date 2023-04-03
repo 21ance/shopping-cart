@@ -11,12 +11,10 @@ const Header = (props) => {
         </Link>
         <span className="header-left-divider">|</span>
         <nav className="header-nav">
-          <ul>
-            <HeaderLink title="NEW ARRIVAL" link="/categories/new_arrival" />
-            <HeaderLink title="TOPS" link="/categories/casual" />
-            <HeaderLink title="PANTS" link="/categories/linen" />
-            <HeaderLink title="SHOES" link="/categories/sneakers" />
-          </ul>
+          <HeaderLink title="NEW ARRIVAL" link="/categories/new_arrival" />
+          <HeaderLink title="TOPS" link="/categories/casual" />
+          <HeaderLink title="PANTS" link="/categories/linen" />
+          <HeaderLink title="SHOES" link="/categories/sneakers" />
         </nav>
       </div>
       <div className="right-side">
@@ -40,7 +38,7 @@ const HeaderLink = (props) => {
   return (
     <Link to={`${link}`} className="remove-link-style white-font">
       {title !== "" ? (
-        <li>{title}</li>
+        <span>{title}</span>
       ) : (
         <span className="header-icon">
           {icon}

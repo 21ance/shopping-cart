@@ -29,14 +29,12 @@ header {
     }
 
     .header-nav {
-      ul {
-        display: flex;
-        align-items: center;
-        list-style: none;
-        gap: 30px;
-      }
+      display: flex;
+      align-items: center;
+      list-style: none;
+      gap: 30px;
 
-      li:hover{
+      a:hover{
         color:$gold-color;
         transition: 0.5s;
       }

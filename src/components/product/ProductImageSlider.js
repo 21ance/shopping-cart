@@ -5,9 +5,9 @@ const ProductImageSlider = (props) => {
       {imageList.map((image) => {
         return (
           <img
-            src={image.baseUrl}
+            src={image.url}
             alt="clothe_image"
-            key={image.baseUrl}
+            key={image.url}
             onMouseOver={handleMouseOver}
             onMouseOut={handleMouseOut}
           />

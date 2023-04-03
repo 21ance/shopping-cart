@@ -47,7 +47,7 @@ const ProductDetails = (props) => {
             name: item[0].name,
             price: item[0].price.value,
             size: size,
-            image: item[0].images[0].baseUrl,
+            image: item[0].images[0].url,
             quantity: 1,
             url: location.pathname,
           },
@@ -94,7 +94,7 @@ const ProductDetails = (props) => {
     <main className="product-details">
       <figure className="product-images">
         <ProductImageSlider
-          mainImage={item[0].images[0].baseUrl}
+          mainImage={item[0].images[0].url}
           imageList={item[0].galleryImages}
           handleMouseOver={handleMouseOver}
           handleMouseOut={handleMouseOut}
