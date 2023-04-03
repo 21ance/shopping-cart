@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { MdOutlineShoppingBag, MdShoppingCartCheckout } from "react-icons/md";
-import Counter from "../Counter";
+import Counter from "./Counter";
 
 const Cart = (props) => {
   const { cart, setCart } = props;

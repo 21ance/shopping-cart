@@ -34,18 +34,30 @@ const ProductDetails = (props) => {
       setMessage("Please select a size before adding to bag");
       return;
     }
-    setCart((prev) => [
-      ...prev,
-      {
-        id: item[0].code,
-        name: item[0].name,
-        price: item[0].price.value,
-        size: size,
-        image: item[0].images[0].baseUrl,
-        quantity: 1,
-        url: location.pathname,
-      },
-    ]);
+
+    setCart((prev) => {
+      if (
+        prev.length === 0 ||
+        !prev.some((prod) => prod.id === item[0].code && prod.size === size)
+      ) {
+        return [
+          ...prev,
+          {
+            id: item[0].code,
+            name: item[0].name,
+            price: item[0].price.value,
+            size: size,
+            image: item[0].images[0].baseUrl,
+            quantity: 1,
+            url: location.pathname,
+          },
+        ];
+      } else {
+        return prev.map((prod) => {
+          return { ...prod, quantity: prod.quantity + 1 };
+        });
+      }
+    });
   }
 
   function handleAddToFav() {
