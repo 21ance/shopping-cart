@@ -1,16 +1,16 @@
 import { useState } from "react";
-import { useParams } from "react-router-dom";
+import { useLocation, useParams } from "react-router-dom";
 import ProductImageSlider from "./ProductImageSlider";
 import ExtraDetails from "./ExtraDetails";
 import { MdFavoriteBorder, MdFavorite, MdShoppingBag } from "react-icons/md";
 import db from "../../data/db";
 
 const ProductDetails = (props) => {
+  const location = useLocation();
   const { category, itemCode } = useParams();
   const item = db[category].results.filter((obj) => {
     return obj.code === itemCode;
   });
-
   const [mainImage, setMainImage] = useState(item[0].images[0].baseUrl);
   const { setCart, favorites, setFavorites } = props;
   const [size, setSize] = useState("Select Size");
@@ -43,6 +43,7 @@ const ProductDetails = (props) => {
         size: size,
         image: item[0].images[0].baseUrl,
         quantity: 1,
+        url: location.pathname,
       },
     ]);
   }

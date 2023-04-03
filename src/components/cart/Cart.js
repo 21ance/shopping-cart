@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { MdOutlineShoppingBag, MdShoppingCartCheckout } from "react-icons/md";
 import Counter from "../Counter";
 
@@ -31,7 +32,9 @@ const Cart = (props) => {
         {cart.map((item) => {
           return (
             <article className="cart-item">
-              <img src={item.image} alt={item.name} />
+              <Link to={item.url} className="remove-link-style">
+                <img src={item.image} alt={item.name} />
+              </Link>
               <div>
                 <h4>{item.name}</h4>
                 <span className="item-size">Size: {item.size}</span>
