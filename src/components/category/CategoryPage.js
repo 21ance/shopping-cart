@@ -5,16 +5,17 @@ import Trousers from "./pants/Trousers";
 import Jeans from "./pants/Jeans";
 import Shoes from "./shoes/Shoes";
 import ProductPreview from "../product/ProductPreview";
-import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 import db from "../../data/db";
 
 const CategoryPage = () => {
   const { categoryType } = useParams();
   const location = useLocation();
   const data = db[categoryType].results;
+  const mainRef = useRef();
 
   useEffect(() => {
-    window.scrollTo(0, 0);
+    mainRef.current.scrollTo(0, 0);
   }, [categoryType]);
 
   return (
@@ -34,7 +35,7 @@ const CategoryPage = () => {
         <Jeans />
         <Shoes />
       </aside>
-      <main className="product-display">
+      <main className="product-display" ref={mainRef}>
         <h1 className="page-title">{categoryType}</h1>
         {data.map((item) => {
           return (
@@ -46,7 +47,8 @@ const CategoryPage = () => {
               <ProductPreview
                 name={item.name}
                 defaultImage={item.articles[0].logoPicture[0].url}
-                hoveredImage={item.images[0].url}
+                hoveredImage={item.galleryImages[0].url}
+                // hoveredImage={item.images[0].url}
                 // defaultImage={item.images[0].url}
                 price={item.price.value}
               />
