@@ -7,6 +7,8 @@ import { CategoryPage } from "./components/category/CategoryPage";
 import Cart from "./components/cart/Cart";
 
 const RouteSwitch = () => {
+  const [header, setHeader] = useState("header-default");
+
   const [cart, setCart] = useState(() => {
     if (JSON.parse(localStorage.getItem("cart") !== null)) {
       return JSON.parse(localStorage.getItem("cart"));
@@ -26,9 +28,19 @@ const RouteSwitch = () => {
     localStorage.setItem("wishlist", JSON.stringify(favorites));
   }, [cart, favorites]);
 
+  useEffect(() => {
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 150) {
+        setHeader("header-scrolled");
+      } else {
+        setHeader("header-default");
+      }
+    });
+  }, [header]);
+
   return (
     <BrowserRouter>
-      <Header cart={cart} favorites={favorites} />
+      <Header cart={cart} favorites={favorites} headerClass={header} />
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route

@@ -1,6 +1,4 @@
 header {
-  background-color: $dark-color;
-  color: $white-font;
   padding: 0px 50px;
   height: $header-heigth;
   display: flex;
@@ -51,5 +49,27 @@ header {
         font-size: 0.8rem;
       }
     }
+  }
+}
+
+.header-default{
+  background-color: $dark-color;
+
+  a{
+    color: $white-font;
+  }
+}
+
+.header-scrolled{
+  position: sticky;
+  top: 5px;
+  z-index: 1;
+  background-color: $photo-background-color;
+  margin: 5px;
+  border: 1px solid $dark-color;
+  border-radius: 4px;
+
+  a{
+    color: $dark-color;
   }
 }

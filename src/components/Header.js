@@ -2,11 +2,11 @@ import { Link } from "react-router-dom";
 import { MdFavoriteBorder, MdOutlineShoppingBag } from "react-icons/md";
 
 const Header = (props) => {
-  const { cart, favorites } = props;
+  const { cart, favorites, headerClass } = props;
   return (
-    <header>
+    <header className={headerClass}>
       <div className="left-side">
-        <Link to="/" className="remove-link-style white-font">
+        <Link to="/" className="remove-link-style">
           <span className="header-title">MEN CLOTHING</span>
         </Link>
         <span className="header-left-divider">|</span>
@@ -36,7 +36,7 @@ const Header = (props) => {
 const HeaderLink = (props) => {
   const { title = "", link, icon, object } = props;
   return (
-    <Link to={`${link}`} className="remove-link-style white-font">
+    <Link to={`${link}`} className="remove-link-style">
       {title !== "" ? (
         <span>{title}</span>
       ) : (

@@ -6,6 +6,11 @@
   justify-content: flex-end;
   position: relative;
 
+  .cover-photo{
+    width: 100%;
+    min-height: 500px;
+  }
+
   .cover-texts{
     position: absolute;
     left: 5%;
