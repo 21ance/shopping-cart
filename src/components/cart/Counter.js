@@ -4,7 +4,8 @@ const Counter = (props) => {
   function handleIncrease() {
     setCart(
       cart.map((item) => {
-        if (item.id === id && quantity < 10) {
+        console.log(item);
+        if (item.id + item.size === id && quantity < 10) {
           return { ...item, quantity: quantity + 1 };
         } else {
           return item;
@@ -16,7 +17,7 @@ const Counter = (props) => {
   function handleDecrease() {
     setCart(
       cart.map((item) => {
-        if (item.id === id && quantity > 1) {
+        if (item.id + item.size === id && quantity > 1) {
           return { ...item, quantity: quantity - 1 };
         } else {
           return item;

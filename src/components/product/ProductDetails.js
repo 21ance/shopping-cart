@@ -54,7 +54,14 @@ const ProductDetails = (props) => {
         ];
       } else {
         return prev.map((prod) => {
-          return { ...prod, quantity: prod.quantity + 1 };
+          if (prod.id + prod.size === item[0].code + size) {
+            return {
+              ...prod,
+              quantity: prod.quantity < 10 ? prod.quantity + 1 : 10,
+            };
+          } else {
+            return prod;
+          }
         });
       }
     });

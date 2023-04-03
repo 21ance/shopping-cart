@@ -7,7 +7,7 @@ const Cart = (props) => {
 
   function handleRemove(id, size) {
     setCart((prev) => {
-      return prev.filter((i) => i.size !== size && i.id !== id);
+      return prev.filter((item) => item.id + item.size !== id + size);
     });
   }
 
@@ -16,7 +16,7 @@ const Cart = (props) => {
     return cart
       .map((item) => item.price * item.quantity)
       .reduce((prev, next) => prev + next)
-      .toFixed(2);
+      .toLocaleString("en-US", { style: "currency", currency: "USD" });
   }
 
   return (
@@ -49,12 +49,17 @@ const Cart = (props) => {
                   quantity={item.quantity}
                   cart={cart}
                   setCart={setCart}
-                  id={item.id}
+                  id={item.id + item.size}
                 />
               </div>
               <div>
                 <span>Total</span>
-                <span>${(item.price * item.quantity).toFixed(2)}</span>
+                <span>
+                  {(item.price * item.quantity).toLocaleString("en-US", {
+                    style: "currency",
+                    currency: "USD",
+                  })}
+                </span>
               </div>
               <div className="item-actions">
                 <span
@@ -82,7 +87,7 @@ const Cart = (props) => {
         <CheckoutDetails title="Discount" details="$0" />
         <CheckoutDetails
           title="Estimated Total"
-          details={"$" + computeTotal()}
+          details={computeTotal()}
           extraClass="total"
         />
         <button className="button-checkout">
