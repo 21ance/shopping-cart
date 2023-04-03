@@ -39,25 +39,6 @@
       font-size: 1.2rem;
     }
 
-    .quantity {
-      display: grid;
-      grid-template-columns: 15px 30px 15px;
-
-      .quantity-title{
-        grid-column: 1 / -1;
-      }
-
-      .quantity-decrease, .quantity-increase {
-        place-self: center;
-        cursor: pointer;
-      }
-
-      .quantity-value {
-        width: 25px;
-        place-self: center;
-      }
-    }
-
     select {
       cursor: pointer;
       padding: 10px 5px;

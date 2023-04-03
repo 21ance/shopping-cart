@@ -1,25 +1,60 @@
 const Counter = (props) => {
-  const { isTitle, quantity, setQuantity } = props;
+  const { quantity, cart, setCart, id } = props;
+
+  function handleIncrease() {
+    setCart(
+      cart.map((item) => {
+        if (item.id === id && quantity < 10) {
+          return { ...item, quantity: quantity + 1 };
+        } else {
+          return item;
+        }
+      })
+    );
+  }
+
+  function handleDecrease() {
+    setCart(
+      cart.map((item) => {
+        if (item.id === id && quantity > 1) {
+          return { ...item, quantity: quantity - 1 };
+        } else {
+          return item;
+        }
+      })
+    );
+  }
+
   return (
     <div className="quantity">
-      {isTitle && <span className="quantity-title">Quantity:</span>}
-      <span
-        className="quantity-decrease"
-        onClick={() => setQuantity((prev) => (prev === 0 ? 0 : prev - 1))}
-      >
-        -
-      </span>
-      <input
-        className="quantity-value"
-        value={quantity}
-        onChange={(e) => setQuantity(e.target.value < 10 ? e.target.value : 10)}
-      />
-      <span
-        className="quantity-increase"
-        onClick={() => setQuantity((prev) => (prev < 10 ? prev + 1 : 10))}
-      >
-        +
-      </span>
+      {quantity <= 1 ? (
+        <button
+          className="quantity-decrease"
+          disabled
+          onClick={() => handleDecrease()}
+        >
+          -
+        </button>
+      ) : (
+        <button className="quantity-decrease" onClick={() => handleDecrease()}>
+          -
+        </button>
+      )}
+      <span className="quantity-value">{quantity}</span>
+
+      {quantity >= 10 ? (
+        <button
+          className="quantity-increase"
+          disabled
+          onClick={() => handleIncrease()}
+        >
+          +
+        </button>
+      ) : (
+        <button className="quantity-increase" onClick={() => handleIncrease()}>
+          +
+        </button>
+      )}
     </div>
   );
 };

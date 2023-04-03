@@ -4,12 +4,8 @@ import ProductImageSlider from "./ProductImageSlider";
 import ExtraDetails from "./ExtraDetails";
 import { MdFavoriteBorder, MdFavorite, MdShoppingBag } from "react-icons/md";
 import db from "../../data/db";
-// import Counter from "../Counter";
 
 const ProductDetails = (props) => {
-  // for counter, commnet out for now
-  // const [quantity, setQuantity] = useState(0);
-
   const { category, itemCode } = useParams();
   const item = db[category].results.filter((obj) => {
     return obj.code === itemCode;
@@ -42,9 +38,10 @@ const ProductDetails = (props) => {
       ...prev,
       {
         id: item[0].code,
-        product: item[0].name,
+        name: item[0].name,
         price: item[0].price.value,
         size: size,
+        image: item[0].images[0].baseUrl,
         quantity: 1,
       },
     ]);
@@ -111,7 +108,6 @@ const ProductDetails = (props) => {
             })}
         </select>
         {message !== "" && <p className="error-message">{message}</p>}
-        {/* <Counter isTitle={true} quantity={quantity} setQuantity={setQuantity} /> */}
         <button className="button-add-bag" onClick={handleAddToBag}>
           <MdShoppingBag /> Add to bag
         </button>
