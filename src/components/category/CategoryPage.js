@@ -15,6 +15,7 @@ const CategoryPage = () => {
   const mainRef = useRef();
 
   useEffect(() => {
+    window.scrollTo(0, 0);
     mainRef.current.scrollTo(0, 0);
   }, [categoryType]);
 

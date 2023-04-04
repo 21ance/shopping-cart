@@ -53,7 +53,7 @@
 
         button:hover{
           background-color: $dark-color;
-          color: $white-font;
+          color: $white-color;
           transition: 0.5s;
         }
 
@@ -111,7 +111,7 @@
 
       button {
         background-color: $dark-color;
-        color: $white-font;
+        color: $white-color;
         border: none;
         min-width: 100px;
       }
@@ -160,7 +160,7 @@
 
     .cart-page {
       grid-template-columns: 1fr;
-      background-color: $white-font;
+      background-color: $white-color;
     
       .page-title{
         font-size: 2rem;

@@ -79,19 +79,28 @@
       .product-display {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
         row-gap: 5px;
+        overflow: visible;
     
         .page-title{
           grid-column: 1 / -1;
-          font-size: 2rem;
+          font-size: 1.5rem;
           text-transform: uppercase;
           padding-top: 0px;
+          color: $dark-blue;
+          position: sticky;
+          top: 0px;
+          background-color: $white-color;
+          padding: 10px 5px;
+          margin: 0 -10px;
+          border-radius: 0 0 4px 4px;
         }
     
         .product-preview {
           img {
             min-height: 100px;
             background-color: $photo-background-color;
-            border: 1px solid $dark-color;
+            border: 1px solid $gold-color;
+            border-radius: 4px;
           }
         }
       }

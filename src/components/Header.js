@@ -1,8 +1,10 @@
 import { Link } from "react-router-dom";
-import { MdFavoriteBorder, MdOutlineShoppingBag } from "react-icons/md";
+// import { MdFavoriteBorder } from "react-icons/md";
+import { MdOutlineShoppingBag } from "react-icons/md";
 
 const Header = (props) => {
-  const { cart, favorites, headerClass } = props;
+  const { cart, headerClass } = props;
+  // const { cart, favorites, headerClass } = props;
   return (
     <header className={headerClass}>
       <div className="left-side">
@@ -18,11 +20,11 @@ const Header = (props) => {
         </nav>
       </div>
       <div className="right-side">
-        <HeaderLink
+        {/* <HeaderLink
           link={`/cart`}
           icon={<MdFavoriteBorder />}
           object={favorites}
-        />
+        /> */}
         <HeaderLink
           link={`/cart`}
           icon={<MdOutlineShoppingBag />}

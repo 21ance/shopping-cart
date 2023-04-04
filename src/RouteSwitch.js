@@ -5,6 +5,7 @@ import HomePage from "./components/homepage/HomePage";
 import ProductDetails from "./components/product/ProductDetails";
 import { CategoryPage } from "./components/category/CategoryPage";
 import Cart from "./components/cart/Cart";
+import MobileNav from "./components/mobile/MobileNav";
 
 const RouteSwitch = () => {
   const [header, setHeader] = useState("header-default");
@@ -56,6 +57,7 @@ const RouteSwitch = () => {
         <Route path="/categories/:categoryType" element={<CategoryPage />} />
         <Route path="/cart" element={<Cart cart={cart} setCart={setCart} />} />
       </Routes>
+      <MobileNav cart={cart} />
     </BrowserRouter>
   );
 };
