@@ -37,3 +37,31 @@
     bottom: 5%;
   }
 }
+
+
+@media only screen and (max-width: 500px) {
+  body {
+    .section-cover{
+      .cover-photo{
+        width: 100%;
+        min-height: 300px;
+        object-fit: none;
+        
+      }
+    
+      .cover-texts{
+        .subtext{
+          font-size: 1rem;
+        }
+    
+        h1 {
+          font-size: 2rem;
+        }
+      }
+    
+      button {
+        border: 3px solid $white-font;
+      }
+    }
+  }
+}

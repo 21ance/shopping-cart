@@ -9,5 +9,45 @@
     justify-content: center;
     gap: 50px;
     flex-wrap: wrap;
+
+    .product-preview {
+      width: 240px;
+    
+      img{
+        border-radius: 4px;
+        width: inherit;
+        min-height: 350px;
+      }
+    }
+  }
+
+  .button-show-more {
+    margin-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .section-popular-products {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    .popular-products{
+      padding: 0px;
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+
+      .product-preview {
+        width: 160px;
+      
+        img{
+          border-radius: 4px;
+          width: inherit;
+          min-height: 200px;
+        }
+      }
+    }
   }
 }

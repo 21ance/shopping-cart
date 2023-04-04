@@ -3,7 +3,6 @@
   flex-direction: column;
   align-items: center;
 
-
   .categories-container {
     padding: 0 50px;
     display: flex;
@@ -56,6 +55,27 @@
 
       h3:before, h3:after {
         border:2px solid $white-font;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  body {
+    .section-top-categories {
+      .categories-container {
+        padding: 0px;
+        gap: 10px;
+    
+        .category {
+          height: 220px;
+          width: 160px;
+    
+          h3 {
+            font-family: 'Roboto Condensed', sans-serif;
+            font-size: 2rem;
+          }
+        }
       }
     }
   }

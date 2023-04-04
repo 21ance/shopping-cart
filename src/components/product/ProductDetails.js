@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useLocation, useParams } from "react-router-dom";
 import ProductImageSlider from "./ProductImageSlider";
 import ExtraDetails from "./ExtraDetails";
@@ -20,6 +20,10 @@ const ProductDetails = (props) => {
       ? true
       : false;
   });
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   function handleMouseOver(e) {
     setMainImage(e.target.src);
