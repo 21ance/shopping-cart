@@ -9,14 +9,15 @@
 h2{
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 3.5rem;
-  padding: 50px;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
-h2:after {
+h2::after {
   content:' ';
   display:block;
-  border:3px solid $dark-blue;
-  width: 75%;
+  border:3px solid $gold-color;
+  width: 60%;
   text-align: center;
 }
 
@@ -27,6 +28,7 @@ h2:after {
   background-color: transparent;
   color: $dark-color;
   font-weight: bold;
+  margin-top: 20px;
 }
 
 .remove-link-style{
@@ -59,6 +61,8 @@ input::-webkit-inner-spin-button {
 
 @media only screen and (max-width: 500px) {
   body {
+    margin-bottom: 60px;
+
     h2{
       font-size: 2rem;
       padding: 20px;
@@ -69,7 +73,7 @@ input::-webkit-inner-spin-button {
     }
     
     h2:after {
-      border: 2px solid $dark-blue;
+      border: 2px solid $gold-color;
     }
 
     .button-show-more {
