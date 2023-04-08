@@ -21,14 +21,24 @@ h2::after {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 .button-show-more {
-  padding: 15px 0px;
-  width: 220px;
+  padding: 15px 50px;
   border: 5px solid $dark-color;
   background-color: transparent;
   color: $dark-color;
   font-weight: bold;
   margin-top: 20px;
+  display: inline-block;
+}
+
+.button-show-more:hover{
+  color: $gold-color;
+  border: 5px solid $gold-color;
+  transition: 0.5s;
 }
 
 .remove-link-style{

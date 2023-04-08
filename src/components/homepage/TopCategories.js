@@ -3,25 +3,27 @@ import Casual from "../../images/categories/casual.jpg";
 import Hoodie from "../../images/categories/hoodie.avif";
 import Jeans from "../../images/categories/jeans.avif";
 import Shorts from "../../images/categories/shorts.avif";
+import ShowMore from "./ShowMore";
 
 const TopCategories = () => {
   return (
     <section className="section-top-categories">
       <h2>TOP CATEGORIES</h2>
       <div className="categories-container">
-        <Link to={`/categories/casual`} className="remove-link-style">
+        <Link to={`/casual`} className="remove-link-style">
           <Category title="Casual" backgroundImage={Casual} />
         </Link>
-        <Link to={`/categories/hoodies`} className="remove-link-style">
+        <Link to={`/hoodies`} className="remove-link-style">
           <Category title="Hoodies" backgroundImage={Hoodie} />
         </Link>
-        <Link to={`/categories/tapered`} className="remove-link-style">
+        <Link to={`/tapered`} className="remove-link-style">
           <Category title="Jeans" backgroundImage={Jeans} />
         </Link>
-        <Link to={`/categories/shorts`} className="remove-link-style">
+        <Link to={`/shorts`} className="remove-link-style">
           <Category title="Shorts" backgroundImage={Shorts} />
         </Link>
       </div>
+      <ShowMore link="casual" />
     </section>
   );
 };

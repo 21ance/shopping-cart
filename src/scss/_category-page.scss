@@ -33,6 +33,11 @@
         color: $dark-color;
         padding-left: 10px;
       }
+
+      .category-link:hover {
+        transition: 0.5s;
+        color: $gold-color;
+      }
     }
   }
   

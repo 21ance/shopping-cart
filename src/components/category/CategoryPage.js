@@ -23,7 +23,7 @@ const CategoryPage = () => {
     <div className="category-container">
       <aside className="category-list">
         <NavLink
-          to={`/categories/new_arrival`}
+          to={`/new_arrival`}
           className={({ isActive }) =>
             (isActive ? "link-active" : "link") + " solo-link remove-link-style"
           }
@@ -71,7 +71,7 @@ const CategoryLink = (props) => {
 
   return (
     <NavLink
-      to={`/categories/${categoryName.toLowerCase()}`}
+      to={`/${categoryName.toLowerCase()}`}
       className={({ isActive }) =>
         (isActive ? "link-active" : "link") + " category-link remove-link-style"
       }

@@ -46,15 +46,8 @@
     }
 
     .category:hover {
-      align-items: end;
-
       h3 {
-        // color: $gold-color;
         display: none;
-      }
-
-      h3:before, h3:after {
-        border:2px solid $white-color;
       }
     }
   }

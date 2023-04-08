@@ -61,6 +61,7 @@ header {
 }
 
 .header-scrolled{
+  transition: 0.5s;
   position: sticky;
   top: 5px;
   z-index: 1;

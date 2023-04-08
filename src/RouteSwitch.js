@@ -45,7 +45,7 @@ const RouteSwitch = () => {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route
-          path="categories/:category/:itemCode"
+          path="/:category/:itemCode"
           element={
             <ProductDetails
               setCart={setCart}
@@ -54,7 +54,7 @@ const RouteSwitch = () => {
             />
           }
         />
-        <Route path="/categories/:categoryType" element={<CategoryPage />} />
+        <Route path="/:categoryType" element={<CategoryPage />} />
         <Route path="/cart" element={<Cart cart={cart} setCart={setCart} />} />
       </Routes>
       <MobileNav cart={cart} />

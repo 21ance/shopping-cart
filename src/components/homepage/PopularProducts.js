@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import ProductPreview from "../product/ProductPreview";
+import ShowMore from "./ShowMore";
 import db from "../../data/db";
 
 const fourItems = db.new_arrival.results.slice(0, 4);
@@ -12,7 +13,7 @@ const PopularProducts = () => {
           return (
             <Link
               key={item.code}
-              to={`/categories/new_arrival/${item.code}`}
+              to={`/new_arrival/${item.code}`}
               className="remove-link-style dark-font"
             >
               <ProductPreview
@@ -25,7 +26,7 @@ const PopularProducts = () => {
           );
         })}
       </div>
-      <button className="button-show-more">SHOW MORE</button>
+      <ShowMore link="new_arrival" />
     </section>
   );
 };
