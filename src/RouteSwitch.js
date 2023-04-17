@@ -31,7 +31,7 @@ const RouteSwitch = () => {
 
   useEffect(() => {
     window.addEventListener("scroll", () => {
-      if (window.scrollY > 150) {
+      if (window.scrollY > 50) {
         setHeader("header-scrolled");
       } else {
         setHeader("header-default");
