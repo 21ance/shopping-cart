@@ -13,7 +13,7 @@ const Header = (props) => {
         </Link>
         <span className="header-left-divider">|</span>
         <nav className="header-nav">
-          <HeaderLink title="NEW ARRIVAL" link="/new_arrival" />
+          {/* <HeaderLink title="NEW ARRIVAL" link="/new_arrival" /> */}
           <HeaderLink title="TOPS" link="/casual" />
           <HeaderLink title="PANTS" link="/linen" />
           <HeaderLink title="SHOES" link="/sneakers" />

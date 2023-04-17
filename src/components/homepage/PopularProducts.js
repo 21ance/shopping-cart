@@ -3,7 +3,7 @@ import ProductPreview from "../product/ProductPreview";
 import ShowMore from "./ShowMore";
 import db from "../../data/db";
 
-const fourItems = db.new_arrival.results.slice(0, 4);
+const fourItems = db.shortsleeve.results.slice(0, 4);
 const PopularProducts = () => {
   return (
     <section className="section-popular-products">
@@ -13,7 +13,7 @@ const PopularProducts = () => {
           return (
             <Link
               key={item.code}
-              to={`/new_arrival/${item.code}`}
+              to={`/shortsleeve/${item.code}`}
               className="remove-link-style dark-font"
             >
               <ProductPreview
@@ -26,7 +26,7 @@ const PopularProducts = () => {
           );
         })}
       </div>
-      <ShowMore link="new_arrival" />
+      <ShowMore link="shortsleeve" />
     </section>
   );
 };

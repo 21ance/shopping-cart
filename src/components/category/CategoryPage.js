@@ -5,7 +5,9 @@ import Trousers from "./pants/Trousers";
 import Jeans from "./pants/Jeans";
 import Shoes from "./shoes/Shoes";
 import ProductPreview from "../product/ProductPreview";
-import { useEffect, useRef } from "react";
+import MobileCategoryList from "../mobile/category/MobileCategoryList";
+import CategoryToggle from "../mobile/category/CategoryToggle";
+import { useEffect, useRef, useState } from "react";
 import db from "../../data/db";
 
 const CategoryPage = () => {
@@ -13,6 +15,11 @@ const CategoryPage = () => {
   const location = useLocation();
   const data = db[categoryType].results;
   const mainRef = useRef();
+  const [toggleStatus, setToggleStatus] = useState(true);
+
+  function handleToggle() {
+    setToggleStatus(!toggleStatus);
+  }
 
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -22,14 +29,6 @@ const CategoryPage = () => {
   return (
     <div className="category-container">
       <aside className="category-list">
-        <NavLink
-          to={`/new_arrival`}
-          className={({ isActive }) =>
-            (isActive ? "link-active" : "link") + " solo-link remove-link-style"
-          }
-        >
-          <CategoryTitle title="New Arrival" />
-        </NavLink>
         <Shirts />
         <Hoodies />
         <Trousers />
@@ -37,7 +36,14 @@ const CategoryPage = () => {
         <Shoes />
       </aside>
       <main className="product-display" ref={mainRef}>
-        <h1 className="page-title">{categoryType}</h1>
+        <div className="page-title">
+          <h1>{categoryType}</h1>
+          <CategoryToggle
+            toggleStatus={toggleStatus}
+            handleClick={handleToggle}
+          />
+        </div>
+        <MobileCategoryList toggleStatus={toggleStatus} />
         {data.map((item) => {
           return (
             <Link
@@ -73,7 +79,7 @@ const CategoryLink = (props) => {
     <NavLink
       to={`/${categoryName.toLowerCase()}`}
       className={({ isActive }) =>
-        (isActive ? "link-active" : "link") + " category-link remove-link-style"
+        (isActive ? "link-active" : "") + " category-link remove-link-style"
       }
     >
       <span>{categoryName}</span>

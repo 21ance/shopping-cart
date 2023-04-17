@@ -31,7 +31,7 @@ const Cart = (props) => {
         )}
         {cart.map((item) => {
           return (
-            <article className="cart-item">
+            <article className="cart-item" key={item.name + item.size}>
               <Link to={item.url} className="remove-link-style">
                 <img src={item.image} alt={item.name} />
               </Link>
