@@ -23,7 +23,7 @@ const Cart = (props) => {
     <main className="cart-page">
       <div className="page-title">
         <MdOutlineShoppingBag />
-        <h1>My Cart</h1>
+        <h1>My Bag</h1>
       </div>
       <section className="cart-items">
         {cart.length === 0 && (

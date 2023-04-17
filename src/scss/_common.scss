@@ -61,6 +61,10 @@ h3 {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+.hidden {
+  display: none !important;
+}
+
 /* Chrome, Safari, Edge, Opera */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {

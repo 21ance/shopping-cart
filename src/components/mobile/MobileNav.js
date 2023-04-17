@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import { MdHome, MdShoppingCart } from "react-icons/md";
+import { MdHome, MdOutlineShoppingBag } from "react-icons/md";
 import { GiClothes } from "react-icons/gi";
 
 const MobileNav = (props) => {
@@ -10,8 +10,8 @@ const MobileNav = (props) => {
       <BottomLink link="/casual" icon={<GiClothes />} text="Shop" />
       <BottomLink
         link="/cart"
-        icon={<MdShoppingCart />}
-        text="Cart"
+        icon={<MdOutlineShoppingBag />}
+        text="Bag"
         subtext={cart.length}
       />
     </nav>

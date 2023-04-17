@@ -3,6 +3,7 @@ import { useLocation, useParams } from "react-router-dom";
 import ProductImageSlider from "./ProductImageSlider";
 import ExtraDetails from "./ExtraDetails";
 import { MdFavoriteBorder, MdFavorite, MdShoppingBag } from "react-icons/md";
+import AddedToCart from "../popup/AddedToCart";
 import db from "../../data/db";
 
 const ProductDetails = (props) => {
@@ -15,6 +16,7 @@ const ProductDetails = (props) => {
   const { setCart, favorites, setFavorites } = props;
   const [size, setSize] = useState("Select Size");
   const [message, setMessage] = useState("");
+  const [notifStatus, setNotifStatus] = useState(false);
   const [isFavorite, setIsFavorite] = useState(() => {
     return favorites.filter((e) => e.id === item[0].code).length !== 0
       ? true
@@ -39,6 +41,7 @@ const ProductDetails = (props) => {
       return;
     }
 
+    setNotifStatus(true);
     setCart((prev) => {
       if (
         prev.length === 0 ||
@@ -137,6 +140,12 @@ const ProductDetails = (props) => {
         </button>
         <ExtraDetails />
       </aside>
+      <AddedToCart
+        name={item[0].name}
+        size={size}
+        notifStatus={notifStatus}
+        setNotifStatus={setNotifStatus}
+      />
     </main>
   );
 };
