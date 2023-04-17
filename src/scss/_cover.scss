@@ -57,16 +57,20 @@
       }
     
       .cover-texts{
+        bottom: 27%;
+
         .subtext{
-          font-size: 1rem;
+          font-size: 1.5rem;
         }
     
         h1 {
-          font-size: 2rem;
+          font-size: 2.5rem;
         }
       }
     
-      button {
+      .button-show-more {
+        bottom: 8%;
+        width: 180px;
         border: 3px solid $white-color;
       }
     }

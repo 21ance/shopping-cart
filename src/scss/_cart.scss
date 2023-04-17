@@ -179,7 +179,7 @@
         }
     
         .cart-item {
-          grid-template-columns: 100px 110px repeat(2, auto);
+          grid-template-columns: 75px 110px repeat(2, auto);
 
           div:nth-child(5){
             display: none;
@@ -192,6 +192,14 @@
           .item-actions {
             justify-self: start;
             font-size: 0.8rem;
+          }
+
+          a{
+            grid-row: 1 / 3;
+          
+            img {
+              width: 75px;
+            }
           }
         }
       }

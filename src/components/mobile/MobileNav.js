@@ -7,7 +7,7 @@ const MobileNav = (props) => {
   return (
     <nav className="bottom-nav">
       <BottomLink link="/" icon={<MdHome />} text="Home" />
-      <BottomLink link="/categories" icon={<GiClothes />} text="Categories" />
+      <BottomLink link="/new_arrival" icon={<GiClothes />} text="Shop" />
       <BottomLink
         link="/cart"
         icon={<MdShoppingCart />}
