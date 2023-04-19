@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/shopping-cart/static/css/main.fdf945e1.css",
-    "main.js": "/shopping-cart/static/js/main.8c57d557.js",
-    "static/media/cover.png": "/shopping-cart/static/media/cover.fe799441d8910a1ff83d.png",
-    "static/media/boots.jpg": "/shopping-cart/static/media/boots.fec40c96d971b5a9dd7f.jpg",
-    "static/media/hoodie.avif": "/shopping-cart/static/media/hoodie.e899bbbf306ebcc70dd4.avif",
-    "static/media/jeans.avif": "/shopping-cart/static/media/jeans.525229849805d59669b2.avif",
-    "static/media/casual.jpg": "/shopping-cart/static/media/casual.a508ec33632f741b1ab9.jpg",
-    "index.html": "/shopping-cart/index.html",
-    "main.fdf945e1.css.map": "/shopping-cart/static/css/main.fdf945e1.css.map",
-    "main.8c57d557.js.map": "/shopping-cart/static/js/main.8c57d557.js.map"
+    "main.css": "/static/css/main.fdf945e1.css",
+    "main.js": "/static/js/main.1edb0885.js",
+    "static/media/cover.png": "/static/media/cover.fe799441d8910a1ff83d.png",
+    "static/media/boots.jpg": "/static/media/boots.fec40c96d971b5a9dd7f.jpg",
+    "static/media/hoodie.avif": "/static/media/hoodie.e899bbbf306ebcc70dd4.avif",
+    "static/media/jeans.avif": "/static/media/jeans.525229849805d59669b2.avif",
+    "static/media/casual.jpg": "/static/media/casual.a508ec33632f741b1ab9.jpg",
+    "index.html": "/index.html",
+    "main.fdf945e1.css.map": "/static/css/main.fdf945e1.css.map",
+    "main.1edb0885.js.map": "/static/js/main.1edb0885.js.map"
   },
   "entrypoints": [
     "static/css/main.fdf945e1.css",
-    "static/js/main.8c57d557.js"
+    "static/js/main.1edb0885.js"
   ]
 }
