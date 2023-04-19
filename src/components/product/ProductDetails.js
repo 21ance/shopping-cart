@@ -140,12 +140,7 @@ const ProductDetails = (props) => {
         </button>
         <ExtraDetails />
       </aside>
-      <AddedToCart
-        name={item[0].name}
-        size={size}
-        notifStatus={notifStatus}
-        setNotifStatus={setNotifStatus}
-      />
+      <AddedToCart notifStatus={notifStatus} setNotifStatus={setNotifStatus} />
     </main>
   );
 };

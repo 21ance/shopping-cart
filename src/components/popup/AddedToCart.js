@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { Link } from "react-router-dom";
 
 const AddedToCart = (props) => {
-  const { name, size, notifStatus, setNotifStatus } = props;
+  const { notifStatus, setNotifStatus } = props;
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -21,9 +21,6 @@ const AddedToCart = (props) => {
         }
       >
         <span>Successfully added to bag</span>
-        <span>
-          {size}, {name}
-        </span>
       </div>
     </Link>
   );

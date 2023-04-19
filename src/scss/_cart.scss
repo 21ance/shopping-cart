@@ -155,7 +155,46 @@
   }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1279px) {
+  body {
+    .cart-page {
+      column-gap: 30px;
+      grid-template-columns: auto 350px;
+    
+      .cart-items {
+        .cart-item {
+          grid-template-columns: 80px 150px repeat(3, 80px);
+
+          a{
+            grid-row: 1 / 3;
+            img {
+              width: 80px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 920px) {
+  body {
+    .cart-page {
+      margin: 0 10px;
+      column-gap: 10px;
+      grid-template-columns: auto 350px;
+    
+      .cart-items {
+        .cart-item {
+          grid-template-columns: 80px repeat(4, auto);
+        }
+      }
+    }
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
   body {
     background-color: $photo-background-color;
 

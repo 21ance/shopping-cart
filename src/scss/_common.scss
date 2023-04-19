@@ -72,6 +72,31 @@ input::-webkit-inner-spin-button {
   margin: 0;
 }
 
+@media only screen and (max-width: 768px) {
+  body {
+    h2{
+      font-size: 3rem;
+      padding: 20px;
+    }
+
+    h3 {
+      font-size: 0.9rem;
+    }
+    
+    h2:after {
+      border: 2px solid $gold-color;
+    }
+
+    .button-show-more {
+      padding: 10px 40px;
+      border: 3px solid $dark-color;
+    }
+
+    .button-show-more:hover{
+      border: 3px solid $gold-color;
+    }
+  }
+}
 
 @media only screen and (max-width: 500px) {
   body {

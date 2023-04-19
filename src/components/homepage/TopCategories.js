@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import Casual from "../../images/categories/casual.jpg";
 import Hoodie from "../../images/categories/hoodie.avif";
 import Jeans from "../../images/categories/jeans.avif";
-import Shorts from "../../images/categories/shorts.avif";
+import Boots from "../../images/categories/boots.jpg";
 import ShowMore from "./ShowMore";
 
 const TopCategories = () => {
@@ -19,8 +19,8 @@ const TopCategories = () => {
         <Link to={`/tapered`} className="remove-link-style">
           <Category title="Jeans" backgroundImage={Jeans} />
         </Link>
-        <Link to={`/shorts`} className="remove-link-style">
-          <Category title="Shorts" backgroundImage={Shorts} />
+        <Link to={`/boots`} className="remove-link-style">
+          <Category title="Boots" backgroundImage={Boots} />
         </Link>
       </div>
       <ShowMore link="casual" />

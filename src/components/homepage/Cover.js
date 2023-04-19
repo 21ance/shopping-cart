@@ -9,7 +9,7 @@ const Cover = () => {
         <span className="subtext">New collection</span>
         <h1>NEW STREETWEAR OUTFITS</h1>
       </div>
-      <ShowMore link="new_arrival" />
+      <ShowMore link="casual" />
     </section>
   );
 };

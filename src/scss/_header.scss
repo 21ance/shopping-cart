@@ -13,7 +13,6 @@ header {
     .header-title {
       font-family: 'Catamaran', sans-serif;
       font-size: 2rem;
-      font-weight: 300;
     }
 
     .header-title:hover{
@@ -29,7 +28,6 @@ header {
     .header-nav {
       display: flex;
       align-items: center;
-      list-style: none;
       gap: 30px;
 
       a:hover{
@@ -42,12 +40,18 @@ header {
   .right-side {
     display: flex;
     gap: 10px;
+
     .header-icon {
       font-size: 1.5rem;
 
       .icon-counter{
         font-size: 0.8rem;
       }
+    }
+
+    .header-icon:hover{
+      transition: 0.5s;
+      color: $gold-color;
     }
   }
 }
@@ -72,6 +76,30 @@ header {
 
   a{
     color: $dark-color;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    header {
+      padding: 0px 25px;
+
+      .left-side {
+        gap: 10px;
+    
+        .header-title {
+          font-size: 1.6rem;
+        }
+    
+        .header-left-divider {
+          font-size: 2rem;
+        }
+    
+        .header-nav {
+          gap: 20px;
+        }
+      }
+    }
   }
 }
 
