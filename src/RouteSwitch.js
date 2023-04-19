@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route, HashRouter } from "react-router-dom";
 import Header from "./components/Header";
 import HomePage from "./components/homepage/HomePage";
 import ProductDetails from "./components/product/ProductDetails";
@@ -40,7 +40,7 @@ const RouteSwitch = () => {
   }, [header]);
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Header cart={cart} favorites={favorites} headerClass={header} />
       <Routes>
         <Route path="/" element={<HomePage />} />
@@ -58,7 +58,7 @@ const RouteSwitch = () => {
         <Route path="/cart" element={<Cart cart={cart} setCart={setCart} />} />
       </Routes>
       <MobileNav cart={cart} />
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 export default RouteSwitch;
