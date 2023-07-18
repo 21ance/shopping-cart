@@ -19,9 +19,9 @@ View Live in [Github Pages](https://21ance.github.io/shopping-cart/)
 ---
 
 **Screenshots:**
-Desktop
+Desktop<br>
 ![desktop](https://snipboard.io/gmVXtG.jpg)
 
 ---
-Mobile
+Mobile<br>
 <img src="https://snipboard.io/CmA6V9.jpg" width="400px">
